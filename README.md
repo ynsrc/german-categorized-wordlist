@@ -44,7 +44,7 @@ number ranges to text in German language.
 
 ```
 $ bash tools/gennum.sh -s912330 -e912350  
-Generating 'ordinal' numbers from 912330 to 912350
+Generating 'cardinal' numbers from 912330 to 912350
 912330 = neunhundertzwölftausenddreihundertdreißig
 912331 = neunhundertzwölftausenddreihunderteinunddreißig
 912332 = neunhundertzwölftausenddreihundertzweiunddreißig
