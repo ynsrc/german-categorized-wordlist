@@ -11,7 +11,7 @@
 
 START=0
 END=0
-TYPE="ordinal"
+TYPE="cardinal"
 DECLENSIONS=0
 
 if [ $# -eq 0 ]; then
@@ -19,8 +19,8 @@ if [ $# -eq 0 ]; then
     echo "  -s: start number" 1>&2
     echo "  -e: end number" 1>&2
     echo "Number Types:" 1>&2
-    echo "  -o: ordinal numbers (default)" 1>&2
-    echo "  -c: cardinal numbers" 1>&2
+    echo "  -c: cardinal numbers (default)" 1>&2
+    echo "  -o: ordinal numbers" 1>&2
     echo "Other:" 1>&2
     echo "  -d: with declensions (-r, -n etc.)" 1>&2
     echo "Examples: " 1>&2
@@ -52,7 +52,7 @@ if [ $END -lt $START ]; then
   echo "Setting end value to start value ($START)" 1>&2
 fi
 
-ordinal_number_0_to_19() {
+cardinal_number_0_to_19() {
   case $1 in
     0) echo -n "null" ;;
     1) echo -n "eins" ;;
@@ -77,7 +77,7 @@ ordinal_number_0_to_19() {
   esac
 }
 
-ordinal_number_decade() {
+cardinal_number_decade() {
   case $1 in
   20) echo -n "zwanzig" ;;
   30) echo -n "dreißig" ;;
@@ -90,80 +90,80 @@ ordinal_number_decade() {
   esac
 }
 
-ordinal_number_20_to_99() {
+cardinal_number_20_to_99() {
   decade=$(($1 / 10 * 10))
   ones_digit=$(($1 % 10))
   if [ $ones_digit -eq 1 ]; then
     echo -n "ein"
   elif [ $ones_digit -gt 0 ]; then
-    echo -n $(ordinal_number_0_to_19 $ones_digit)
+    echo -n $(cardinal_number_0_to_19 $ones_digit)
   fi
   if [ $(($1 - $decade)) -gt 0 ]; then
     echo -n "und"
   fi
-  echo $(ordinal_number_decade $decade)
+  echo $(cardinal_number_decade $decade)
 }
 
-ordinal_number_0_to_99() {
+cardinal_number_0_to_99() {
   last2=$(($1 % 100))
   if [ $last2 -lt 20 ]; then
-    echo $(ordinal_number_0_to_19 $last2)
+    echo $(cardinal_number_0_to_19 $last2)
   elif [ $last2 -ge 20 ] && [ $last2 -lt 100 ]; then
-    echo $(ordinal_number_20_to_99 $last2)
+    echo $(cardinal_number_20_to_99 $last2)
   fi
 }
 
-ordinal_number_100_to_999() {
+cardinal_number_100_to_999() {
   hundred_digit=$(($1 / 100))
   last2=$(($1 % 100))
   if [ $hundred_digit -eq 1 ]; then
     echo -n "ein"
   else
-    echo -n $(ordinal_number_0_to_19 $hundred_digit)
+    echo -n $(cardinal_number_0_to_19 $hundred_digit)
   fi
   if [ $hundred_digit -gt 0 ]; then
     echo -n "hundert"
   fi
   if [ $last2 -gt 0 ]; then
-    echo -n $(ordinal_number_0_to_99 $last2)
+    echo -n $(cardinal_number_0_to_99 $last2)
   fi
 }
 
-ordinal_number_0_to_999() {
+cardinal_number_0_to_999() {
   if [ $1 -lt 100 ]; then
-    echo -n $(ordinal_number_0_to_99 $1)
+    echo -n $(cardinal_number_0_to_99 $1)
   elif [ $1 -le 1000 ]; then
-    echo -n $(ordinal_number_100_to_999 $1)
+    echo -n $(cardinal_number_100_to_999 $1)
   fi
 }
 
-ordinal_number_1000_to_999999() {
+cardinal_number_1000_to_999999() {
   tausends=$(($1 / 1000))
   last3=$(($1 % 1000))
   if [ $tausends -eq 1 ]; then
     echo -n "ein"
   else
-    echo -n $(ordinal_number_0_to_999 $tausends)
+    echo -n $(cardinal_number_0_to_999 $tausends)
   fi
   if [ $tausends -gt 0 ]; then
     echo -n "tausend"
   fi
   if [ $last3 -gt 0 ]; then
-    echo -n $(ordinal_number_0_to_999 $last3)
+    echo -n $(cardinal_number_0_to_999 $last3)
   fi
 }
 
-ordinal_number_0_to_999999() {
+cardinal_number_0_to_999999() {
   if [ $1 -lt 100 ]; then
-    echo -n $(ordinal_number_0_to_99 $1)
+    echo -n $(cardinal_number_0_to_99 $1)
   elif [ $1 -lt 1000 ]; then
-    echo -n $(ordinal_number_100_to_999 $1)
+    echo -n $(cardinal_number_100_to_999 $1)
   elif [ $1 -lt 1000000 ]; then
-    echo -n $(ordinal_number_1000_to_999999 $1)
+    echo -n $(cardinal_number_1000_to_999999 $1)
   fi
 }
 
 for ((i=$START; i<=$END; i++)); do
-  echo "$i = $(ordinal_number_0_to_999999 $i)"
+  echo "$i = $(cardinal_number_0_to_999999 $i)"
 done;
 
