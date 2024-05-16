@@ -6,6 +6,7 @@ This first version (v1) generated from [grimm1](https://www.koeblergerhard.de/gr
 
 Planned to expanding wordlist files and improving quality by cleaning mismatches or fixing mistyped words.
 
+
 ## Notes
 * Lines are sorted and unique in each file.
 * Files are categoriez by word types.
@@ -31,9 +32,47 @@ Planned to expanding wordlist files and improving quality by cleaning mismatches
 | Verbs            | [verb.txt](v1/verb.txt)                       |
 
 
+# Using Tools
+Recreational number generator script added now, and other tools may be
+added in tools folder and they may be in any convenient programmin or
+scripting language.
+
+
+## gennum.sh - Example Usage
+You can use [gennum.sh](tools/gennum.sh) script to convert number or
+number ranges to text in German language.
+
+```
+$ bash tools/gennum.sh -s912330 -e912350  
+Generating 'ordinal' numbers from 912330 to 912350
+912330 = neunhundertzwölftausenddreihundertdreißig
+912331 = neunhundertzwölftausenddreihunderteinunddreißig
+912332 = neunhundertzwölftausenddreihundertzweiunddreißig
+912333 = neunhundertzwölftausenddreihundertdreiunddreißig
+912334 = neunhundertzwölftausenddreihundertvierunddreißig
+912335 = neunhundertzwölftausenddreihundertfünfunddreißig
+912336 = neunhundertzwölftausenddreihundertsechsunddreißig
+912337 = neunhundertzwölftausenddreihundertsiebenunddreißig
+912338 = neunhundertzwölftausenddreihundertachtunddreißig
+912339 = neunhundertzwölftausenddreihundertneununddreißig
+912340 = neunhundertzwölftausenddreihundertvierzig
+912341 = neunhundertzwölftausenddreihunderteinundvierzig
+912342 = neunhundertzwölftausenddreihundertzweiundvierzig
+912343 = neunhundertzwölftausenddreihundertdreiundvierzig
+912344 = neunhundertzwölftausenddreihundertvierundvierzig
+912345 = neunhundertzwölftausenddreihundertfünfundvierzig
+912346 = neunhundertzwölftausenddreihundertsechsundvierzig
+912347 = neunhundertzwölftausenddreihundertsiebenundvierzig
+912348 = neunhundertzwölftausenddreihundertachtundvierzig
+912349 = neunhundertzwölftausenddreihundertneunundvierzig
+912350 = neunhundertzwölftausenddreihundertfünfzig
+```
+
+
 # Attributions
 * https://www.koeblergerhard.de
 * https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4
+
 
 # License
 CC BY 4.0 LEGAL CODE

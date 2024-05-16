@@ -2,7 +2,7 @@
 
 # Generate Numbers as Text in German Language
 
-# NOTE: This is a funny and heavy way to converting numbers
+# NOTE: This is a recreational and heavy way to converting numbers
 # to text with bash scripting. Another programming languages
 # can be more too much faster than this!
 
