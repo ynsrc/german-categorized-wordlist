@@ -12,7 +12,6 @@
 START=0
 END=0
 TYPE="cardinal"
-DECLENSIONS=0
 
 if [ $# -eq 0 ]; then
     echo "Usage: $0 [-s][-e][-o|c][-d]" 1>&2
@@ -21,20 +20,17 @@ if [ $# -eq 0 ]; then
     echo "Number Types:" 1>&2
     echo "  -c: cardinal numbers (default)" 1>&2
     echo "  -o: ordinal numbers" 1>&2
-    echo "Other:" 1>&2
-    echo "  -d: with declensions (-r, -n etc.)" 1>&2
     echo "Examples: " 1>&2
     echo " $0 -s0 -e1000" 1>&2
     exit 1
 fi
 
-while getopts "s:e:cod" opt; do
+while getopts "s:e:co" opt; do
   case ${opt} in
   s) START=${OPTARG} ;;
   e) END=${OPTARG} ;;
   c) TYPE="cardinal" ;;
   o) TYPE="ordinal" ;;
-  d) DECLENSIONS=1 ;;
   ?)
     echo "Error: illegal argument -${OPTARG}" 1>&2
     exit 1
@@ -42,9 +38,7 @@ while getopts "s:e:cod" opt; do
   esac
 done
 
-echo -n "Generating '${TYPE}' numbers from ${START} to ${END}" 1>&2
-if [ $DECLENSIONS -eq 1 ]; then echo -n " (with declensions)" 1>&2; fi
-echo 
+echo "Generating '${TYPE}' numbers from ${START} to ${END}" 1>&2
 
 if [ $END -lt $START ]; then
   END=$START
