@@ -2,7 +2,7 @@
 
 This project contains categorized German words in seperated text files with new line delimiter.
 
-This first version (v1) generated from [grimm1.txt](https://www.koeblergerhard.de/grimm1.htm) and [grimm2.txt](https://www.koeblergerhard.de/grimm2.htm) **huge** files. And some words added from Wiktionary pages.
+This first version (v1) generated from [grimm1](https://www.koeblergerhard.de/grimm1.htm) and [grimm2](https://www.koeblergerhard.de/grimm2.htm) **huge** files. And some words added from Wiktionary pages.
 
 Planned to expanding wordlist files and improving quality by cleaning mismatches or fixing mistyped words.
 
