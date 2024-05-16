@@ -42,8 +42,10 @@ scripting language.
 You can use [gennum.sh](tools/gennum.sh) script to convert number or
 number ranges to text in German language.
 
+Cardinal Numbers
+
 ```
-$ bash tools/gennum.sh -s912330 -e912350  
+$ bash tools/gennum.sh -s912330 -e912340
 Generating 'cardinal' numbers from 912330 to 912350
 912330 = neunhundertzwölftausenddreihundertdreißig
 912331 = neunhundertzwölftausenddreihunderteinunddreißig
@@ -56,18 +58,25 @@ Generating 'cardinal' numbers from 912330 to 912350
 912338 = neunhundertzwölftausenddreihundertachtunddreißig
 912339 = neunhundertzwölftausenddreihundertneununddreißig
 912340 = neunhundertzwölftausenddreihundertvierzig
-912341 = neunhundertzwölftausenddreihunderteinundvierzig
-912342 = neunhundertzwölftausenddreihundertzweiundvierzig
-912343 = neunhundertzwölftausenddreihundertdreiundvierzig
-912344 = neunhundertzwölftausenddreihundertvierundvierzig
-912345 = neunhundertzwölftausenddreihundertfünfundvierzig
-912346 = neunhundertzwölftausenddreihundertsechsundvierzig
-912347 = neunhundertzwölftausenddreihundertsiebenundvierzig
-912348 = neunhundertzwölftausenddreihundertachtundvierzig
-912349 = neunhundertzwölftausenddreihundertneunundvierzig
-912350 = neunhundertzwölftausenddreihundertfünfzig
 ```
 
+Ordinal Numbers
+
+```
+$ bash tools/gennum.sh -s912330 -e912340 -o
+Generating 'ordinal' numbers from 912330 to 912340
+912330 = neunhundertzwölftausenddreihundertdreißigste
+912331 = neunhundertzwölftausenddreihunderteinunddreißigste
+912332 = neunhundertzwölftausenddreihundertzweiunddreißigste
+912333 = neunhundertzwölftausenddreihundertdreiunddreißigste
+912334 = neunhundertzwölftausenddreihundertvierunddreißigste
+912335 = neunhundertzwölftausenddreihundertfünfunddreißigste
+912336 = neunhundertzwölftausenddreihundertsechsunddreißigste
+912337 = neunhundertzwölftausenddreihundertsiebenunddreißigste
+912338 = neunhundertzwölftausenddreihundertachtunddreißigste
+912339 = neunhundertzwölftausenddreihundertneununddreißigste
+912340 = neunhundertzwölftausenddreihundertvierzigste
+```
 
 # Attributions
 * https://www.koeblergerhard.de
