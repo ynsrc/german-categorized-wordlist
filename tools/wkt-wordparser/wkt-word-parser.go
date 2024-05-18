@@ -1,7 +1,7 @@
 /*
 ** Wiktionary Text Dump Word Parser
 ** Input must be result of "wk-extract" tool
-** https://github.com/german-categorized-wordlist/tools/wk-extract/wk-extract.py
+** https://github.com/ynsrc/german-categorized-wordlist (tools/wk-extract)
 ** Such as single_output.txt explained in README.md file at repository root.
  */
 

@@ -37,7 +37,9 @@ Planned to expanding wordlist files and improving quality by cleaning mismatches
 # Using Tools
 Tools are located in [tools](tools/) folder in this repository.
 
-## gennum.go (Recommended)
+## gennum.go
+German Number as Text Generator
+
 You can use [gennum.go](tools/gennum/gennum.go) script to convert number or
 number ranges to text in German language.
 
@@ -184,6 +186,8 @@ hundertelftausendzweite
 ```
 
 ## wk-extract.py
+Wiktionary XML Dumped Pages to Single Text File Extractor
+
 This tool extracts xml pages to a single text file to parsing pages line by line.
 
 Note: This tool filters pages by containing text `({{Sprache|Deutsch}})` 
@@ -250,6 +254,14 @@ processes are required such as cleaning, formatting and omitting some sections.
 
 Planned [wkt-word-parser.go](tools/wkt-wordparser/wkt-word-parser.go) script will
 parse words with correct types to adding them into wordlist files.
+
+## wkt-word-parser.go
+Wiktionary Text Dump to Wordlist(s) Parser Tool
+
+Note: This tool is not completed and under development now.
+
+This tool process text dump output of [wk-extract.py](tools/wk-extract/wk-extract.py) 
+and parses words with type informations to generate wordlist output files. 
 
 
 # Attributions
