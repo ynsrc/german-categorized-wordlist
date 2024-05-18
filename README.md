@@ -268,6 +268,7 @@ and parses words with type informations to generate wordlist output files.
 * https://www.koeblergerhard.de
 * https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4
 * https://dumps.wikimedia.org/mirrors.html
+* https://extensions.libreoffice.org/en/extensions/show/german-de-de-frami-dictionaries
 
 
 # License
