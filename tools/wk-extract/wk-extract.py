@@ -43,7 +43,7 @@ with open(args.input, "r", encoding="UTF-8") as xml_file:
                         parent_id = elem_ns.text
                     
                     if tag == "text" and not len(page_title) == 0 and text is not None:
-                        if text.count("({{Sprache|Deutsch}})") > 0 and not page_title.startswith("Wiktionary:"):
+                        if text.count("({{Sprache|Deutsch}})") > 0 and not page_title.count(":") == 0:
                             page_file.write(f"\n\n/*---------- title: {page_title}, id: {page_id}, parent_id: {parent_id} ----------*/\n\n")
                             page_file.write(text)
 
