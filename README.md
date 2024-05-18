@@ -252,16 +252,25 @@ Now, the real problem with Wiktionary pages is page texts are not easy for
 [Parsing](https://en.wiktionary.org/wiki/Wiktionary:Parsing). Some text mining 
 processes are required such as cleaning, formatting and omitting some sections.
 
-Planned [wkt-word-parser.go](tools/wkt-wordparser/wkt-word-parser.go) script will
+With [wkt-word-parser.go](tools/wkt-wordparser/wkt-word-parser.go) script you can
 parse words with correct types to adding them into wordlist files.
+
 
 ## wkt-word-parser.go
 Wiktionary Text Dump to Wordlist(s) Parser Tool
 
-Note: This tool is not completed and under development now.
-
 This tool process text dump output of [wk-extract.py](tools/wk-extract/wk-extract.py) 
 and parses words with type informations to generate wordlist output files. 
+
+Recommended usage
+```
+$ go run tools/wkt-word-parser/wkt-word-parser.go 2>parse_log.txt
+```
+
+If text dump file name is single_output.txt you can omit -i parameter, and default
+-o parameter is parsed_words.csv. You can change file names with this parameters.
+
+Results of this tool is added in [dewiktionary](dewiktionary/) folder.
 
 
 # Attributions
