@@ -240,7 +240,7 @@ In a few minutes single_output.txt will be generated.
 
 (... there are too many lines after this line)
 ```
-</detail>
+</details>
 
 <br/>
 
@@ -248,6 +248,8 @@ Now, the real problem with Wiktionary pages is page texts are not easy for
 [Parsing](https://en.wiktionary.org/wiki/Wiktionary:Parsing). Some text mining 
 processes are required such as cleaning, formatting and omitting some sections.
 
+Planned [wkt-word-parser.go](tools/wkt-wordparser/wkt-word-parser.go) script will
+parse words with correct types to adding them into wordlist files.
 
 
 # Attributions
