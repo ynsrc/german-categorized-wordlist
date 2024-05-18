@@ -190,8 +190,8 @@ Wiktionary XML Dumped Pages to Single Text File Extractor
 
 This tool extracts xml pages to a single text file to parsing pages line by line.
 
-Note: This tool filters pages by containing text `({{Sprache|Deutsch}})` 
-in the `<text>` tag of `<page>`.
+Note: This tool filters pages by containing text `({{Sprache|Deutsch}})` in the 
+`<text>` tag of `<page>` tag and ignores pages that has title starts with `Wiktionary:`.
 
 Downloading pages_articles.xml file from a [mirror](https://dumps.wikimedia.org/mirrors.html);
 
