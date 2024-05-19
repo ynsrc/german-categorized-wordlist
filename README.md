@@ -278,6 +278,7 @@ Results of this tool is added in [dewiktionary](dewiktionary/) folder.
 * https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4
 * https://dumps.wikimedia.org/mirrors.html
 * https://extensions.libreoffice.org/en/extensions/show/german-de-de-frami-dictionaries
+* https://www-user.tu-chemnitz.de/~fri/ding/
 
 
 # License
