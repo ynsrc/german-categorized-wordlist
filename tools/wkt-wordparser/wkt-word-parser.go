@@ -21,7 +21,7 @@ const columnSeperator = "; "
 const wordTypeListSeperator = "+"
 
 var wordTypesPattern = regexp.MustCompile("=== (.*?\\|Deutsch}}.*?) ===")
-var typeListPattern = regexp.MustCompile("[\\{'\\w]{1,2}[^}']+[}'\\w]{1,2}")
+var typeListPattern = regexp.MustCompile("[\\{'\\w]{1,2}[^}{']+[}'\\w]{1,2}")
 
 func parseWordTypes(raw string) []string {
 	var detectedWordTypes []string
@@ -43,6 +43,8 @@ func parseWordTypes(raw string) []string {
 		} else {
 			detectedWordTypes = append(detectedWordTypes, raw)
 		}
+	} else if raw != "" {
+		detectedWordTypes = append(detectedWordTypes, raw)
 	}
 
 	return detectedWordTypes
