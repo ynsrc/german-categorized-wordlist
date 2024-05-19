@@ -18,6 +18,7 @@ import (
 
 const failIfNotParsed = false
 const columnSeperator = "; "
+const wordTypeListSeperator = "+"
 
 var wordTypesPattern = regexp.MustCompile("=== (.*?\\|Deutsch}}.*?) ===")
 var typeListPattern = regexp.MustCompile("[\\{']{2}[^}']+[}']{2}")
@@ -68,7 +69,7 @@ func parseWord(word string, text string) string {
 	}
 
 	if len(detectedWordTypes) > 0 {
-		return word + columnSeperator + s.Join(detectedWordTypes, "+")
+		return word + columnSeperator + s.Join(detectedWordTypes, wordTypeListSeperator)
 	} else if failIfNotParsed {
 		panic("No word type found for: " + word)
 	} else {
