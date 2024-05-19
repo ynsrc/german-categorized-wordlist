@@ -26,7 +26,7 @@ var typeListPattern = regexp.MustCompile("[\\{'\\w]{1,2}[^}{']+[}'\\w]{1,2}")
 func parseWordTypes(raw string) []string {
 	var detectedWordTypes []string
 
-	raw = s.Trim(raw, " \r\r\n")
+	raw = s.Trim(raw, " \t\r\n")
 
 	if s.HasPrefix(raw, "{{Wortart|") {
 		detectedWordTypes = append(detectedWordTypes, s.Split(raw, "|")[1])
