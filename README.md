@@ -38,6 +38,10 @@ Planned to expanding wordlist files and improving quality by cleaning mismatches
 Tools are located in [tools](tools) folder in this repository.
 
 
+# Sources
+Sources are located in [sources](sources) folder in this repository.
+
+
 # Attributions
 * https://www.koeblergerhard.de
 * https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4
