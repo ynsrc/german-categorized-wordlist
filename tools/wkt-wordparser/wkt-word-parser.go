@@ -20,22 +20,31 @@ const failIfNotParsed = false
 const columnSeperator = "; "
 
 var wordTypesPattern = regexp.MustCompile("=== (.*?\\|Deutsch}}.*?) ===")
+var typeListPattern = regexp.MustCompile("[\\{']{2}[^}']+[}']{2}")
 
-func parseWordType(raw string) string {
+func parseWordTypes(raw string) []string {
+	var detectedWordTypes []string
+
 	raw = s.Trim(raw, " \r\r\n")
 
 	if s.HasPrefix(raw, "{{Wortart|") {
-		return s.Split(raw, "|")[1]
+		detectedWordTypes = append(detectedWordTypes, s.Split(raw, "|")[1])
 	} else if s.HasPrefix(raw, "{{") {
 		raw = s.Replace(raw, "{{", "", -1)
 		raw = s.Replace(raw, ".}}", "", -1)
 		raw = s.Replace(raw, "}}", "", -1)
-		return raw
+		detectedWordTypes = append(detectedWordTypes, raw)
 	} else if s.HasPrefix(raw, "''") {
-		return s.Replace(raw, "'", "", -1)
+		raw = s.Replace(raw, "'", "", -1)
+		raw = s.Replace(raw, ";", ",", -1)
+		if s.Contains(raw, ", ") {
+			detectedWordTypes = append(detectedWordTypes, s.Split(raw, ", ")...)
+		} else {
+			detectedWordTypes = append(detectedWordTypes, raw)
+		}
 	}
 
-	return raw
+	return detectedWordTypes
 }
 
 func parseWord(word string, text string) string {
@@ -44,25 +53,16 @@ func parseWord(word string, text string) string {
 	if wordTypesMatches := wordTypesPattern.FindAllStringSubmatch(text, 1); len(wordTypesMatches) > 0 {
 		wordTypes := wordTypesMatches[0][1]
 
-		if s.Contains(wordTypes, ", ") {
-			for _, wordTypeRaw := range s.Split(wordTypes, ", ") {
-				wordType := parseWordType(wordTypeRaw)
-				if wordType != "" {
-					detectedWordTypes = append(detectedWordTypes, wordType)
+		if typeListMatches := typeListPattern.FindAllStringSubmatch(wordTypes, -1); len(typeListMatches) > 0 {
+			for _, wordTypeRaw := range typeListMatches {
+				wordTypes := parseWordTypes(wordTypeRaw[0])
+				if len(wordTypes) > 0 {
+					detectedWordTypes = append(detectedWordTypes, wordTypes...)
 				} else if failIfNotParsed {
-					panic("Undetectable word type: " + wordTypeRaw + " for " + word)
+					panic("Undetectable word type: " + wordTypeRaw[0] + " for: " + word)
 				} else {
-					fmt.Fprintln(os.Stderr, "Undetectable word type: "+wordTypeRaw+" for "+word)
+					fmt.Fprintln(os.Stderr, "Undetectable word type: "+wordTypeRaw[0]+" for: "+word)
 				}
-			}
-		} else {
-			wordType := parseWordType(wordTypes)
-			if wordType != "" {
-				detectedWordTypes = append(detectedWordTypes, wordType)
-			} else if failIfNotParsed {
-				panic("Undetectable word type: " + wordTypes + " for " + word)
-			} else {
-				fmt.Fprintln(os.Stderr, "Undetectable word type: "+wordTypes+" for "+word)
 			}
 		}
 	}
