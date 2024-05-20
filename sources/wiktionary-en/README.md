@@ -122,6 +122,7 @@ You can see a complete list of word types in [all_possible_word_types.txt](all_p
 # Attributions
 * https://en.wiktionary.org
 * https://dumps.wikimedia.org
+* https://en.wiktionary.org/wiki/Category:German_modules
 
 
 # License
