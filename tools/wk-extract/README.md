@@ -5,8 +5,9 @@ Wiktionary XML to Text Dump Converter with Filtering.
 
 This tool extracts xml pages to a single text file to parsing pages line by line.
 
-Note: This tool filters pages by containing text `({{Sprache|Deutsch}})` in the 
-`<text>` tag of `<page>` tag and ignores pages that has title starts with `Wiktionary:`.
+Note: This tool filters pages by containing text `({{Sprache|Deutsch}})` for de-wiktionary
+and `==German==` for en-wiktionary in the `<text>` tag of `<page>` tag and 
+ignores pages that has title starts with `Wiktionary:`.
 
 Downloading pages_articles.xml file from a [mirror](https://dumps.wikimedia.org/mirrors.html);
 
@@ -19,11 +20,20 @@ bzip2 -d pages_articles.xml.bz2
 
 Now you can use [wk-extract.py](tools/wk-extract/wk-extract.py) script to extract xml pages to a singe text file.
 
+## DE-Wiktionary:
+The wk-extract tool defaults -w de parameter you don't need to add it.
+
 ```
 python tools/wk-extract/wk-extract.py -i pages_articles.xml -o single_output.txt
 ```
 
-In a few minutes single_output.txt will be generated.
+or
+
+```
+python tools/wk-extract/wk-extract.py -w de -i pages_articles.xml -o single_output.txt
+```
+
+In a few minutes (depending on xml file size) single_output.txt will be generated.
 
 <details>
 <summary>Generated single_output.txt content looks like this now (click to expand)</summary>
@@ -57,7 +67,52 @@ In a few minutes single_output.txt will be generated.
 == Subfamilia ({{Sprache|Deutsch}}) ==
 === {{Wortart|Substantiv|Deutsch}}, {{f}} ===
 
-(... there are too many lines after this line)
+...
+```
+</details>
+
+<br/>
+
+## EN-Wiktionary
+The wk-extract tool defaults -w de parameter you have to set `-w en` parameter for
+en-wiktionary xml dumps.
+
+```
+python tools/wk-extract/wk-extract.py -w en -i pages_articles.xml -o single_output.txt
+```
+
+<details>
+<summary>Generated single_output.txt content looks like this now (click to expand)</summary>
+
+```
+/*---------- title: frei, id: 35, parent_id: 71689182 ----------*/
+
+{{also|-frei|Frei|fre├¡|fr├®i}}
+==German==
+
+===Alternative forms===
+* {{alter|de|frey||obsolete}}
+
+===Etymology===
+{{dercat|de|gem-pro|ine-pro|inh=1}}
+From {{inh|de|gmh|vr├«}}, {{inh|de|goh|fr├«}}, from {{inh|de|gmw-pro|*fr─½}}. Compare {{cog|nl|vrij}}, {{cog|en|free}}, {{cog|da|fri}}.
+
+===Pronunciation===
+* {{IPA|de|/f╩üa╔¬╠»/}}
+* {{audio|de|De-frei.ogg|Audio}}
+* {{rhymes|de|a╔¬╠»|s=1}}
+
+===Adjective===
+{{de-adj|comp}}
+
+# [[free]]; [[unenslaved]]; [[unimprisoned]]
+#: {{ant|de|unfrei}}
+# [[free]]; [[unrestricted]]; ''more negative also:'' [[unrestrained]]; [[licentious]]
+#: {{syn|de|ungezwungen|ungebunden}}
+# [[unblocked]]; free for passage
+# [[independent]]; [[unaffiliated]]
+
+...
 ```
 </details>
 
