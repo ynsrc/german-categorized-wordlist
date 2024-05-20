@@ -202,6 +202,9 @@ building a plus `+` seperated word type list with this informations.
 === {{Wortart|Wortverbindung|Deutsch}}, {{Wortart|Adjektiv|Deutsch}}, ''indeklinabel'' ===
 ```
 
+You can found all possible word types, filtered with containing `|Deutsch}}` part
+next to this file [all_possible_word_types.txt](all_possbile_word_types.txt).
+
 
 # Attributions
 * https://de.wiktionary.org
