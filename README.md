@@ -48,6 +48,7 @@ Sources are located in [sources](sources) folder in this repository.
 * https://dumps.wikimedia.org/mirrors.html
 * https://extensions.libreoffice.org/en/extensions/show/german-de-de-frami-dictionaries
 * https://www-user.tu-chemnitz.de/~fri/ding/
+* https://en.wiktionary.org/wiki/Category:German_lemmas
 
 
 # License
