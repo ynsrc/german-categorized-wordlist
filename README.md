@@ -43,12 +43,15 @@ Sources are located in [sources](sources) folder in this repository.
 
 
 # Attributions
-* https://www.koeblergerhard.de
-* https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4
+* https://de.wiktionary.org
 * https://dumps.wikimedia.org/mirrors.html
-* https://extensions.libreoffice.org/en/extensions/show/german-de-de-frami-dictionaries
-* https://www-user.tu-chemnitz.de/~fri/ding/
+* https://en.wiktionary.org
 * https://en.wiktionary.org/wiki/Category:German_lemmas
+* https://extensions.libreoffice.org/en/extensions/show/german-de-de-frami-dictionaries
+* https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4
+* https://github.com/michmech/lemmatization-lists
+* https://www-user.tu-chemnitz.de/~fri/ding/
+* https://www.koeblergerhard.de/publikat.html
 
 
 # License
