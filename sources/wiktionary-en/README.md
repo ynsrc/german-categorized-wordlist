@@ -72,11 +72,55 @@ At first glance, it is clearly seen that en-wiktionary format is very different 
 de-wiktionary format. Informatios about a German word or a word's meanings in German
 language located below `==German==` tag in every page.
 
-TODO: This section is incomplete yet. Working on it.
+In en-wiktionary pages word types shown in two lines consecutively.
+
+<details>
+<summary>Click here to expand and see some examples.</summary>
+
+```
+===Noun===
+{{de-noun|m,(e)s,^e}}
+
+===Adjective===
+{{de-adj|comp}}
+
+====Declension====
+{{de-adecl|comp}}
+
+===Verb===
+{{de-verb}} (or as past participle: {{m|de|geraved}})
+
+====Adjective====
+{{de-adj|indecl.predonly}}
+
+===Letter===
+{{de-noun|n,-,-}}
+
+===Adjective===
+{{de-adj}}
+
+====Declension====
+{{de-adecl}}
+
+===Noun===
+{{de-noun|n,,^er|dim=^chen,^lein,^elein,^le,^el,^'l,^l,^li,^lin,^elin[rare],^erl,erl,^ken[also Ruhrdeutsch],^eken[also Berlinisch],^gen[esp. 18th ct.],^che}}
+
+====Declension====
+{{de-ndecl|n,,^er}}
+```
+</details>
+
+<br/>
+
+In that case, the rows starting with equal signs may be omitted securely. The lines starting with
+`{{de-` and ending with `}}` shows related word type.
+
+You can see a complete list of word types in [all_possible_word_types.txt](all_possible_word_types.txt) file.
+
 
 
 # Attributions
-* https://de.wiktionary.org
+* https://en.wiktionary.org
 * https://dumps.wikimedia.org
 
 
