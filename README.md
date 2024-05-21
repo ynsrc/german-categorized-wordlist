@@ -53,6 +53,7 @@ Sources are located in [sources](sources) folder in this repository.
 * https://github.com/michmech/lemmatization-lists
 * https://www-user.tu-chemnitz.de/~fri/ding/
 * https://www.koeblergerhard.de/publikat.html
+* https://www.openthesaurus.de/about/download
 
 
 # License
