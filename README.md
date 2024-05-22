@@ -43,6 +43,7 @@ Sources are located in [sources](sources) folder in this repository.
 
 
 # Attributions
+* https://danielnaber.de/morphologie/
 * https://de.wiktionary.org
 * https://dumps.wikimedia.org/mirrors.html
 * https://en.wiktionary.org
@@ -50,8 +51,10 @@ Sources are located in [sources](sources) folder in this repository.
 * https://extensions.libreoffice.org/en/extensions/show/german-de-de-frami-dictionaries
 * https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4
 * https://github.com/adbar/German-NLP
+* https://github.com/languagetool-org/german-pos-dict
 * https://github.com/michmech/lemmatization-lists
 * https://www-user.tu-chemnitz.de/~fri/ding/
+* https://www.dwds.de/lemma/list
 * https://www.koeblergerhard.de/publikat.html
 * https://www.openthesaurus.de/about/download
 
