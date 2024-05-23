@@ -45,7 +45,7 @@ grep -E '.*?; .*?Kontraktion' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}
 grep -E '.*?; .*?Lokaladverb' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/adverb-local.txt"
 grep -E '.*?; .*?Modaladverb' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/adverb-modal.txt"
 grep -E '.*?; .*?Nachname' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/noun-proper-surname.txt"
-grep -E '.*?; .*?Ortsnamengrundwort' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/affix-suffix-place.txt"
+grep -E '.*?; .*?Ortsnamengrundwort' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/affix-suffix-place-name.txt"
 grep -E '.*?; .*?[Pa]article' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/particle.txt"
 grep -E '.*?; .*?Partizip I[^I]?' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/verb-participle-1.txt"
 grep -E '.*?; .*?Partizip II' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/verb-participle-2.txt"
