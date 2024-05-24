@@ -3,6 +3,7 @@
 # Generating Wordlists
 
 mkdir -p build
+rm -f build/*.txt
 
 TARGET=v1
 mkdir -p ${TARGET}
