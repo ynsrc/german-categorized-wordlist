@@ -6,6 +6,9 @@ Experimental version [v1](v1) is ready now, but excluded [gennum](tools/gennum) 
 due to huge size. If you need them, then you can generate numbers in text with our 
 [gennum tool](tools/gennum) from 0 to 999999.
 
+You can download wordlists from assets in
+[latest release](https://github.com/ynsrc/german-categorized-wordlist/releases/latest).
+
 
 # Notes
 * Lines are sorted and unique in final output files.
