@@ -1,37 +1,16 @@
 # German Categorized Wordlist
 
-This project contains categorized German words in seperated text files with new line delimiter.
+This project contains categorized German words in seperated text files.
 
-This first version (v1) generated from [grimm1](https://www.koeblergerhard.de/grimm1.htm) 
-and [grimm2](https://www.koeblergerhard.de/grimm2.htm) **huge** files. And some words added 
-from Wiktionary pages.
-
-Planned to expanding wordlist files and improving quality by cleaning mismatches or fixing mistyped words.
+Experimental version [v1](v1) is ready now, but excluded [gennum](tools/gennum) outputs
+due to huge size. If you need them, then you can generate numbers in text with our 
+[gennum tool](tools/gennum) from 0 to 999999.
 
 
-## Notes
-* Lines are sorted and unique in each file.
-* Files are categoriez by word types.
-
-| Type             | File                                                |
-| ---------------- | --------------------------------------------------- |
-| Adjectives       | [adjective.txt](v1/adjective.txt)                   |
-| Adverbs          | [adverb.txt](v1/adverb.txt)                         |
-| Affixes/Prefixes | [affix-prefix.txt](v1/affix-prefix.txt)             |
-| Affixes/Suffixes | [affix-suffix.txt](v1/affix-suffix.txt)             |
-| Articles         | [article.txt](v1/article.txt)                       |
-| Conjunctions     | [conjunction.txt](v1/conjunction.txt)               |
-| Interjections    | [interjection.txt](v1/interjection.txt)             |
-| Noun (der)       | [noun-der.txt](v1/noun-der.txt)                     |
-| Noun (die)       | [noun-die.txt](v1/noun-die.txt)                     |
-| Noun (das)       | [noun-das.txt](v1/noun-das.txt)                     |
-| Noun (die pl.)   | [noun-plural.txt](v1/noun-plural.txt)               |
-| Cardinal Numbers | [number-cardinal.txt.gz](v1/number-cardinal.txt.gz) |
-| Ordinal Numbers  | [number-ordinal.txt.gz](v1/number-ordinal.txt.gz)   |
-| Particles        | [particle.txt](v1/particle.txt)                     |
-| Prepositions     | [preposition.txt](v1/preposition.txt)               |
-| Pronouns         | [pronoun.txt](v1/pronoun.txt)                       |
-| Verbs            | [verb.txt](v1/verb.txt)                             |
+# Notes
+* Lines are sorted and unique in final output files.
+* Files are categorized by word types in English.
+* Word lists may contain words that are incorrect, miscategorized, or meaningles.
 
 
 # Using Tools
