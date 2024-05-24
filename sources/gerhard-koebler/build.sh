@@ -44,6 +44,6 @@ grep '; Pl.' merged-wordlist.txt | cut -d';' -f1 > ${TARGET}/noun-plural.txt
 grep '; [Pp]räf.' merged-wordlist.txt | cut -d';' -f1 > ${TARGET}/affix-prefix.txt
 grep '; Präp.' merged-wordlist.txt | cut -d';' -f1 > ${TARGET}/preposition.txt
 grep '; Pron.' merged-wordlist.txt | cut -d';' -f1 > ${TARGET}/pronoun.txt
-grep '; Sb.' merged-wordlist.txt | cut -d';' -f1 > ${TARGET}/substantive.txt
+# grep '; Sb.' merged-wordlist.txt | cut -d';' -f1 > ${TARGET}/substantive.txt
 grep '; Suff.' merged-wordlist.txt | cut -d';' -f1 > ${TARGET}/affix-suffix.txt
 grep '; V.' merged-wordlist.txt | cut -d';' -f1 > ${TARGET}/verb.txt
