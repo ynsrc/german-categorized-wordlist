@@ -21,3 +21,4 @@ do
 	cat $wlfile | sort -u > "${TARGET}/$filename"
 done
 
+tar cvzf build/wordlists.tar.gz v1/*.txt README.md LICENSE 
