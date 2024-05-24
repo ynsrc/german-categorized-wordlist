@@ -38,7 +38,7 @@ grep -E '.*-$' step-01-lexeme.txt | cut -d";" -f1 | sort -u > "${TARGET}/affix-s
 grep -E '.*?; .*?Geflügeltes Wort' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/expression-multi-word.txt"
 grep -E '.*?; .*?Indefinitpronomen' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/pronoun-indefinite.txt"
 grep -E '.*?; .*?Interjektion' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/interjection.txt"
-grep -E '.*?; .*?Komparativ' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/comperative.txt"
+grep -E '.*?; .*?Komparativ' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/comparative.txt"
 grep -E '.*?; .*?Konjunktion' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/conjunction.txt"
 grep -E '.*?; .*?Konjunktionaladverb' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/adverb-conjunctional.txt"
 grep -E '.*?; .*?Kontraktion' step-00.txt | cut -d";" -f1 | sort -u > "${TARGET}/contraction.txt"
