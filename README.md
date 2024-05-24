@@ -39,8 +39,10 @@ Sources are located in [sources](sources) folder in this repository.
 
 
 # License
-CC BY 4.0 LEGAL CODE
-Attribution 4.0 International
+[German Categorized Wordlist](https://github.com/ynsrc/german-categorized-wordlist)
+by [YNSRC](https://github.com/ynsrc) is licensed under
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0)
 
-Feel free to use this code in your personal, open-source or even 
-commercial projects. Only attribution needed.
+Feel free to use our wordlists in your personal, open-source or even  commercial projects with 
+attrubition. But take care conditions from license of owners if you want to use directly 
+third-party data sources that we are processing to generating wordlists.
