@@ -17,7 +17,7 @@ if not args.wiktionary in ('de', 'en'):
     print("This Wiktionary is not supporting yet!")
     exit(1)
 
-magic_string = r'({{Sprache|Deutsch}})' if args.wiktionary == 'de' else r'==German=='
+magic_string = r'({{Sprache|Deutsch}})' if args.wiktionary == 'de' else r'German'
 
 print(f"Extracting {args.wiktionary}-wiktionary pages that contains: '{magic_string}'")
 
