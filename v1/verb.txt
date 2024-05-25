@@ -13,6 +13,7 @@
 …venieren
 …vestieren
 …zipieren
+Aa machen
 aalen
 aasen
 ab-
@@ -198,6 +199,7 @@ abdieben
 abdielen
 abdienen
 abdingen
+abdirigieren
 abdisputieren
 abdizieren
 abdocken
@@ -389,6 +391,7 @@ abfronen
 abfrottieren
 abfrühstücken
 abfuchteln
+abfucken
 abfügen
 abfühlen
 abführen
@@ -466,6 +469,7 @@ abgürten
 abgüten
 abhaaren
 abhaben
+abhaben können
 abhacken
 abhadern
 abhäfteln
@@ -584,6 +588,7 @@ abhütten
 abimpfen
 abirren
 abisolieren
+abiturieren
 abjagen
 abjammern
 abjäuchen
@@ -845,6 +850,7 @@ ablumpen
 ablungern
 ablüpfen
 ablutschen
+abluxen
 abmachen
 abmagern
 abmähen
@@ -1656,6 +1662,7 @@ abwanken
 abwärmen
 abwarnen
 abwarten
+abwarten und Tee trinken
 abwärts gehen
 abwärtsfahren
 abwärtsgehen
@@ -1921,6 +1928,7 @@ akzentuieren
 akzeptieren
 akzipieren
 alamodisieren
+Alarm schlagen
 alarmieren
 alaunen
 alaunisieren
@@ -1940,12 +1948,18 @@ alitieren
 alkalisieren
 alkoholisieren
 alkylieren
+alle Brücken hinter sich abbrechen
+alle Hände voll zu tun haben
+alle Hebel in Bewegung setzen
+alle Register ziehen
+alle Trümpfe in der Hand halten
 allegieren
 allegorisieren
 alleinlassen
 alleinstehen
 allemachen
 allergisieren
+alles im grünen Bereich sein
 alliieren
 alliterieren
 allodifizieren
@@ -1957,6 +1971,7 @@ allverlangen
 almen
 alpen
 alphabetisieren
+alt machen
 alteln
 älteln
 alten
@@ -1969,6 +1984,14 @@ altflicken
 altmachen
 ältsen
 aluminieren
+am Ball bleiben
+am Boden zerstört sein
+am Herd stehen
+am Hungertuch nagen
+am Kerbholz haben
+am Rad drehen
+am seidenen Faden hängen
+am Senkel gehen
 amalgamieren
 amassieren
 ambieren
@@ -1978,11 +2001,13 @@ ambrassieren
 ambulieren
 amelieren
 ameliorieren
+amenagieren
 amendieren
 amerikanisieren
 ammen
 ammonifizieren
 amnestieren
+Amok laufen
 amortisieren
 amovieren
 ampeln
@@ -1994,6 +2019,15 @@ amten
 amtieren
 amtshandeln
 amüsieren
+an den Bettelstab bringen
+an den Pranger stellen
+an der falschen Adresse sein
+an der Nase herumführen
+an der Tagesordnung sein
+an die Kandare nehmen
+an die Wand stellen
+an einem seidenen Faden hängen
+an einem Strang ziehen
 an sein
 anaasen
 anackern
@@ -2620,6 +2654,7 @@ anleben
 anlechzen
 anlecken
 anlegen
+anlegieren
 anlehnen
 anlehren
 anleiden
@@ -2647,6 +2682,7 @@ anlöten
 anludern
 anlugen
 anlügen
+anlullen
 anlüstern
 anluven
 anmachen
@@ -2883,6 +2919,7 @@ anrupfen
 anrußen
 anrüsten
 anrutschen
+ans Licht kommen
 ansäbeln
 ansäckeln
 ansacken
@@ -3068,6 +3105,7 @@ anseilen
 ansein
 ansenden
 ansengen
+ansenken
 ansetzen
 anseufzen
 ansickern
@@ -3193,6 +3231,7 @@ anstürmen
 anstürzen
 anstützen
 ansuchen
+ansumpfen
 ansurren
 ansüßen
 antagen
@@ -3210,13 +3249,16 @@ antaumeln
 antäuschen
 antedatieren
 anteigen
+Anteil nehmen
 anteilen
 antelefonieren
+antelephonieren
 antern
 antesten
 antexten
 antezedieren
 anthropomorphisieren
+anthun
 antichambrieren
 anticken
 antikisieren
@@ -3406,6 +3448,7 @@ anzwirnen
 anzwitschern
 apanagieren
 apern
+Äpfel mit Birnen vergleichen
 apfeln
 äpfeln
 apokopieren
@@ -3421,7 +3464,10 @@ appellieren
 apperzipieren
 applanieren
 applaudieren
+applicieren
+appliciren
 applizieren
+appliziren
 apportieren
 apprehendieren
 appretieren
@@ -3450,6 +3496,7 @@ argwohnen
 argwöhnen
 arisieren
 arkebusieren
+arm machen
 armen
 armglocken
 armieren
@@ -3522,8 +3569,65 @@ attribuieren
 atzeln
 atzen
 ätzen
+auch nur mit Wasser kochen
 auditieren
+auf 180 sein
+auf dem absteigenden Ast sein
+auf dem Holzweg sein
+auf dem Kerbholz haben
+auf dem Laufenden halten
+auf dem Schlauch stehen
+auf dem Teppich bleiben
+auf den Arm nehmen
+auf den Geist gehen
+auf den Hund kommen
+auf den Keks gehen
+auf den Leim gehen
+auf den neuesten Stand bringen
+auf den Punkt kommen
+auf den Sack gehen
+auf den Schlips treten
+auf den Senkel gehen
+auf den Wecker gehen
+auf den Zahn fühlen
+auf den Zeiger gehen
+auf den Zug aufspringen
+auf der Bärenhaut liegen
+auf der faulen Haut liegen
+auf der Hand liegen
+auf der Hut sein
+auf der Leitung stehen
+auf der Nase herumtanzen
+auf der Stelle treten
+auf der Strecke bleiben
+auf die Barrikaden gehen
+auf die Beine stellen
+auf die Folter spannen
+auf die leichte Schulter nehmen
+auf die Nase binden
+auf die Nerven gehen
+auf die Palme bringen
+auf die Schippe nehmen
+auf die Sprünge helfen
+auf die Tränendrüse drücken
+auf Du und Du stehen
+auf eigenen Beinen stehen
+auf einen Nenner bringen
+auf einen Sprung vorbeikommen
+auf etwas Gift nehmen können
+auf ex trinken
+auf freiem Fuß sein
+auf großem Fuß leben
+auf gutem Fuß stehen
+auf Herz und Nieren prüfen
+auf keine Kuhhaut gehen
+auf keine Kuhhaut passen
+auf keinen grünen Zweig kommen
+auf Nummer sicher gehen
+auf Sand gebaut haben
 auf sein
+auf taube Ohren stoßen
+auf Trab halten
 aufachsen
 aufachten
 aufächzen
@@ -3804,6 +3908,7 @@ aufgaberln
 aufgaffen
 aufgähnen
 aufgaloppieren
+aufganseln
 aufgarben
 aufgären
 aufgattern
@@ -3987,6 +4092,7 @@ aufkohlen
 aufkollern
 aufkommen
 aufkönnen
+aufkonzentrieren
 aufköpfen
 aufkopieren
 aufkoppen
@@ -4093,6 +4199,7 @@ aufmauern
 aufmeißeln
 aufmengen
 aufmerken
+aufmerksam machen
 aufmessen
 aufmischen
 aufmöbeln
@@ -4268,6 +4375,8 @@ aufrüsseln
 aufrüsten
 aufrütteln
 aufrütten
+aufs Geld gucken
+aufs Korn nehmen
 aufsacken
 aufsagen
 aufsägen
@@ -4572,6 +4681,7 @@ auftaumeln
 aufteen
 aufteilen
 aufthronen
+aufthun
 auftiefen
 auftippen
 auftischen
@@ -4723,6 +4833,7 @@ aufzwirnen
 aufzwitschern
 äugeln
 äugen
+Augen machen
 augenblicken
 augendienen
 äuglen
@@ -4730,7 +4841,27 @@ augmentieren
 äugnen
 augurieren
 auktionieren
+aus allen Kannen gießen
+aus allen Kannen schütten
+aus allen Wolken fallen
+aus dem Ärmel schütteln
+aus dem gleichen Holz geschnitzt sein
+aus dem Hut zaubern
+aus dem letzten Loch pfeifen
+aus dem Rahmen fallen
+aus dem Ruder laufen
+aus den Fugen geraten
+aus den Latschen kippen
+aus der Art schlagen
+aus der Haut fahren
+aus der Portokasse zahlen
+aus der Reihe tanzen
+aus der Rolle fallen
+aus einer Mücke einen Elefanten machen
+aus etwas Honig saugen
+aus etwas Kapital schlagen
 aus sein
+aus seinem Herzen keine Mördergrube machen
 ausäbern
 ausachsen
 ausachten
@@ -5012,6 +5143,7 @@ auseinanderspritzen
 auseinanderstehen
 auseinanderstellen
 auseinanderstieben
+auseinanderstreben
 auseinandertreiben
 auseinandertrennen
 auseinandertreten
@@ -5719,6 +5851,10 @@ aussaufen
 aussaugen
 aussäugen
 aussäulen
+außbauen
+außbilden
+außbrechen
+außbreiten
 ausschaben
 ausschachteln
 ausschachten
@@ -5820,6 +5956,7 @@ ausschnaubern
 ausschnaufen
 ausschnäuzen
 ausschneiden
+ausschneiden und einfügen
 ausschneiteln
 ausschneiten
 ausschnellen
@@ -5883,6 +6020,7 @@ ausschwimmen
 ausschwingen
 ausschwitzen
 ausschwören
+außdehnen
 aussegeln
 aussegnen
 aussehen
@@ -5899,6 +6037,13 @@ aussengen
 außenlassen
 außensein
 außenstehen
+außer Acht lassen
+außer Betracht bleiben
+außer Betracht lassen
+außer Kontrolle geraten
+außer Kraft setzen
+außer Rand und Band geraten
+außer sich sein
 außer Stand setzen
 äußerln
 äußern
@@ -5915,6 +6060,7 @@ aussieden
 aussingen
 aussinnen
 aussitzen
+außlegen
 aussöhnen
 aussommern
 aussömmern
@@ -6290,6 +6436,7 @@ autostoppen
 autschen
 auwehzen
 avalieren
+Avancen machen
 avancieren
 aversionieren
 avertieren
@@ -6298,6 +6445,7 @@ avivieren
 axiomatisieren
 azetylieren
 azotieren
+b*msen
 babbeln
 bäbbeln
 babbern
@@ -6359,6 +6507,7 @@ bamsen
 banalisieren
 band
 bandagieren
+Bände sprechen
 bandeln
 bändern
 banderolieren
@@ -6488,6 +6637,7 @@ bearmen
 bearten
 beaschen
 beästen
+beatboxen
 beaten
 beatifizieren
 beatmen
@@ -6723,6 +6873,7 @@ befransen
 befranzen
 befreien
 befreiheiten
+befrembden
 befremden
 befressen
 befreuden
@@ -6938,6 +7089,9 @@ behusten
 behuten
 behüten
 behutsamlichen
+bei Adam und Eva anfangen
+bei jemandem sein
+bei sich sein
 beibehalten
 beibelen
 beibiegen
@@ -7079,6 +7233,7 @@ beiseitesprechen
 beiseitestehen
 beiseitestellen
 beiseitetreten
+beiseitigen
 beisetzen
 beisitzen
 beispannen
@@ -7520,6 +7675,7 @@ bequartieren
 bequasseln
 bequasten
 bequatschen
+bequemben
 bequemen
 berädern
 beraffeln
@@ -7704,7 +7860,9 @@ beschäumen
 beschecken
 beschehen
 bescheiben
+Bescheid geben
 Bescheid sagen
+Bescheid wissen
 bescheiden
 bescheidigen
 bescheinen
@@ -8214,6 +8372,7 @@ beurkunden
 beurlauben
 beursachen
 beurteilen
+beurtheilen
 beut
 beuteln
 beuten
@@ -8334,6 +8493,17 @@ bewusstmachen
 bewusstwerden
 bewüten
 bexen
+beybehalten
+beybringen
+beychten
+beyfügen
+beygeben
+beylegen
+beyspringen
+beyssen
+beystehen
+beytragen
+beytreten
 bezackeln
 bezacken
 bezahlen
@@ -8421,12 +8591,14 @@ billardieren
 billen
 billig
 billigen
+billigend in Kauf nehmen
 bilsen
 bimmeln
 bimsen
 bin
 binden
 bindern
+Bindfäden regnen
 bingeln
 bingen
 bingewatchen
@@ -8454,6 +8626,7 @@ bittseligen
 bituminieren
 bitzeln
 biwakieren
+bl*sen
 blacken
 bläcken
 bladen
@@ -8506,6 +8679,7 @@ blaufrieren
 blaumachen
 blauschlagen
 blaustreichen
+Blech reden
 blechen
 blecken
 blehen
@@ -8548,6 +8722,7 @@ bliebet stehen
 bliebst stehen
 bliebt stehen
 blies
+blind vor Wut sein
 blindbacken
 blinden
 blindfliegen
@@ -8557,6 +8732,7 @@ blinken
 blinkern
 blinzeln
 blinzen
+blitzdingsen
 blitzen
 blitzern
 blitzgen
@@ -8596,6 +8772,8 @@ blümeln
 blümen
 bluntschen
 blusen
+Blut lecken
+Blut und Wasser schwitzen
 blüteln
 bluten
 blutern
@@ -8628,6 +8806,7 @@ bögeln
 bogen
 bohlen
 bohnen
+Bohnen in den Ohren haben
 bohnern
 bohren
 böhren
@@ -8709,6 +8888,8 @@ brächten
 brachtieren
 bracken
 bradmen
+brafieren
+brafiren
 brägeln
 bragen
 brähnen
@@ -8718,6 +8899,7 @@ brallen
 bramarbasieren
 bramen
 brämen
+brammeln
 brämseln
 bramsen
 brämsen
@@ -8757,6 +8939,7 @@ brauten
 bräuten
 braven
 bravieren
+braviren
 breaken
 brecheln
 brechen
@@ -8982,6 +9165,7 @@ butterlen
 buttern
 butzeln
 bützeln
+butzen
 bützen
 büxen
 buzzern
@@ -9019,6 +9203,7 @@ checken
 chemisieren
 chiffrieren
 chillen
+Chinesisch sprechen
 chintzen
 chippen
 chloren
@@ -9038,33 +9223,46 @@ chromatografieren
 chromatographieren
 chromieren
 chronifizieren
+cirkuliren
 clicken
 clinchen
 clonen
+clustern
 coachen
 coden
 codieren
 cogitieren
 coiffieren
 collagieren
+colorieren
+combiniren
 committen
+compliciren
 computerisieren
 computern
+concessionieren
 conchieren
 conferieren
+construiren
 containerisieren
 containern
 contentieren
 conterfehen
 conterfeiten
 contrafehen
+copiren
 coronieren
+corrigiren
+coventrieren
+coventrisieren
 covern
+cracken
 cramänzeln
 cramanzen
 crashen
 crawlen
 cremen
+crèmen
 cringen
 cristieren
 crouponieren
@@ -9079,6 +9277,7 @@ customizen
 cutten
 cuttern
 da sein
+dabben
 dabehalten
 dabei sein
 dabeibauen
@@ -9538,6 +9737,7 @@ dämmern
 damnen
 damnieren
 dämonisieren
+Dampf ablassen
 dampfbaden
 dämpfbaden
 dampfen
@@ -9858,6 +10058,30 @@ darzeichnen
 darzeigen
 darziehen
 darzücken
+das Bett hüten
+das Blatt wenden
+das Blaue vom Himmel versprechen
+das Eis brechen
+das Fass zum Überlaufen bringen
+das Fell gerben
+das Fell über die Ohren ziehen
+das Geld zum Fenster hinauswerfen
+das Gesicht verlieren
+das Gesicht wahren
+das Handtuch werfen
+das Herz am rechten Fleck haben
+das Jawort geben
+das Kind beim Namen nennen
+das Kind mit dem Bade ausschütten
+das Kraut fett machen
+das Kriegsbeil ausgraben
+das Kriegsbeil begraben
+das Licht der Welt erblicken
+das Maul halten
+das Pferd von hinten aufzäumen
+das Rad neu erfinden
+das Wasser reichen können
+das Zünglein an der Waage sein
 däscheln
 dasein
 daseln
@@ -9886,10 +10110,12 @@ dauerprägen
 dauhen
 dauken
 daulen
+Däumchen drehen
 daumeln
 däumeln
 daumen
 däumen
+Daumen drücken
 daumengen
 daumenlutschen
 dauren
@@ -10377,6 +10603,7 @@ delpen
 delphieren
 Delphin schwimmen
 delphinschwimmen
+dem Volk aufs Maul schauen
 demagnetisieren
 demandieren
 demantelieren
@@ -10396,6 +10623,7 @@ demobilisieren
 demodulieren
 demokratisieren
 demolieren
+demoliren
 demonetisieren
 demonstrieren
 demontieren
@@ -10407,6 +10635,51 @@ demoulieren
 demulzieren
 demüten
 demütigen
+den Arsch aufreißen
+den Arsch offen haben
+den Bach runter gehen
+den Bach runtergehen
+den Ball flach halten
+den Bock zum Gärtner machen
+den Boden bereiten
+den Bogen überspannen
+den Braten riechen
+den Buckel hinhalten
+den Faden verlieren
+den Finger auf die Wunde legen
+den Finger in die Wunde legen
+den Gang alles Irdischen gehen
+den Geist aufgeben
+den grünen Daumen haben
+den Gürtel enger schnallen
+den Hintern aufreißen
+den Hof machen
+den Hut nehmen
+den Kopf in den Sand stecken
+den Kopf zumachen
+den Kürzeren ziehen
+den Löffel abgeben
+den Mund halten
+den Nagel auf den Kopf treffen
+den Pflug vor die Ochsen spannen
+den Rand halten
+den Riemen enger schnallen
+den Rubikon überschreiten
+den Schein wahren
+den Schwanz einziehen
+den Schwarzen Peter zuschieben
+den Spieß umdrehen
+den Stecker ziehen
+den Teufel an die Wand malen
+den Teufel mit dem Beelzebub austreiben
+den Tod erleiden
+den Tod finden
+den Vogel abschießen
+den Weg allen Fleisches gehen
+den Weg alles Irdischen gehen
+den Weg ebnen
+den Wind aus den Segeln nehmen
+den Wölfen zum Fraß vorwerfen
 denationalisieren
 denaturalisieren
 denaturieren
@@ -10420,6 +10693,7 @@ denitrieren
 denitrifizieren
 denkeln
 denken
+denkmalschützen
 denobilitieren
 denominieren
 denotieren
@@ -10660,9 +10934,72 @@ dickfuttern
 dickfüttern
 dickmachen
 dicktun
+dictieren
+dictiren
 did
 didaktisieren
 didelinen
+die andere Wange hinhalten
+die Backen halten
+die Bank sprengen
+die Beherrschung verlieren
+die Beine in die Hand nehmen
+die Brust geben
+die erste Geige spielen
+die Fäden ziehen
+die Faxen dicke haben
+die Finger im Spiel haben
+die Finger kreuzen
+die Fliege machen
+die Flinte ins Korn werfen
+die Fresse halten
+die Goschen halten
+die Gunst der Stunde nutzen
+die Haare vom Kopf fressen
+die Hände in den Schoß legen
+die Hände in Unschuld waschen
+die Hölle heißmachen
+die Hosen anhaben
+die Hufe schwingen
+die Hufen schwingen
+die kalte Schulter zeigen
+die Kante geben
+die Katze aus dem Sack lassen
+die Katze im Sack kaufen
+die Kirche im Dorf lassen
+die Klappe halten
+die Klingen kreuzen
+die Krise kriegen
+die Kupplung kommen lassen
+die Kurve kratzen
+die Kurve kriegen
+die Leviten lesen
+die Mücke machen
+die Nacht zum Tag machen
+die Nase hochziehen
+die Nase voll haben
+die Nase vorn haben
+die Nerven verlieren
+die Ohren steif halten
+die Pfanne heiß haben
+die Radieschen von unten ansehen
+die Radieschen von unten betrachten
+die Rechnung ohne den Wirt machen
+die Sau rauslassen
+die Schafe von den Böcken scheiden
+die Schau stehlen
+die Schnauze halten
+die Schnauze voll haben
+die Show stehlen
+die Spreu vom Weizen trennen
+die Stange halten
+die Stiefel lecken
+die Stirn runzeln
+die Suppe auslöffeln
+die Suppe versalzen
+die Zähne zusammenbeißen
+die Zelte abbrechen
+die zweite Geige spielen
 diebeln
 dieben
 diechen
@@ -10787,6 +11124,7 @@ dispergieren
 disponieren
 dispungieren
 disputieren
+disputiren
 disqualifizieren
 disrekommandieren
 disseminieren
@@ -10867,6 +11205,7 @@ dolen
 dolieren
 dolisieren
 dolken
+dollarisieren
 dollen
 dollieren
 dollisieren
@@ -10992,6 +11331,7 @@ drauf-
 drauf legen
 draufbrummen
 draufdreschen
+draufdrücken
 Draufgänger
 draufgeben
 draufgehen
@@ -11064,6 +11404,8 @@ dreeschliegen
 dreggen
 dreheln
 drehen
+drei Kreuze machen
+drei Kreuze schlagen
 dreiakeln
 dreiarten
 dreiärten
@@ -11281,6 +11623,8 @@ duplieren
 duplizieren
 duppeln
 dürangeln
+durch den Kakao ziehen
+durch die Lappen gehen
 durch sein
 durchabfertigen
 durchächten
@@ -12387,6 +12731,7 @@ durchnässen
 durchnehmen
 durchnetzen
 durchnicken
+durchnudeln
 durchnühlen
 durchnülen
 durchnumerieren
@@ -13451,6 +13796,15 @@ eigenschaften
 eignen
 eilen
 eimeißeln
+ein Ass im Ärmel haben
+ein Auge auf etwas werfen
+ein Auge zudrücken
+ein Bein stellen
+ein Exempel statuieren
+ein Fass aufmachen
+ein frühes Grab finden
+ein Hühnchen rupfen
+ein Machtwort sprechen
 einackern
 einädern
 einähren
@@ -13684,6 +14038,19 @@ eindünsten
 eindürfen
 einduseln
 eindusseln
+eine Affäre haben
+eine flotte Sohle aufs Parkett legen
+eine harte Nuss zu knacken haben
+eine heiße Sohle aufs Parkett legen
+eine lange Nase machen
+eine Lanze brechen
+eine Nase drehen
+eine ruhige Kugel schieben
+eine Schippe drauflegen
+eine Schlange am Busen nähren
+eine Schraube locker haben
+eine Schüppe drauflegen
+eine Sohle aufs Parkett legen
 einebenen
 einebnen
 eineggen
@@ -13693,9 +14060,44 @@ eineisen
 einemden
 einempfangen
 einen
+einen abseilen
+einen an der Klatsche haben
+einen an der Waffel haben
+einen Bären aufbinden
+einen Besuch abstatten
+einen Blick werfen
+einen Braten in der Röhre haben
+einen Dachschaden haben
+einen fahren lassen
+einen Fick geben
+einen fliegen lassen
+einen Frosch im Hals haben
+einen guten Draht haben
+einen im Kahn haben
+einen im Tee haben
+einen in der Krone haben
+einen Korb geben
+einen Korb kriegen
+einen Krebs fangen
+einen kühlen Kopf bewahren
+einen Lauf haben
+einen Neger abseilen
+einen Riegel vorschieben
+einen Rückzieher machen
+einen runterholen
+einen Schlussstrich ziehen
+einen sitzen haben
+einen Strich durch die Rechnung machen
+einen Strick drehen
+einen Vogel haben
+einen Vogel zeigen
+einen Zahn zulegen
 einengen
 einenglischen
 einentschlafen
+einer Fliege etwas zuleide tun
+einer Sache auf den Grund gehen
+einer Sache Rechnung tragen
 einerben
 einerbilden
 einerdigen
@@ -14827,6 +15229,7 @@ einspannen
 einsparen
 einspazieren
 einspeicheln
+einspeichen
 einspeichern
 einspeien
 einspeisen
@@ -15194,11 +15597,13 @@ einzünden
 einzünften
 einzwängen
 einzweigen
+einzwicken
 einzwingen
 einzwingern
 einzwirbeln
 einzwitschern
 eiren
+Eis laufen
 eischen
 eisen
 eisenen
@@ -15228,6 +15633,7 @@ elben
 elegieren
 elektrifizieren
 elektrisieren
+elektrisiren
 elektrolysieren
 elektronisieren
 elektropolieren
@@ -15467,7 +15873,9 @@ endeln
 enden
 endern
 endigen
+endlagern
 endlichen
+energetisieren
 enervieren
 enfilieren
 enflammieren
@@ -16313,6 +16721,7 @@ entidealisieren
 entideologisieren
 entindividualisieren
 entindustrialisieren
+entionisieren
 entirdischen
 entirren
 entislamisieren
@@ -16398,6 +16807,7 @@ entkränken
 entkränzen
 entkrauten
 entkreisen
+entkreuzigen
 entkriechen
 entkriminalisieren
 entkrönen
@@ -16963,6 +17373,7 @@ entsentimentalisieren
 entsetzen
 entseuchen
 entseufzen
+entsexualisieren
 entsichern
 entsickern
 entsieben
@@ -17241,6 +17652,7 @@ entwonnen
 entworten
 entwuchten
 entwühlen
+entwunden
 entwundern
 entwürden
 entwürdigen
@@ -17795,6 +18207,7 @@ erjüngen
 erjüngern
 erkalten
 erkälten
+erkältet sein
 erkältigen
 erkämmen
 erkämpfen
@@ -17938,6 +18351,7 @@ erleidigen
 erleiern
 erleinen
 erlernen
+erleschen
 erlesen
 erletzen
 erleuben
@@ -18490,11 +18904,13 @@ erteigen
 erteilen
 ertesten
 erteuern
+ertheilen
 ertiefen
 ertilgen
 ertippen
 ertöbeln
 ertoben
+ertödten
 ertollen
 ertönen
 ertoren
@@ -18672,6 +19088,7 @@ erzwecken
 erzweifeln
 erzwicken
 erzwingen
+es faustdick hinter den Ohren haben
 eseln
 eskaladieren
 eskalieren
@@ -18692,6 +19109,8 @@ estaffieren
 estimieren
 estrichen
 etablieren
+etalieren
+etappieren
 etatisieren
 eternisieren
 ethisieren
@@ -18701,10 +19120,36 @@ etkumen
 etmen
 etoupieren
 ettern
+etwas am Hals haben
+etwas an den Tag legen
+etwas an die große Glocke hängen
+etwas auf der Pfanne haben
+etwas auf die hohe Kante legen
+etwas auf die lange Bank schieben
+etwas auf Eis legen
+etwas aus der Luft greifen
+etwas durch die rosarote Brille sehen
+etwas für bare Münze nehmen
+etwas für einen Apfel und ein Ei kaufen
+etwas gebacken bekommen
+etwas gebacken kriegen
+etwas im Keim ersticken
+etwas im Schilde führen
+etwas im Zaum halten
+etwas in den Wind schlagen
+etwas in die Schanze schlagen
+etwas nicht auf sich sitzen lassen
+etwas Revue passieren lassen
+etwas satt haben
+etwas über die Bühne bringen
+etwas unter den Teppich kehren
+etwas zu den Akten legen
+etwas zu Tage fördern
 etymologisieren
 etzen
 eukelen
 eulanisieren
+Eulen nach Athen tragen
 eulenspiegeln
 eumeln
 eunuchisieren
@@ -18718,6 +19163,7 @@ evakuieren
 evaluieren
 evalvieren
 evangelisieren
+evangelisiren
 evaporieren
 evaporisieren
 evenen
@@ -18758,6 +19204,7 @@ exigieren
 exilieren
 eximieren
 existieren
+existiren
 exkavieren
 exklamieren
 exkludieren
@@ -18776,11 +19223,13 @@ expedieren
 expektorieren
 expellieren
 experimentieren
+experimentiren
 explanieren
 explantieren
 explizieren
 explodieren
 exploitieren
+exploitiren
 explorieren
 exponenzieren
 exponieren
@@ -18823,10 +19272,12 @@ exzerptieren
 exzidieren
 exzipieren
 exzitieren
+f*cken
 fabeln
 fabrizieren
 fabulieren
 facebooken
+facetimen
 facettieren
 fächeln
 fachen
@@ -18853,6 +19304,7 @@ fahren
 fahren lassen
 fahrenlassen
 Fahrrad fahren
+Fahrt aufnehmen
 faken
 faksimilieren
 faktorisieren
@@ -18893,6 +19345,7 @@ fankezen
 fankizen
 fantasieren
 fanzeln
+Farbe bekennen
 farbeln
 färbeln
 farben
@@ -18947,6 +19400,7 @@ fäusteln
 fausten
 fäusten
 faustficken
+faven
 favorisieren
 faxen
 fazilitieren
@@ -19031,11 +19485,13 @@ feigeln
 feiken
 feilbieten
 feilen
+feilhaben
 feilhalten
 feilschen
 feilsen
 feimen
 fein mahlen
+feinabstimmen
 feinbrennen
 feinden
 feinen
@@ -19106,6 +19562,7 @@ fernüberwachen
 fernverarbeiten
 fernzünden
 ferren
+Fersengeld geben
 ferten
 fertig bauen
 fertig bekommen
@@ -19131,6 +19588,7 @@ feseln
 fesseln
 fessern
 fest-
+fest einprogrammieren
 festankern
 festbacken
 festballen
@@ -19221,6 +19679,8 @@ feuchtigen
 feuchtmachen
 feudalisieren
 feudeln
+Feuer fangen
+Feuer und Flamme sein
 feuerbestatten
 feuererzen
 feuern
@@ -19336,6 +19796,7 @@ flacken
 flackern
 fladern
 flädern
+Flagge zeigen
 flaggen
 flaien
 flambieren
@@ -19540,12 +20001,14 @@ folgern
 folieren
 foliieren
 follen
+followen
 foltern
 fomentieren
 fönen
 föppeln
 foppen
 förchen
+förchten
 forcieren
 fordern
 fördern
@@ -19557,6 +20020,7 @@ formatieren
 formen
 formfertigstanzen
 formieren
+formiren
 formulieren
 forscheln
 förscheln
@@ -20230,6 +20694,7 @@ fosen
 fosseln
 fösseln
 fossilisieren
+fotodokumentieren
 fotografieren
 fotographieren
 fotokopieren
@@ -20343,6 +20808,7 @@ freizeichnen
 freizeitgestalten
 fremdeln
 fremden
+fremdficken
 fremdgehen
 fremdschämen
 fremdzeugen
@@ -20426,6 +20892,7 @@ frottieren
 frotzeln
 fröuwen
 fruchtbaren
+Früchte tragen
 fruchten
 früchten
 früchtigen
@@ -20507,12 +20974,14 @@ fulminieren
 fulteren
 fultern
 fummeln
+functioniren
 fundamenten
 fundamentieren
 fündelen
 fündeln
 funden
 fundieren
+fündig werden
 fünfen
 fünferlen
 fünfern
@@ -20521,6 +20990,7 @@ fünfteilen
 fünfteln
 fünften
 fungieren
+fungiren
 funkelfausen
 funkeln
 fünkeln
@@ -20915,6 +21385,7 @@ fusen
 fusern
 füsilieren
 fusionieren
+Fuß fassen
 fußbaden
 fußballern
 fußballspielen
@@ -21045,6 +21516,8 @@ ganstern
 ganten
 gänten
 gantern
+ganz dicht sein
+ganz Ohr sein
 gänzeln
 ganzen
 gänzen
@@ -21092,6 +21565,7 @@ gärtnerieren
 gärtnern
 garzen
 gärzen
+Gas geben
 gäschen
 gäschten
 gasen
@@ -21264,6 +21738,7 @@ gegenbedingen
 gegenbelfern
 gegenbellen
 gegenbescheinigen
+gegenbeschuldigen
 gegenbestätigen
 gegenbieten
 gegenblasen
@@ -21273,6 +21748,7 @@ gegenbuchen
 gegenchecken
 gegenehren
 gegeneifern
+gegeneinander ausspielen
 gegeneinanderfallen
 gegeneinanderhalten
 gegeneinanderhetzen
@@ -21440,6 +21916,7 @@ gelbeln
 gelben
 gelbfärben
 gelbstreichen
+Geld wie Heu haben
 geleben
 gelegern
 geleggen
@@ -21479,6 +21956,7 @@ gelösen
 gelsen
 gelstern
 gelten
+geltend machen
 gelübden
 gelüben
 geluchsen
@@ -21501,6 +21979,7 @@ gemäuzen
 gemehren
 gemeinden
 gemeinen
+gemeinsame Sache machen
 gemeinsamen
 gemeinschaften
 gemeistern
@@ -21576,6 +22055,7 @@ geragen
 geramen
 geramigen
 geraten
+gerathen
 gerauen
 geraumen
 gerbelieren
@@ -21810,6 +22290,7 @@ gewährleisten
 gewahrsamen
 gewaldrechten
 gewallen
+Gewalt antun
 gewalten
 gewaltigen
 gewältigen
@@ -21933,6 +22414,7 @@ gezwiedigen
 gezwingen
 ghettoisieren
 ghosten
+gibbeln
 gibbern
 gicheln
 gichen
@@ -22089,11 +22571,13 @@ glattziehen
 glattzupfen
 glatzen
 glauben
+glaubern
 glaubigen
 gläubigen
 glauen
 glaunen
 glauren
+glawben
 glecken
 gleddern
 gleffeln
@@ -22112,6 +22596,7 @@ gleich tun
 gleich ziehen
 gleichachten
 gleichähnen
+gleichbehandeln
 gleichbleiben
 gleichbügeln
 gleichdenken
@@ -22245,6 +22730,7 @@ glossieren
 glosten
 glostern
 glöten
+glottalisieren
 glottern
 glotzen
 gloxen
@@ -22350,6 +22836,7 @@ gneustern
 gnicken
 gnickern
 gniedeln
+gnietschen
 gniffen
 gnipfen
 gnippen
@@ -22431,6 +22918,7 @@ gorren
 gorzen
 gösen
 gossen
+gotifizieren
 gotisieren
 götscheln
 götschen
@@ -22646,6 +23134,7 @@ grignardieren
 grillen
 grillieren
 grillisieren
+Grimassen schneiden
 grimassieren
 grimmbrummen
 grimmeln
@@ -22694,6 +23183,7 @@ gröpsen
 groscheln
 groß füttern
 groß schreiben
+große Töne spucken
 großen
 größen
 größern
@@ -22771,6 +23261,7 @@ grüseln
 grusen
 grüsen
 grüßen
+grüßen lassen
 grutschen
 grützen
 gschafteln
@@ -22849,6 +23340,8 @@ güteln
 guten
 güten
 gütern
+gutes Geld dem schlechten nachwerfen
+gutes Geld schlechtem hinterherwerfen
 gutfinden
 gutgehen
 guthaben
@@ -22876,9 +23369,11 @@ gutzgen
 gutzüchten
 gwackatzen
 gymnastizieren
+Haare auf den Zähnen haben
 haaren
 haarspalten
 haben
+haben können
 haberechten
 haberfeldtreiben
 habern
@@ -22896,6 +23391,7 @@ häckseln
 hadern
 hafern
 hafnen
+haftbar machen
 haften
 haften bleiben
 haftenbleiben
@@ -22932,6 +23428,7 @@ halsstarrigen
 halsstreichen
 Halt machen
 halten
+halten für
 haltern
 haltmachen
 hamburgern
@@ -22943,7 +23440,9 @@ hämmern
 hammerschlagen
 hampeln
 hamstern
+Hand in Hand gehen
 handarbeiten
+Hände schütteln
 händeklatschen
 handeln
 händeln
@@ -22995,12 +23494,14 @@ harmen
 härmen
 harmonieren
 harmonisieren
+Harn lassen
 harnen
 harnischen
 harpunieren
 harren
 harschen
 harselieren
+hart auf hart kommen
 hart löten
 härteln
 härten
@@ -23025,6 +23526,7 @@ hasseln
 hassen
 hässieren
 hässlichen
+hasslieben
 hasteln
 hasten
 hätscheln
@@ -23082,6 +23584,7 @@ hefteln
 heften
 heftschweißen
 hegen
+hegen und pflegen
 hegern
 hehlen
 hehren
@@ -23132,6 +23635,7 @@ heimreiten
 heimschen
 heimscheuchen
 heimschicken
+heimschleppen
 heimsen
 heimsigen
 heimsuchen
@@ -23147,6 +23651,7 @@ heinzen
 heinzern
 heiraspeln
 heiraten
+heirathen
 heiren
 heischen
 heisern
@@ -23180,6 +23685,7 @@ henkeln
 henken
 henkern
 hennen
+heparinisieren
 herabbammeln
 herabbaumeln
 herabbeugen
@@ -23958,6 +24464,7 @@ herprahlen
 herprangen
 herputzen
 herquellen
+Herr werden
 herragen
 herrasen
 herrauschen
@@ -23974,6 +24481,7 @@ herreizen
 herren
 herrichten
 herriechen
+herrklären
 herrlichen
 herrollen
 herrschaften
@@ -24290,6 +24798,7 @@ herummurksen
 herumnaschen
 herumnesteln
 herumnörgeln
+herumnudeln
 herumoperieren
 herumpatschen
 herumpetern
@@ -24306,6 +24815,7 @@ herumpuffen
 herumpulen
 herumpusseln
 herumquälen
+herumquasseln
 herumquatschen
 herumquengeln
 herumrasen
@@ -24718,11 +25228,14 @@ heulen
 heunen
 heuren
 hexen
+heylen
+heyßen
 hibbeln
 hickeln
 hicken
 hicksen
 hiechen
+hiehergehören
 hielen
 hienern
 hier sein
@@ -24756,6 +25269,7 @@ hiften
 highlighten
 hilden
 hilpeln
+Himmel und Hölle in Bewegung setzen
 himmeln
 himmelzen
 himmern
@@ -25196,6 +25710,7 @@ hineinbemühen
 hineinbewegen
 hineinbitten
 hineinblasen
+hineinblättern
 hineinblicken
 hineinblinzeln
 hineinbohren
@@ -25294,8 +25809,10 @@ hineinmarschieren
 hineinmengen
 hineinmischen
 hineinmuffeln
+hineinmusen
 hineinmüssen
 hineinnehmen
+hineinoptieren
 hineinpacken
 hineinpassen
 hineinpatschen
@@ -25727,6 +26244,7 @@ hinsummen
 hintanbleiben
 hintändeln
 hintanhalten
+hintanlegen
 hintansetzen
 hintanstehen
 hintanstellen
@@ -25834,6 +26352,7 @@ hintermauern
 hinternieten
 hinterpfänden
 hinterreden
+hinters Licht führen
 hinterschlagen
 hinterschleichen
 hinterschlingen
@@ -26176,6 +26695,7 @@ hippeln
 hippen
 hippenbuben
 hircheln
+hirnen
 hirten
 hirzeln
 hispanisieren
@@ -26195,6 +26715,7 @@ hoch schätzen
 hochachten
 hocharbeiten
 hochbäumen
+hochbeamen
 hochbekommen
 hochbiegen
 hochbinden
@@ -26336,6 +26857,7 @@ höcken
 hocken bleiben
 hockenbleiben
 höckern
+Hof halten
 höfelieren
 hofeln
 höfeln
@@ -26353,6 +26875,7 @@ höhen
 höhern
 höherschlagen
 höherschrauben
+höherstufen
 höhlen
 hohlern
 höhlern
@@ -26389,12 +26912,16 @@ holographieren
 holpeln
 holpern
 holunken
+Holz in den Wald tragen
 holzen
 holzschlägeln
 hominisieren
 homogenisieren
 homologieren
 honen
+Honig um den Bart schmieren
+Honig um den Mund schmieren
+Honig ums Maul schmieren
 honorieren
 hooken
 hopfen
@@ -26520,6 +27047,7 @@ ichen
 ichten
 ickeln
 idealisieren
+idealisiren
 identifizieren
 ideologisieren
 idiomatisieren
@@ -26531,6 +27059,7 @@ ielen
 ieren
 igeln
 ignorieren
+ignoriren
 ignoszieren
 ihrzen
 ilen
@@ -26539,6 +27068,20 @@ illern
 illuminieren
 illusionieren
 illustrieren
+im Auge behalten
+im Auge haben
+im Begriff sein
+im Bilde über etwas sein
+im Dunkeln tappen
+im Eimer sein
+im Feld bleiben
+im Geld schwimmen
+im Griff haben
+im Sand verlaufen
+im Stich lassen
+im Sturm einnehmen
+im Sturm erobern
+im Sturm nehmen
 imaginieren
 imbibieren
 imitieren
@@ -26562,10 +27105,57 @@ imprägnieren
 imprimieren
 improvisieren
 imputieren
+in Abrede stellen
+in Acht nehmen
+in aller Munde sein
+in Angriff nehmen
+in Berufung gehen
+in Beschlag nehmen
+in Betracht kommen
+in Betracht ziehen
+in den Arsch kriechen
+in den Boden versinken
+in den falschen Hals kriegen
+in den Griff bekommen
+in den Himmel heben
+in den letzten Zügen liegen
+in den Rücken fallen
+in den Sand setzen
+in den sauren Apfel beißen
+in den Sternen stehen
+in den Wind schlagen
+in den Wind sprechen
+in der Familie liegen
+in der Kreide stehen
+in der Nase bohren
+in der Tinte sitzen
+in die Bresche springen
+in die Ehe bringen
+in die Enge treiben
+in die Hose gehen
+in die Luft sprengen
+in die Pfanne hauen
+in die Pötte kommen
+in die Puschen kommen
+in die Quere kommen
+in die Tat umsetzen
+in die Wege leiten
+in eine Schublade stecken
+in einen Sack stecken und draufhauen
+in Erfüllung gehen
 in Frage kommen
 in Frage stellen
+in Kauf nehmen
+in Kraft treten
+in Sack und Asche gehen
+in Saus und Braus leben
+in Schach halten
 in Stand besetzen
 in Stand setzen
+in Stein gemeißelt sein
+in Strömen regnen
+in Ungnade fallen
+in Zweifel ziehen
 inaktivieren
 inaugurieren
 inbehalten
@@ -26657,6 +27247,34 @@ inoxidieren
 inquirieren
 inreißen
 inrotulieren
+ins Auge fassen
+ins Auge gehen
+ins Auge springen
+ins Auge stechen
+ins Bild setzen
+ins Bockshorn jagen
+ins Detail gehen
+ins Einzelne gehen
+ins Feld führen
+ins Fettnäpfchen treten
+ins Gebet nehmen
+ins Gewicht fallen
+ins gleiche Horn blasen
+ins Gras beißen
+ins kalte Wasser springen
+ins Knie ficken
+ins Kraut schießen
+ins Land ziehen
+ins Ohr gehen
+ins Reine bringen
+ins Reine kommen
+ins Schwarze treffen
+ins Stocken geraten
+ins Visier geraten
+ins Visier nehmen
+ins Wasser fallen
+ins Wasser gehen
+ins Ziel gehen
 inschlinden
 inseminieren
 inserieren
@@ -26674,6 +27292,7 @@ instand setzen
 instandbesetzen
 instandsetzen
 instantisieren
+instanziieren
 instaurieren
 instigieren
 instillieren
@@ -26692,13 +27311,16 @@ intarsieren
 integrieren
 intellektualisieren
 intendieren
+intensifizieren
 intensivieren
 interagieren
 interdependieren
 interdizieren
 interessieren
+interessiren
 interferieren
 interkalieren
+interkulturalisieren
 intermittieren
 internalisieren
 internationalisieren
@@ -26749,6 +27371,7 @@ irradiieren
 irrefahren
 irreführen
 irregehen
+irregularisieren
 irreleiten
 irremachen
 irren
@@ -26764,6 +27387,8 @@ irrlichtern
 irrwerden
 islamisieren
 isolieren
+isoliren
+isomerisieren
 israelisieren
 ist
 isten
@@ -26814,7 +27439,27 @@ jauzen
 jazzen
 jechen
 jecken
+jedes Wort auf die Goldwaage legen
 jehen
+jemand in die Tasche stecken
+jemandem ans Bein pinkeln
+jemandem den Rang ablaufen
+jemandem den Star stechen
+jemandem die Stirn bieten
+jemandem ein Kuckucksei ins Nest legen
+jemandem etwas in die Schuhe schieben
+jemandem etwas zur Last legen
+jemandem in den Kram passen
+jemandem in die Suppe spucken
+jemandem in Fleisch und Blut übergehen
+jemandem nicht das Wasser reichen können
+jemandem Sand in die Augen streuen
+jemandem Saures geben
+jemandem über den Weg laufen
+jemandem zu nahe treten
+jemandem zu schaffen machen
+jemandem zur Seite stehen
+jemanden kreuzweise können
 jemmern
 jenfen
 jeren
@@ -26823,6 +27468,7 @@ jetten
 jeuchen
 jeuen
 jibbern
+jiddeln
 jiepern
 jimmern
 jobben
@@ -26834,8 +27480,10 @@ jodieren
 joggen
 johlen
 johnen
+joken
 jolen
 jonglieren
+jotieren
 jubelieren
 jubeln
 jubilieren
@@ -26875,11 +27523,14 @@ juuzen
 juvenalisieren
 juwelieren
 juxen
+juxtaponieren
 juzen
+k*cken
 kaatigen
 kabalieren
 kabalisieren
 kabbeln
+käbbeln
 kabeln
 kabertschen
 kabotieren
@@ -26948,6 +27599,7 @@ kalmieren
 kalt stellen
 kaltauslagern
 kaltbleiben
+kalte Füße bekommen
 kalten
 kälten
 kalthämmern
@@ -27110,6 +27762,7 @@ kategorisieren
 katern
 katheterisieren
 kathetern
+katholisch machen
 katholisieren
 katschen
 kätschen
@@ -27130,6 +27783,7 @@ käuen
 kauern
 käufeln
 kaufen
+käufen
 kaufmannschaften
 kaufschlagen
 kaukeln
@@ -27142,6 +27796,7 @@ käupeln
 kaupen
 kauschen
 kausen
+kausieren
 käustern
 kaustifizieren
 kauten
@@ -27176,7 +27831,20 @@ keilen
 keimeln
 keimen
 keimern
+kein Blatt vor den Mund nehmen
+kein unbeschriebenes Blatt sein
+kein Wässerchen trüben können
+keine halben Sachen machen
+keine Hand rühren
+keine Rolle spielen
 keinen
+keinen blassen Schimmer haben
+keinen Finger rühren
+keinen Groschen wert sein
+keinen Heller wert sein
+keinen Pfennig wert sein
+keinen Pfifferling wert sein
+keinen Schimmer haben
 keipeln
 keistern
 kelchen
@@ -27214,6 +27882,7 @@ kerneln
 kernen
 kerren
 kerzen
+Kerzen ziehen
 keschen
 keschern
 kesseln
@@ -27277,10 +27946,12 @@ kilen
 kilkern
 kilkezen
 killen
+killern
 kilometrieren
 kilstern
 kimmen
 kimmern
+Kind pinkeln lassen
 kindbetten
 kindeln
 kindelwehen
@@ -27373,6 +28044,7 @@ kläppern
 klapsen
 klar sehen
 klar werden
+klare Kante zeigen
 klaren
 klären
 klargehen
@@ -27488,6 +28160,7 @@ klexen
 kliben
 klibern
 klichen
+klick machen
 klicken
 klickern
 klieben
@@ -27504,6 +28177,7 @@ klingen
 klingern
 klinkeln
 klinken
+Klinken putzen
 klinkenschlagen
 klinkern
 klipfeln
@@ -27712,6 +28386,7 @@ knieen
 kniehalsen
 knielen
 knien
+kniepen
 knieseilen
 knietschen
 kniffe
@@ -27786,6 +28461,7 @@ knubbeln
 knübeln
 knucksen
 knuddeln
+knüddeln
 knudeln
 knüffeln
 knuffen
@@ -27909,6 +28585,7 @@ kommemorieren
 kommen
 kommenlassen
 kommentieren
+kommersieren
 kommerzialisieren
 kommissionieren
 kommodifizieren
@@ -27921,6 +28598,7 @@ kompetieren
 kompilieren
 komplementieren
 komplettieren
+komplexieren
 komplimentieren
 komplizieren
 komplottieren
@@ -27984,6 +28662,7 @@ konstruieren
 konsulieren
 konsultieren
 konsumieren
+konsumiren
 kontakten
 kontaktieren
 kontaminieren
@@ -28001,6 +28680,7 @@ kontingentieren
 kontinuieren
 kontrafeiten
 kontrahieren
+kontraindizieren
 kontraktieren
 kontrapunktieren
 kontrasignieren
@@ -28044,6 +28724,7 @@ köpflassen
 kopfrechnen
 kopfstehen
 kopieren
+kopieren und einfügen
 koppeln
 köppeln
 koppen
@@ -28311,6 +28992,7 @@ kristellern
 kristen
 kristieren
 kritisieren
+kritisiren
 kritteln
 kritzeln
 kritzen
@@ -28370,6 +29052,7 @@ krümeln
 krumen
 krümen
 krumm legen
+krumm machen
 krummbiegen
 krummeln
 krümmeln
@@ -28513,6 +29196,7 @@ kursivieren
 kürturnen
 kurven
 kurz halten
+kurz machen
 kurz schneiden
 kurzarbeiten
 kurzen
@@ -28522,6 +29206,7 @@ kürzertreten
 kurzfassen
 kurzhalten
 kürzigen
+kurzmachen
 kurzscheren
 kurzschließen
 kurzschneiden
@@ -28612,6 +29297,7 @@ lampeln
 lampen
 lampern
 lancieren
+Land gewinnen
 landen
 länden
 landern
@@ -28681,12 +29367,14 @@ laufern
 läufern
 laugen
 läugen
+läugnen
 launen
 laupern
 lauschen
 lausen
 lauspern
 laustern
+laut denken
 Laut geben
 laut werden
 lautbrechten
@@ -28707,6 +29395,7 @@ lazerieren
 leaken
 leasen
 leben
+leben und leben lassen
 lebendigen
 lebenslaufen
 lebern
@@ -28729,6 +29418,7 @@ leer pumpen
 leer stehen
 leerbacken
 leeren
+leeres Stroh dreschen
 leeressen
 leerfegen
 leerfressen
@@ -28747,6 +29437,7 @@ legendieren
 legern
 legieren
 legiferieren
+Legion sein
 legitimieren
 lehmdecken
 lehnen
@@ -28756,13 +29447,16 @@ leibeinigen
 leiben
 leibt
 leichen
+leicht reden haben
 leichten
 leichtern
 leichtfallen
 leichtmachen
 leichtnehmen
 leichttun
+leid sein
 leid tun
+Leid tun
 leiden
 leidigen
 leidtun
@@ -28827,6 +29521,7 @@ liebäugeln
 liebaugen
 liebäugen
 liebbehalten
+Liebe machen
 liebedienern
 liebeln
 lieben
@@ -28867,6 +29562,7 @@ linieren
 liniieren
 linken
 linkieren
+links liegen lassen
 linsen
 lipfen
 lippeln
@@ -28896,12 +29592,14 @@ lobbyieren
 loben
 lobheulen
 lobhudeln
+lobotomisieren
 lobpreisen
 lobreden
 lobsagen
 lobsingen
 lochen
 löchern
+locieren
 löckeln
 locken
 löcken
@@ -29088,6 +29786,7 @@ luftlanden
 luftsegeln
 lugen
 lügen
+Lügen strafen
 lügenstrafen
 lugsen
 lügstrafen
@@ -29121,6 +29820,7 @@ lüsten
 lustern
 lustfeiern
 lustieren
+lustig machen
 lustigen
 lustkämpfen
 lustreisen
@@ -29141,6 +29841,7 @@ mäandrieren
 machen
 machinieren
 mächtigen
+madigmachen
 madjarisieren
 maffen
 magazinieren
@@ -29244,6 +29945,7 @@ maschinen
 maschinieren
 masen
 masern
+Maske machen
 maskieren
 Maß halten
 Maß nehmen
@@ -29259,6 +29961,7 @@ massieren
 mäßigen
 massivwerden
 maßleiden
+Maßnahmen ergreifen
 maßnehmen
 massolieren
 maßregeln
@@ -29371,6 +30074,7 @@ merzen
 merzerisieren
 mesalliieren
 meschen
+mesmerisieren
 messen
 messern
 messieren
@@ -29407,9 +30111,11 @@ miesmachen
 mieten
 mietern
 migrieren
+mikrominiaturisieren
 mikronisieren
 mikroskopieren
 miktieren
+mikturieren
 milben
 milchen
 milchrahmen
@@ -29435,6 +30141,7 @@ mischeln
 mischen
 mischmaschen
 miseln
+misgendern
 miss
 missachten
 missarbeiten
@@ -29552,8 +30259,28 @@ misszeichnen
 missziemen
 misszieren
 misten
+mit allen Wassern gewaschen sein
 mit berücksichtigen
+mit dem Feuer spielen
+mit dem linken Fuß zuerst aufgestanden sein
+mit den Schultern zucken
+mit den Wimpern klimpern
+mit den Wölfen heulen
+mit der Kneifzange nicht anfassen
+mit einem Bein im Gefängnis stehen
+mit einem blauen Auge davonkommen
+mit einem Fuß im Grab stehen
+mit etwas Schritt halten
+mit Glacéhandschuhen anfassen
+mit jemandem ins Gericht gehen
+mit jemandem Schlitten fahren
+mit Kanonen auf Spatzen schießen
+mit Kanonen nach Spatzen schießen
+mit offenen Augen schlafen
+mit offenen Karten spielen
+mit Samthandschuhen anfassen
 mit sein
+mit seinem Latein am Ende sein
 mit unterzeichnen
 mitangeben
 mitansehen
@@ -29618,6 +30345,7 @@ mitfuttern
 mitgaren
 mitgeben
 mitgehen
+mitgehen lassen
 mitgelangen
 mitgenießen. mitgenieszen
 mitgesellen
@@ -29725,6 +30453,7 @@ mittagmahlen
 mittanzen
 mitteilen
 mitteln
+mittheilen
 mittönen
 mittraben
 mittragen
@@ -29757,6 +30486,7 @@ mitwohnen
 mitwollen
 mitzählen
 mitzechen
+mitzeichnen
 mitzerren
 mitziehen
 mitzittern
@@ -29806,6 +30536,8 @@ montieren
 moorbaden
 moosen
 moppen
+moppern
+möppern
 mopsen
 moralisieren
 mordbrennen
@@ -29855,6 +30587,7 @@ muchzen
 müchzen
 muckeln
 mucken
+Mücken seihen und Kamele verschlucken
 muckern
 muckschen
 mucksen
@@ -29862,6 +30595,7 @@ muddeln
 müden
 mudern
 müdigen
+muessen
 muffeln
 müffeln
 muffen
@@ -29881,6 +30615,7 @@ müllern
 mulmen
 mulstern
 multern
+multipliciren
 multiplizieren
 mulzen
 mumifizieren
@@ -29898,6 +30633,7 @@ münden
 mundieren
 mündig sprechen
 mündigsprechen
+mundtot machen
 mundzen
 munitionieren
 munizipalisieren
@@ -29928,6 +30664,7 @@ muschen
 müschen
 museln
 musen
+musicieren
 musieren
 musiken
 musizieren
@@ -29959,6 +30696,8 @@ mystifizieren
 mythisieren
 mythologisieren
 nabeln
+nach hinten losgehen
+nach oben buckeln und nach unten treten
 nachackern
 nachäffen
 nachahmen
@@ -30236,6 +30975,7 @@ nachleben
 nachlegen
 nachleiden
 nachleiern
+nachleisten
 nachlenden
 nachlernen
 nachlesen
@@ -30293,6 +31033,7 @@ nachprasseln
 nachpredigen
 nachprellen
 nachproben
+nachproduzieren
 nachprüfen
 nachquälen
 nachquatschen
@@ -30615,6 +31356,7 @@ nacktbaden
 nadeln
 nädeln
 nafzen
+Nägel mit Köpfen machen
 nageln
 nagen
 nahebringen
@@ -30643,6 +31385,7 @@ nähren
 nahrungen
 nämeln
 namen
+namhaft machen
 namsen
 nangeln
 napfen
@@ -30666,7 +31409,9 @@ nasen
 nasenrümpfen
 naserümpfen
 nasführen
+nass machen
 nass schwitzen
+nass spritzen
 nassauern
 nässeln
 nassen
@@ -30755,10 +31500,18 @@ neunen
 neunern
 neurotisieren
 neusen
+neustarten
 neutralisieren
 nibbeln
 nibeln
+nicht alle Tassen im Schrank haben
+nicht auf der Brennsuppe dahergeschwommen sein
+nicht der Rede wert sein
 nichtigen
+nichts anbrennen lassen
+nichts auf etwas geben
+nichts Gutes im Schilde führen
+nichts zu suchen haben
 nichtsen
 nickeln
 nicken
@@ -30857,6 +31610,7 @@ niederklingen
 niederklirren
 niederknallen
 niederknebeln
+niederknieen
 niederknien
 niederknotzen
 niederknüppeln
@@ -31111,6 +31865,7 @@ nitrifizieren
 nivellieren
 nobilitieren
 nobisen
+noch in den Kinderschuhen stecken
 nodern
 nöhlen
 nölen
@@ -31132,6 +31887,7 @@ normieren
 nostern
 nostrifizieren
 not tun
+Not tun
 notabschalten
 notbremsen
 notdrängen
@@ -31202,6 +31958,7 @@ nunnelen
 nüpfen
 nuppeln
 nüppen
+nur Bahnhof verstehen
 nuscheln
 nüscheln
 nüschen
@@ -31227,6 +31984,7 @@ obenstehen
 oberherrschen
 obern
 obertreten
+obfuskieren
 obhaben
 obherrschen
 objektivieren
@@ -31282,6 +32040,7 @@ offen stehen
 offenbaren
 offenbleiben
 offendieren
+offene Türen einrennen
 offenhalten
 offenieren
 offenlassen
@@ -31313,6 +32072,7 @@ okkupieren
 oktavieren
 oktroyieren
 okulieren
+Öl ins Feuer gießen
 ölelen
 ölen
 ölenzen
@@ -31376,6 +32136,7 @@ ownen
 oxidieren
 oxydieren
 ozonisieren
+p*ppen
 paaren
 pachten
 packeln
@@ -31461,10 +32222,13 @@ parlen
 pärlen
 parlieren
 parodieren
+Paroli bieten
 pärscheln
 pärschen
 parsen
+parshippen
 partagieren
+Partei ergreifen
 parteien
 parteiischen
 parten
@@ -31542,6 +32306,7 @@ pennen
 pensionieren
 penzen
 peptisieren
+per Anhalter fahren
 peregrinieren
 perennieren
 perfektionieren
@@ -31558,6 +32323,7 @@ periphrasieren
 perkolieren
 perkutieren
 perlen
+Perlen vor die Säue werfen
 perludieren
 perlustrieren
 permittieren
@@ -31570,6 +32336,7 @@ perpetrieren
 perpetuieren
 perschen
 perseverieren
+persifizieren
 persiflieren
 persistieren
 persolvieren
@@ -31597,6 +32364,7 @@ petten
 petzen
 peuchen
 peunten
+pexieren
 pfachen
 pfachten
 pfächten
@@ -31700,6 +32468,7 @@ pfunden
 pfupfen
 pfupfern
 pfurren
+pfurzen
 pfuschen
 pfuschern
 pfusen
@@ -31713,6 +32482,7 @@ pharyngalisieren
 philistern
 philistrieren
 philosophieren
+philosophiren
 phosphatieren
 phosphoreszieren
 photographieren
@@ -31786,6 +32556,7 @@ pitzen
 pivotieren
 pixeln
 placieren
+placiren
 placken
 plackern
 pladdern
@@ -31842,6 +32613,7 @@ plattieren
 plattmachen
 plattnen
 plattwalzen
+Platz nehmen
 platzen
 plätzen
 platzen lassen
@@ -32110,6 +32882,8 @@ pröbeln
 proben
 probieren
 problematisieren
+producieren
+produciren
 produzieren
 profanieren
 profanisieren
@@ -32123,6 +32897,7 @@ programmieren
 prohibieren
 projektieren
 projezieren
+projicieren
 projizieren
 prokeln
 proklamieren
@@ -32136,10 +32911,12 @@ prolongieren
 promenieren
 promittieren
 promoten
+promotieren
 promovieren
 promulgieren
 pronieren
 prononcieren
+pronunzieren
 propagandieren
 propagieren
 pröpeln
@@ -32167,6 +32944,7 @@ prostituieren
 protegieren
 protestantisieren
 protestieren
+protestiren
 protokollieren
 protrahieren
 protzeln
@@ -32204,6 +32982,7 @@ publizieren
 pucken
 puckern
 puddeln
+Pudding an die Wand nageln
 pudeln
 pudern
 püffeln
@@ -32258,9 +33037,11 @@ pusseln
 pusten
 püstern
 putreszieren
+putrifizieren
 putschen
 pütschern
 putten
+püttkern
 putzeln
 putzen
 puzzeln
@@ -32300,6 +33081,7 @@ quanzen
 quappeln
 quappen
 quappern
+quarantänisieren
 quargeln
 quarken
 quarren
@@ -32516,6 +33298,7 @@ rastern
 rastrieren
 raten
 ratfragen
+rathen
 ratifizieren
 ratihabieren
 ratinieren
@@ -32534,6 +33317,7 @@ räubern
 raubkopieren
 räucheln
 rauchen
+räuchen
 räucherenzen
 rauchern
 räuchern
@@ -32558,10 +33342,12 @@ rauneln
 raunen
 raunzen
 raupen
+rausbekommen
 rausboxen
 rausbringen
 rauscheln
 rauschen
+rausdrehen
 rausdürfen
 rausekeln
 rausen
@@ -32570,6 +33356,7 @@ rausfahren
 rausfallen
 rausfenstern
 rausfeuern
+rausfiltern
 rausfinden
 rausfliegen
 rausfuttern
@@ -32618,6 +33405,7 @@ raußeln
 raußem
 raussollen
 raustrauen
+rauswaschen
 rauswerfen
 rauswollen
 rauswürgen
@@ -32626,12 +33414,14 @@ rauszwängen
 rauten
 ravagieren
 raven
+rawben
 raxen
 rayonieren
 räzen
 reagieren
 reaktivieren
 realisieren
+realisiren
 reamateurisieren
 reanimieren
 rearmieren
@@ -32641,11 +33431,14 @@ rebellen
 rebellern
 rebellieren
 rebeln
+rebooten
 rechen
 recherchieren
 rechnen
+Rechnung tragen
 recht haben
 Recht haben
+rechtdrehen
 rechteln
 rechten
 rechtfertigen
@@ -32661,6 +33454,7 @@ recyclen
 recyclieren
 recykeln
 recyklieren
+Rede und Antwort stehen
 redefinieren
 reden
 redhibieren
@@ -32705,6 +33499,7 @@ regranulieren
 regredieren
 regularisieren
 regulieren
+reguliren
 regurgitieren
 rehabilitieren
 rehblatten
@@ -32747,6 +33542,8 @@ reinbuttern
 reinchecken
 reinemachen
 reinen
+reinen Tisch machen
+reinen Wein einschenken
 reinfallen
 reinfegen
 reinfeiern
@@ -32782,6 +33579,7 @@ reinpacken
 reinpassen
 reinpfeifen
 reinpferchen
+reinpiksen
 reinplatzen
 reinpumpen
 reinquetschen
@@ -32806,6 +33604,7 @@ reinschneien
 reinschnuppern
 reinschreiben
 reinsegeln
+reinsetzen
 reinsollen
 reinspazieren
 reinstallieren
@@ -32818,6 +33617,7 @@ reinstopfen
 reintegrieren
 reintreten
 reintrudeln
+reintun
 reinvestieren
 reinwaschen
 reinwerfen
@@ -32906,6 +33706,8 @@ repassieren
 repatriieren
 repetieren
 replantieren
+replicieren
+repliciren
 replizieren
 reponieren
 reportieren
@@ -32915,6 +33717,7 @@ reprimieren
 repristinieren
 reprivatisieren
 reprobieren
+reproduciren
 reproduzieren
 repsen
 requirieren
@@ -33060,6 +33863,7 @@ rippeln
 rippen
 ripsen
 rischeln
+Risikostratifizieren
 riskieren
 rispeln
 rispen
@@ -33077,6 +33881,7 @@ robben
 roboten
 roboterisieren
 robotisieren
+robotten
 robunten
 röcheln
 rochieren
@@ -33112,11 +33917,13 @@ röntgen
 röntgenisieren
 rooten
 röpsen
+rören
 rörpsen
 röschen
 roseln
 röseln
 rosen
+Ross und Reiter nennen
 rosseln
 rösseln
 rossen
@@ -33179,6 +33986,7 @@ rückbuchen
 rückdatieren
 rückdenken
 rückdeuten
+rückdrehen
 ruckeln
 rückempfangen
 rucken
@@ -33195,6 +34003,7 @@ rückfallen
 rückfordern
 rückfragen
 rückführen
+rückgängig machen
 rückgeben
 rückgehen
 rückgewinnen
@@ -33237,6 +34046,7 @@ rückstufen
 rücktreten
 rückübersetzen
 rückübertragen
+rücküberweisen
 rückvergüten
 rückversichern
 rückverweisen
@@ -33245,6 +34055,7 @@ rückwälzen
 rückwandeln
 rückwandern
 rückwärts gehen
+rückwärtsfahren
 rückwärtsgehen
 rückwärtsheben
 rückwärtsschnalzen
@@ -33254,6 +34065,7 @@ rückwirken
 rückwünschen
 rückzahlen
 rückziehen
+rudelbumsen
 rudeln
 rudern
 rudimentieren
@@ -33268,6 +34080,7 @@ rüheln
 ruhen
 ruhen lassen
 ruhenlassen
+ruhig Blut bewahren
 ruhig stellen
 ruhigen
 ruhigstellen
@@ -33292,6 +34105,8 @@ rumbummeln
 rumdiskutieren
 rumeiern
 rumerzählen
+rumexperimentieren
+rumfahren
 rumfaulenzen
 rumficken
 rumflachsen
@@ -33310,12 +34125,15 @@ rumkabbeln
 rumknutschen
 rumkohlen
 rumkommen
+rumkrabbeln
 rumkrebsen
 rumkriegen
 rumkugeln
+rumkümmeln
 rumlabern
 rumlatschen
 rumlaufen
+rumlecken
 rumludern
 rumlungern
 rummachen
@@ -33336,6 +34154,7 @@ rumpfeln
 rumpfen
 rümpfen
 rumpfrecken
+rumpfuschen
 rumpimmeln
 rumpöbeln
 rumpumpeln
@@ -33351,6 +34170,7 @@ rumschreien
 rumschwenken
 rumsen
 rumsitzen
+rumspringen
 rumspuken
 rumständern
 rumstänkern
@@ -33380,6 +34200,7 @@ runter sein
 runterbegleiten
 runterbeten
 runterbrechen
+runterdrücken
 runterfahren
 runterfallen
 runterfliegen
@@ -33407,6 +34228,7 @@ runterreißen
 runterrocken
 runterrutschen
 runterschalten
+runterschauen
 runterscheuern
 runterschlagen
 runterschlingen
@@ -33416,6 +34238,7 @@ runterschwimmen
 runtersein
 runtersetzen
 runterspülen
+runterstellen
 runterstufen
 runtertreten
 runtertrudeln
@@ -33453,6 +34276,7 @@ rüteln
 ruten
 rutscheln
 rutschen
+rütschen
 rütteln
 rütten
 rützen
@@ -33483,6 +34307,8 @@ sägen
 sähen
 sahern
 sahnen
+saisieren
+saisiren
 sakralisieren
 sakramentieren
 sakrieren
@@ -33495,6 +34321,7 @@ salpeterfrischen
 saltern
 salutieren
 salvieren
+Salz in die Wunde streuen
 salzen
 salzern
 samen
@@ -33574,6 +34401,7 @@ sautieren
 saven
 scammen
 scannen
+sch**ßen
 schaben
 schabernacken
 schablonieren
@@ -33588,6 +34416,7 @@ schächten
 schackieren
 schaden
 schädigen
+schadlos halten
 schäfeln
 schafen
 schäfern
@@ -33644,6 +34473,7 @@ scharfstellen
 scharlachfärben
 scharlatzen
 scharlenzen
+scharmieren
 scharmützeln
 scharmützen
 scharmutzieren
@@ -33712,6 +34542,7 @@ scheinblitzen
 scheinelen
 scheinen
 scheinurteilen
+Scheiße bauen
 scheißeln
 scheißen
 scheißern
@@ -33869,6 +34700,7 @@ schlägeln
 schlagen
 schlägern
 schlagzeilen
+schlahn
 schlammen
 schlämmen
 schlamminkeln
@@ -33890,6 +34722,7 @@ schlankmachen
 schlannen
 schlanzen
 schlänzen
+schlapp machen
 schlappen
 schlappern
 schlapplachen
@@ -34063,6 +34896,7 @@ schlurken
 schlurpen
 schlurren
 schlurzen
+Schluss machen
 schlüsseln
 schlussfolgern
 schlutten
@@ -34133,6 +34967,7 @@ schmeren
 schmergeln
 schmerzbereuen
 schmerzen
+Schmetterlinge im Bauch haben
 schmetterlingen
 schmettern
 schmetzen
@@ -34200,6 +35035,7 @@ schmutzen
 schmützen
 schmutzerlachen
 schmutzern
+schmutzige Wäsche waschen
 schmutzlächeln
 schmutzlachen
 schnabelieren
@@ -34287,6 +35123,7 @@ schneuken
 schneukern
 schneuzeln
 schneuzen
+schneyden
 schnibbeln
 schnickeln
 schnicken
@@ -34330,6 +35167,7 @@ schnöckern
 schnoddern
 schnodeln
 schnoden
+schnöden
 schnodern
 schnofeln
 schnökern
@@ -34412,12 +35250,15 @@ schonen
 schönen
 schönern
 schönfärben
+schönfinkeln
 schöngeistern
 schönigen
 schönmachen
 schönrechnen
 schönreden
+schönsaufen
 schönschreiben
+schöntrinken
 schöntun
 schöpern
 schopfbeuteln
@@ -34493,6 +35334,7 @@ schrenzen
 schreppeln
 schribbeln
 schriezen
+schriffeln
 schriffen
 schrifteln
 schriftstellern
@@ -34551,10 +35393,12 @@ schuhen
 schuhlappen
 schuhplatteln
 schuhuhen
+schuld sein
 schulden
 schuldig sprechen
 schuldigen
 schuldigsprechen
+Schule machen
 schulen
 schülern
 schulfern
@@ -34695,6 +35539,7 @@ schwarzärgern
 schwarzbeizen
 schwarzbohren
 schwarzbrachen
+schwarzbrennen
 schwärzen
 schwarzfahren
 schwarzgehen
@@ -34738,6 +35583,7 @@ schweifzgen
 schweigen
 schweimeln
 schweimen
+Schwein haben
 schweinigeln
 schweißbaden
 schweißeinen
@@ -34829,6 +35675,7 @@ schwitze nass
 schwitzeln
 schwitzen
 schwitzen nass
+schwitzen wie ein Schwein
 schwitzest nass
 schwitzet nass
 schwitzt nass
@@ -34942,8 +35789,19 @@ seiltanzen
 seimen
 seimigen
 sein
+sein Damaskus erleben
+sein lassen
+sein Licht unter den Scheffel stellen
+sein wahres Gesicht zeigen
+seine Claims abstecken
+seine Pappenheimer kennen
 seineln
 seinen
+seinen Augen nicht trauen
+seinen Hut nehmen
+seinen Mann stehen
+seinen Segen zu etwas geben
+seinen Senf dazugeben
 seinlassen
 seiren
 seisen
@@ -35009,6 +35867,7 @@ serken
 serpentieren
 serpentinisieren
 serten
+servicieren
 servieren
 setten
 setzen
@@ -35023,6 +35882,8 @@ seufzen
 seufzigen
 seunfzen
 seusen
+Sex haben
+sexeln
 sexen
 sexualisieren
 sezernieren
@@ -35041,9 +35902,45 @@ shuttlen
 sibbern
 sibeln
 sibern
+sich auf den Weg machen
+sich auf die faule Haut legen
+sich auf seinen Lorbeeren ausruhen
+sich aus dem Fenster lehnen
+sich aus dem Staub machen
+sich aus den Fingern saugen
+sich blicken lassen
+sich den Kopf zerbrechen
+sich den Magen verderben
+sich den Strick nehmen
+sich den Tod holen
+sich die Hörner abstoßen
+sich die Seele aus dem Leib scheißen
+sich ein Herz fassen
+sich eine goldene Nase verdienen
+sich einen hinter die Binde kippen
+sich einen Kopf machen
+sich einen Reim auf etwas machen
+sich erkenntlich zeigen
+sich etwas hinter die Ohren schreiben
+sich etwas unter den Nagel reißen
+sich gehen lassen
+sich geschlagen geben
+sich im Kreis drehen
+sich in die Brust werfen
+sich in die eigene Tasche lügen
+sich in die Tasche lügen
+sich in Luft auflösen
+sich ins Fäustchen lachen
+sich ins Zeug legen
+sich keinen Kopf machen
+sich lieb Kind machen
+sich Mühe geben
+sich nicht vom Fleck rühren
 sich vollkröpfen
+sich vom Acker machen
 sich vorbeidrücken
 sich vorbeischmiegen
+sich wacker schlagen
 sicheln
 sichergehen
 sichern
@@ -35053,6 +35950,7 @@ sickeln
 sicken
 sickern
 sicknen
+sie alle haben
 siebeln
 sieben
 siebenen
@@ -35087,6 +35985,8 @@ siknen
 silbeln
 silben
 silbern
+silberne Löffel klauen
+silbieren
 silen
 silhouettieren
 silieren
@@ -35110,6 +36010,8 @@ sinisieren
 sinkeln
 sinken
 sinkern
+Sinn ergeben
+Sinn machen
 sinnbilden
 sinnbildern
 sinnen
@@ -35179,6 +36081,8 @@ sniefen
 sniffen
 snöben
 snowboarden
+so gut sein
+so tun, als ob
 sobben
 sobrieren
 sochen
@@ -35220,6 +36124,7 @@ sömmern
 sommerwohnen
 somnambulieren
 sonderbehandeln
+sonderkündigen
 sondern
 sondieren
 sönneln
@@ -35278,6 +36183,8 @@ spanen
 spänen
 spängeln
 spängen
+spanisch sprechen
+spanisch vorkommen
 spann ab
 spannen
 spannen ab
@@ -35294,6 +36201,8 @@ sparren
 sparteln
 sparten
 spartieren
+Spaß haben
+Spaß machen
 späßeln
 spaßen
 spaßern
@@ -35397,6 +36306,7 @@ spießeln
 spießen
 spießigen
 spießruten
+Spießruten laufen
 spieten
 spigen
 spiken
@@ -35407,6 +36317,7 @@ spindeln
 spindelspitzen
 spinden
 spingen
+spingsen
 spinkeln
 spinken
 spinksen
@@ -35539,6 +36450,7 @@ spürzeln
 spürzen
 sputen
 spützen
+Staat machen
 stabbeln
 stabeln
 stäbeln
@@ -35565,6 +36477,7 @@ stagnieren
 stahlen
 stählen
 stählern
+stahn
 stähnen
 stähren
 stakeln
@@ -35633,6 +36546,7 @@ statzeln
 statzen
 statzgen
 statzigen
+Staub aufwirbeln
 Staub saugen
 stauben
 stäuben
@@ -35683,6 +36597,7 @@ steigern
 steilen
 steilgehen
 steilkopfen
+Stein und Bein schwören
 steinätzen
 steinbinden
 steinbrechen
@@ -35825,6 +36740,7 @@ stimpfieren
 stimulieren
 stingeln
 stinken
+stinken wie ein Iltis
 stipfen
 stippeln
 stippen
@@ -35842,6 +36758,7 @@ stöbern
 stocheln
 stochen
 stochern
+Stöckchen ziehen
 stöckeln
 stocken
 stöcken
@@ -35851,6 +36768,7 @@ stockwerken
 stockzen
 stofen
 stoffeln
+stoffen
 stoffieren
 stöhnen
 stokern
@@ -35973,6 +36891,7 @@ strecken
 streckversen
 streicheln
 streichen
+Streichhölzer ziehen
 streifeln
 streifen
 streiken
@@ -36011,6 +36930,7 @@ stringieren
 strippen
 stripsen
 stritten
+stritzeln
 stritzen
 strobeln
 strocheln
@@ -36079,6 +36999,7 @@ stugatzen
 stugen
 stuhlen
 stühlen
+Stuhlgang haben
 stuhlgängeln
 stuhlieren
 stuhlstoßen
@@ -36130,6 +37051,7 @@ stützeln
 stutzen
 stützen
 stutzern
+stutzig machen
 stylen
 subalternieren
 subarrendieren
@@ -36277,6 +37199,7 @@ süßenzen
 süßerinzen
 sußern
 süßern
+Süßholz raspeln
 süßigen
 sustentieren
 sustinieren
@@ -36295,6 +37218,7 @@ syllogisieren
 symbolisieren
 symmetrisieren
 sympathisieren
+sympathisiren
 synchronisieren
 syndizieren
 synkopieren
@@ -36441,6 +37365,7 @@ telefaxen
 telefonieren
 telegrafieren
 telegraphieren
+telephonieren
 teleportieren
 teleskopieren
 telken
@@ -36491,6 +37416,8 @@ thesaurieren
 thronen
 thrönen
 thronentsetzen
+thun
+thüren
 ticken
 tickern
 ticktacken
@@ -36551,6 +37478,7 @@ todern
 todkämpfen
 todkriegen
 todlaufen
+tödten
 tögen
 töggelen
 toggeln
@@ -36611,6 +37539,7 @@ törnen
 tornistern
 torpedieren
 torquieren
+torten
 tosen
 totalisieren
 totarbeiten
@@ -36626,6 +37555,7 @@ tothetzen
 tothungern
 tötigen
 totkitzeln
+totkochen
 totkriegen
 totlachen
 totlärmen
@@ -36635,6 +37565,7 @@ totmalochen
 totpeitschen
 totpochen
 totprügeln
+totquetschen
 totrackern
 totrasen
 toträuchern
@@ -36692,6 +37623,7 @@ trampfen
 trampsen
 tranchieren
 tränen
+Tränen lachen
 tränke
 tränken
 tränkest
@@ -36935,6 +37867,7 @@ trotzen
 trübbrennen
 trubeln
 trüben
+Trübsal blasen
 trudeln
 truden
 trudern
@@ -36962,6 +37895,7 @@ trümmern
 trumpeln
 trümpeln
 trumpen
+Trümpfe aus der Hand geben
 trumpfen
 trumpfieren
 trumseln
@@ -37024,6 +37958,7 @@ tüllen
 tullern
 tulpen
 tülpen
+tümeln
 tumen
 tümen
 tummeln
@@ -37118,6 +38053,19 @@ tyrassi
 übeltun
 übelwollen
 üben
+über den Berg sein
+über den Durst trinken
+über den Jordan gehen
+über den Löffel barbieren
+über den Tellerrand schauen
+über die Planke gehen
+über die Runden kommen
+über die Stränge schlagen
+über die Ufer treten
+über einen Kamm scheren
+über Gott und die Welt reden
+über Kreuz liegen
+über seine Verhältnisse leben
 überackern
 überaltern
 überanschwellen
@@ -37386,6 +38334,7 @@ tyrassi
 überfielet
 überfielst
 überfielt
+überfinanzieren
 überfinden
 überfinstern
 überfirnissen
@@ -38054,6 +39003,7 @@ tyrassi
 überrußen
 überrüsten
 überrutschen
+übers Ohr hauen
 übersacken
 übersäen
 übersagen
@@ -38622,7 +39572,15 @@ ulken
 ülmen
 ulpsen
 ultern
+ululieren
 ulzerieren
+um den Finger wickeln
+um den heißen Brei herumreden
+um den heißen Brei reden
+um den kleinen Finger wickeln
+um die Ecke bringen
+um die Ecke denken
+um Rat fragen
 um sein
 umackern
 umadressieren
@@ -39350,6 +40308,7 @@ umrunden
 umrunzeln
 umrüsten
 umrütteln
+ums Leben kommen
 umsäbeln
 umsacken
 umsagen
@@ -39839,6 +40798,7 @@ ungenosssamen
 ungenügen
 ungeraden
 ungeraten
+ungeschehen machen
 ungeschlachten
 ungestaltbar
 ungestümen
@@ -39859,6 +40819,7 @@ unheiligen
 unieren
 unifizieren
 uniformieren
+uniformiren
 universalisieren
 unken
 unkennen
@@ -39901,6 +40862,13 @@ unsinnen
 unsinnigen
 untenbleiben
 untenstehen
+unter den Teppich kehren
+unter die Gürtellinie gehen
+unter die Haube bringen
+unter die Haut gehen
+unter die Lupe nehmen
+unter einen Hut bringen
+unter einer Decke stecken
 unterabteilen
 unterackern
 unterähren
@@ -39941,6 +40909,7 @@ unterdenken
 unterdichten
 unterdienen
 unterdingen
+unterdöppen
 unterdringen
 unterdrucken
 unterdrücken
@@ -40001,6 +40970,7 @@ unterflieszen
 unterfordern
 unterforschen
 unterfragen
+unterfrankieren
 unterfrechen
 unterfressen
 unterfügen
@@ -40297,6 +41267,7 @@ unterstützeln
 unterstützen
 untersuchen
 untersudeln
+untertan machen
 untertänigen
 untertasten
 untertauchen
@@ -40428,12 +41399,14 @@ urspringen
 urständen
 urteilen
 urteilschelten
+urtheilen
 urwählen
 urwéllen
 usukapieren
 usurpieren
 utilisieren
 uzen
+v*geln
 vacieren
 vagabundieren
 vagieren
@@ -40455,10 +41428,12 @@ vazieren
 vegetieren
 veitstänzeln
 veitstanzen
+vektorisieren
 velarisieren
 veloutieren
 venerieren
 ventilieren
+ver*rschen
 veraasen
 verabfolgen
 verabhandeln
@@ -40611,6 +41586,7 @@ verbluten
 verblutschaften
 verblutten
 verbocken
+verböden
 verbodmen
 verbohlen
 verbohren
@@ -40755,6 +41731,8 @@ verdrechseln
 verdrecken
 verdrehen
 verdreifachen
+verdreißigfachen
+verdreizehnfachen
 verdreschen
 verdribbeln
 verdrießen
@@ -40824,6 +41802,7 @@ verekeln
 verelementen
 verelenden
 verelendigen
+verelffachen
 verenden
 verengeln
 verengen
@@ -40960,6 +41939,7 @@ verfüllen
 verfumfeien
 verfummeln
 verfünffachen
+verfünfzehnfachen
 verfunkeln
 verfurchen
 verfürchten
@@ -41238,6 +42218,7 @@ verhorchen
 verhören
 verhornen
 verhosen
+verhuddeln
 verhudeln
 verhufschlagen
 verhügen
@@ -41396,6 +42377,7 @@ verklempern
 verkleppen
 verkleppern
 verklettern
+verklicken
 verklickern
 verklimmen
 verklimpern
@@ -41540,6 +42522,7 @@ verkütten
 verküttern
 verkutzen
 verkuxen
+verlaborieren
 verlächeln
 verlachen
 verlacken
@@ -41636,6 +42619,7 @@ verlocken
 verlockern
 verlodern
 verlöffeln
+verlohen
 verlohnen
 verloren gehen
 verlorengeben
@@ -42000,6 +42984,7 @@ verquicken
 verquintern
 verquirlen
 verquisten
+verraffen
 verrainen
 verramen
 verrammeln
@@ -42012,6 +42997,7 @@ verraschen
 verrasen
 verräßen
 verraten
+verrathen
 verratschen
 verrätschen
 verrätseln
@@ -42906,6 +43892,8 @@ verteunen
 verteutschen
 verthädigen
 verthädingen
+vertheidigen
+vertheilen
 verticken
 vertickern
 vertiefen
@@ -43096,6 +44084,7 @@ verurlauben
 verursachen
 verurschen
 verurteilen
+verurtheilen
 verurzen
 veruzen
 vervagabunden
@@ -43108,6 +44097,7 @@ vervielfältigen
 vervielseitigen
 vervierfachen
 vervierteilen
+vervierzehnfachen
 vervögeln
 vervogtbaren
 vervolkstümeln
@@ -43276,6 +44266,7 @@ verwölben
 verwölfen
 verwölken
 verworten
+verwringen
 verwuchern
 verwudeln
 verwühlen
@@ -43408,6 +44399,7 @@ verzwirnen
 verzwisten
 verzwittern
 verzwitzern
+verzwölffachen
 veseln
 vesen
 vesern
@@ -43436,6 +44428,7 @@ viehenzen
 viehlen
 viehnen
 viehzeitnen
+viel um die Ohren haben
 vielen
 vielfältigen
 vielgestaltig
@@ -43474,6 +44467,7 @@ vinifizieren
 vinkulieren
 violen
 vippern
+viral gehen
 virgatum gehen
 virgeln
 virtualisieren
@@ -43701,13 +44695,27 @@ voltesieren
 voltieren
 voltigieren
 volvieren
+vom Fleisch fallen
+vom Hundertsten ins Tausendste kommen
+vom Pferd erzählen
+vom rechten Weg abbringen
+vom Regen in die Traufe kommen
 vomieren
+von der Hand in den Mund leben
+von etwas Wind bekommen
+von sich weisen
+von Tuten und Blasen keine Ahnung haben
 voneinanderreißen
 voneln
 vonstatten gehen
 vonstattengehen
 vontrechen
 voppen
+vor Augen führen
+vor den Kopf stoßen
+vor der eigenen Tür kehren
+vor die Hunde gehen
+vor nichts haltmachen
 vorabbeißen
 vorabbrechen
 vorabdrucken
@@ -43796,6 +44804,7 @@ voranmögen
 voranmüssen
 voranprangen
 voranprellen
+voranpreschen
 voranragen
 voranreisen
 voranreiten
@@ -45534,6 +46543,7 @@ vorversuchen
 vorverteilen
 vorverurteilen
 vorverzehren
+vorverzinnen
 vorvisionieren
 vorwachen
 vorwachsen
@@ -45704,6 +46714,7 @@ wabern
 wach halten
 wach kitzeln
 wach küssen
+wach liegen
 wach rufen
 wach rütteln
 wach schütteln
@@ -45903,6 +46914,7 @@ wardiren
 warfen
 wargeln
 wärgeln
+warm essen
 warm machen
 warmbaden
 wärmebehandeln
@@ -45932,6 +46944,9 @@ wasen
 wasenen
 waspeln
 wassen
+Wasser auf jemandes Mühle leiten
+Wasser ins Meer tragen
+Wasser predigen und Wein trinken
 wasseräugeln
 wasserbaden
 wasserenzen
@@ -46571,6 +47586,7 @@ weißigen
 weißmachen
 weißnähen
 weißnen
+weißsagen
 weißstreichen
 weißwaschen
 weitarbeiten
@@ -47036,6 +48052,15 @@ widerwillen
 widerwohnen
 widmen
 widrigen
+wie aus Eimern schütten
+wie die Faust aufs Auge passen
+wie die Pest meiden
+wie ein Blinder von der Farbe reden
+wie ein Grab schweigen
+wie ein Pferd arbeiten
+wie Espenlaub zittern
+wie Gott in Frankreich leben
+wie Kastor und Pollux sein
 wiebeln
 wiechen
 wieden
@@ -47171,6 +48196,7 @@ wiedereinschalten
 wiedereinsetzen
 wiedereintreten
 wiederentdecken
+wiederentfachen
 wiederentstehen
 wiederergreifen
 wiedererhalten
@@ -47584,6 +48610,7 @@ wunderwerken
 wunderwirken
 wundlaufen
 wundliegen
+wundreiben
 wundscheuern
 wundschreiben
 wundstoßen
@@ -47623,6 +48650,7 @@ wursteln
 wursten
 würsten
 wurzeln
+Wurzeln schlagen
 wurzen
 würzen
 wuscheln
@@ -47634,6 +48662,7 @@ wuteln
 wüten
 wüterichen
 wütern
+wüthen
 wutschen
 wutschreien
 wutteln
@@ -47648,6 +48677,7 @@ yahen
 yahnen
 ygahen
 youtuben
+youzen
 zabeln
 zackeln
 zacken
@@ -47682,6 +48712,7 @@ zängeln
 zangen
 zängen
 zängern
+zänggeln
 zänkeln
 zanken
 zänken
@@ -47775,6 +48806,7 @@ zeinen
 zeiseln
 zeisen
 zeisern
+Zeit totschlagen
 zeiten
 zeitigen
 zelebrieren
@@ -48195,6 +49227,7 @@ zerspilden
 zerspinnen
 zerspleißen
 zersplittern
+zersprageln
 zerspratzen
 zersprechen
 zerspreißen
@@ -48432,12 +49465,29 @@ zottern
 zscharren
 zschirpen
 zschitzern
+zu Abend essen
+zu allem Ja und Amen sagen
+zu Bruch gehen
+zu Buche schlagen
+zu Gesicht bekommen
 zu Grunde gehen
 zu Grunde liegen
 zu Grunde richten
+zu Herzen nehmen
+zu Kreuze kriechen
+zu kurz kommen
+zu Mittag essen
+zu Potte kommen
 zu Schanden machen
+zu schätzen wissen
 zu sein
+zu sich kommen
 zu Tage fördern
+zu tief ins Glas blicken
+zu tief ins Glas gucken
+zu tief ins Glas schauen
+zu Tode kommen
+zu Wort kommen
 zuachten
 zuackern
 zuarbeiten
@@ -48659,6 +49709,7 @@ zugrunde gehen
 zugrunde legen
 zugrunde liegen
 zugrunde richten
+zugrunderichten
 zugrüßen
 zugucken
 zugürten
@@ -48818,6 +49869,18 @@ zulugen
 zulügen
 zulühen
 zulutieren
+zum alten Eisen gehören
+zum alten Eisen zählen
+zum Ausdruck kommen
+zum Besten geben
+zum einen Ohr hinein- und zum anderen wieder hinausgehen
+zum Narren halten
+zum Ritter schlagen
+zum Schluss kommen
+zum Teufel schicken
+zum Tragen kommen
+zum Verkauf anbieten
+zum Zuge kommen
 zumachen
 zumählen
 zumailen
@@ -48882,6 +49945,7 @@ zunieten
 zunöten
 zunötigen
 zünseln
+zunutze machen
 zunzeln
 zünzeln
 zuordnen
@@ -48921,6 +49985,7 @@ zuplinken
 zuplinkern
 zuplumpen
 zuposten
+zuppen
 zupredigen
 zupreschen
 zupressen
@@ -48929,6 +49994,14 @@ zuputzen
 zuquellen
 zuquesten
 zuquetschen
+zur Kasse bitten
+zur Sache kommen
+zur Salzsäule erstarren
+zur Schau stellen
+zur Schau tragen
+zur Sprache kommen
+zur Strecke bringen
+zur Verfügung stellen
 zurädeln
 zurammeln
 zurammen
@@ -49696,6 +50769,7 @@ zusammenstieben
 zusammenstimmen
 zusammenstoppeln
 zusammenstoßen
+zusammenstreben
 zusammenstreichen
 zusammenströmen
 zusammenstückeln
@@ -50126,6 +51200,8 @@ zwatzeln
 zwecken
 zweckentfremden
 zweckstechen
+zwei Fliegen mit einer Klappe schlagen
+zwei linke Hände haben
 zweiachseln
 zweiäugeln
 zweideuteln
@@ -50137,6 +51213,7 @@ zweifeln
 zweigen
 zweikämpfen
 zweilen
+zweimal hinsehen müssen
 zweit
 zweiteilen
 zweizüngeln
@@ -50182,6 +51259,8 @@ zwirken
 zwirlen
 zwirnen
 zwirren
+zwischen den Zeilen lesen
+zwischen Skylla und Charybdis sein
 zwischenblenden
 zwischendrucken
 zwischendurchblicken

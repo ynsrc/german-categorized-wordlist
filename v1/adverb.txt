@@ -1,11 +1,75 @@
+&c.
 ’naus
+⁊c.
 …fach
 …fältig
 …wärts
+0-mal
+100-mal
+10-mal
+11-mal
+12-mal
+13-mal
+14-mal
+15-mal
+16-mal
+17-mal
+18-mal
+19-mal
+1-mal
+20-mal
+21-mal
+22-mal
+23-mal
+24-mal
+25-mal
+26-mal
+27-mal
+28-mal
+29-mal
 2-mal
+30-mal
+31-mal
+32-mal
+33-mal
+34-mal
+35-mal
+36-mal
+37-mal
+38-mal
+39-mal
 3-mal
+40-mal
+41-mal
+42-mal
+43-mal
+44-mal
+45-mal
+46-mal
+47-mal
+49-mal
 4-mal
+50-mal
+51-mal
+52-mal
+53-mal
+54-mal
+55-mal
+56-mal
+57-mal
+58-mal
+59-mal
 5-mal
+60-mal
+61-mal
+6-mal
+70-mal
+7-mal
+80-mal
+89-mal
+8-mal
+90-mal
+9-mal
 a battuta
 a cappella
 a conto
@@ -17,12 +81,14 @@ a fortiori
 a posteriori
 a priori
 a tempo
+a. a.
 aah
 äämol
 ab
 ab initio
 ab ovo
 ab ovo usque ad mala
+ab und zu
 abeinander
 abendein
 abendhalb
@@ -91,6 +157,7 @@ abseit
 abseiten
 abseits
 abseitwärts
+abseyts
 absolument
 absolut
 absonder
@@ -101,6 +168,7 @@ abstoßend
 abstrakt
 absurd
 absurderweise
+abwartend
 abwärts
 abwechselnd
 abwechselsweise
@@ -126,9 +194,19 @@ achterwärts
 achtlos
 achtmal
 achtsam
+achttausendmal
+achtunddreißigmal
+achtunddreißigstens
+achtundfünfzigmal
+achtundvierzigmal
+achtundvierzigstens
+achtundzwanzigmal
+achtundzwanzigstens
+achtzehnmal
 achtzehnt
 achtzehntens
 achtzigmal
+achtzigtausendmal
 ad absurdum
 ad acta
 ad hoc
@@ -172,6 +250,7 @@ ahm
 ahnungslos
 ahnungsvoll
 ahnungsweise
+ainerseyts
 akademisch
 akkreditivgemäß
 akkurat
@@ -208,6 +287,7 @@ alldort
 alldorten
 alldus
 alle
+alle Jubeljahre
 alle naselang
 alle naslang
 allebeid
@@ -219,6 +299,7 @@ allegebot
 allegretto
 allegro
 allein
+alleine
 alleinig
 alleinlich
 allemal
@@ -251,10 +332,12 @@ allerfrühestens
 allergemachst
 allergernst
 allerhand
+allerherzlichst
 allerhöchstens
 allerjüngstens
 allerlanden
 allerlei
+allerleiweise
 allermaß
 allermaße
 allermaßen
@@ -271,6 +354,7 @@ allerschließlichst
 allerschlimmstenfalls
 allerseiten
 allerseits
+allerseyts
 allerspätestens
 allerst
 allerwärts
@@ -283,6 +367,7 @@ allerweis
 allerwenigstens
 allerzeiten
 alles-
+alles in allem
 allesam
 allesammen
 allesammt
@@ -411,6 +496,7 @@ allzuwenig
 allzuwohl
 alphabetisch
 als
+als U-Boot
 alsam
 alsand
 alsbald
@@ -446,6 +532,10 @@ alther
 altklug
 ältlich
 altruistisch
+am Arsch
+am hellichten Tag
+am offenen Herzen
+am Tag
 amabile
 ambig
 ambivalent
@@ -462,6 +552,9 @@ amtshalben
 amtshalber
 amtswegen
 an
+an Bord
+an die Seite
+an Sankt Nimmerlein
 an Stelle
 anachronistisch
 anaerobisch
@@ -479,9 +572,11 @@ andantino
 andauernd
 anderenfalls
 anderenorts
+anderens
 anderentags
 anderenteils
 andererseits
+andererseyts
 andermal
 andermaßen
 andernfalls
@@ -551,6 +646,7 @@ angemessenerweise
 angenehm
 angenehmerweise
 angenommen
+angeregt
 angesehen
 angesicht
 angesichts
@@ -563,6 +659,8 @@ angreifend
 angrenzend
 angriffslustig
 angriffsweise
+angst und bang
+angst und bange
 ängstiglich
 ängstlich
 anhaftend
@@ -728,7 +826,28 @@ au pair
 au porteur
 auch
 auf
+auf Anhieb
+auf Biegen und Brechen
+auf dem Kieker
+auf dem Sterbebett
+auf den Beinen
+auf den ersten Blick
+auf den Tag
+auf den Tag genau
+auf der anderen Seite
+auf der Kippe
+auf eigene Faust
+auf einmal
+auf Erden
 auf Grund
+auf links
+auf Lunge
+auf Nimmerwiedersehen
+auf Pump
+auf Seite
+auf Teufel komm raus
+auf Teufel-komm-raus
+auf und ab
 aufbrausend
 aufdringlich
 aufeinander
@@ -759,6 +878,7 @@ aufregend
 aufreizend
 aufricht
 aufrichtig
+aufs Neue
 aufsaugend
 aufschiebend
 aufschreckend
@@ -775,6 +895,8 @@ augenscheinlich
 augensichtlich
 äuglich
 aus
+aus dem Kopf
+aus Versehen
 ausbescheiden
 ausdauernd
 ausdermaßen
@@ -870,6 +992,7 @@ autographisch
 autokratisch
 automatisch
 autonom
+b. m.
 babbelas
 babyhaft
 bachab
@@ -887,6 +1010,7 @@ bakteriologisch
 bald
 balde
 balden
+baldestmöglich
 baldig
 baldigst
 baldmöglichst
@@ -1009,7 +1133,9 @@ beinach
 beinah
 beinahe
 beinahend
+beineben
 beinebens
+beinebenst
 beisam
 beisammen
 beiseit
@@ -1050,6 +1176,7 @@ bene
 beneben
 benebend
 benebens
+benebenst
 beneidend
 beneidenswert
 benenntlich
@@ -1092,6 +1219,7 @@ berühiglichen
 berühmt
 berührend
 berührtermaßen
+bes.
 besagtermaßen
 beschäftigt
 beschämend
@@ -1176,12 +1304,23 @@ bewiesenermaßen
 bewundernd
 bewundernswerterweise
 bewusstseinserweiternd
+beydemal
+beyderseyts
+beynah
+beynahe
+beyneben
+beynebens
+beynebenst
+beysammen
+beyseyte
+beyzeyten
 bezahlbar
 bezaubernd
 bezeichnend
 bezeichnenderweise
 bezeite
 bezirksweise
+bezw.
 bezweifelnd
 bibliografisch
 biblisch
@@ -1211,6 +1350,8 @@ biographisch
 biologisch
 biotechnologisch
 bis anhin
+bis auf Weiteres
+bis jetzt
 bischen
 bischöflich
 bisher
@@ -1221,13 +1362,17 @@ bisschen
 bissel
 bissenweise
 bissig
+bißweilen
+bißweylen
 bisweilen
+bisweylen
 bitte
 bittend
 bitter
 bitterlich
 bittlich
 bittweise
+bizarrerweise
 blanko
 blass
 blässlich
@@ -1255,6 +1400,7 @@ blitzlingen
 blockweise
 blöderweise
 blödlich
+blödsinnigerweise
 bloß
 bloßerdinge
 bloßerdings
@@ -1302,9 +1448,11 @@ botenweise
 botmäßig
 botschaftsweise
 botschaftweise
+br. m.
 brachtig
 brächtiglich
 branchenweit
+brauchbar
 brautläufisch
 bräutlich
 brav
@@ -1330,7 +1478,9 @@ brünstig
 brüsk
 brustabwärts
 brutal
+brutalst
 brutto
+bspw.
 btto.
 bübisch
 buchstabengetreu
@@ -1356,6 +1506,7 @@ bußfertiglich
 bußtäglich
 buten
 butzenweise
+bzw.
 ca.
 calando
 calmato
@@ -1399,6 +1550,7 @@ cresc.
 crescendo
 cross
 cum laude
+d. h.
 d’accord
 da
 da capo
@@ -1413,9 +1565,11 @@ dabeneben
 dabenebenst
 dabevor
 dabevorn
+dabey
 dabinnen
 daboben
 dabober
+d'accord
 dada
 dadada
 dadannen
@@ -1441,6 +1595,7 @@ daentgegen
 daenzwischen
 dafern
 daferne
+dafuer
 dafür
 dafürhin
 dafüro
@@ -1499,6 +1654,7 @@ damalig
 damals
 damit
 damitten
+dämlicherweise
 dämonisch
 dampfig
 dampfweise
@@ -1517,6 +1673,7 @@ dankenswert
 dankenswerterweise
 danmals
 dann
+dann und wann
 dannacht
 dannast
 dannathin
@@ -1567,6 +1724,8 @@ darbicht
 darein
 darem
 darin
+dariñ
+darinn
 darinne
 darinnen
 darmalen
@@ -1598,6 +1757,7 @@ darwärts
 darwider
 darzu
 darzwischen
+das heißt
 daseit
 daseiter
 daselb
@@ -1653,6 +1813,7 @@ dauerhaft
 dauerhaftiglich
 dauernd
 daum
+Daumen mal Pi
 daumenbreit
 daumensdick
 dauß
@@ -1742,6 +1903,7 @@ demütigend
 demütigerweise
 demütiglich
 demütiglichen
+demütigst
 demütlichen
 demzufolge
 denkbarerweise
@@ -1849,7 +2011,12 @@ derzeiten
 derzeither
 derzufolge
 des
+des Abends
+des Morgens
+des öfteren
 des Öfteren
+des weiteren
+des Weiteren
 desaströs
 desends
 desfalls
@@ -1894,6 +2061,8 @@ dessenwillen
 dessertwegen
 dessethalben
 dessetwegen
+desshalb
+desswegen
 deste
 dester
 desterhalben
@@ -1909,6 +2078,7 @@ desungeachtet
 deswegen
 deswegs
 deswegshalber
+desweiteren
 deswillen
 detachementsweise
 determinate
@@ -1944,6 +2114,7 @@ diät
 diätenweise
 diatonice
 dicht
+dicht auf den Fersen
 dichtan
 dichtauf
 dichtbei
@@ -1962,6 +2133,9 @@ dickmehr
 dickweil
 dickweils
 didaktisch
+die Ecke
+die letzte Zeit
+die Tage
 diebeswegen
 diebesweise
 diebhalben
@@ -2196,6 +2370,7 @@ drat
 drate
 draten
 drauf
+drauf und dran
 draufen
 draufhin
 drauflos
@@ -2227,12 +2402,24 @@ dreißigfach
 dreißigfächtig
 dreißigfert
 dreißigmal
+dreißigstens
 dreißigstund
+dreißigtausendmal
 dreißigwerbe
 dreist
+dreisterweise
 dreistund
 dreistunt
 dreistweg
+dreitausendmal
+dreiunddreißigmal
+dreiunddreißigstens
+dreiundfünfzigmal
+dreiundfünfzigstens
+dreiundvierzigmal
+dreiundvierzigstens
+dreiundzwanzigmal
+dreiundzwanzigstens
 dreiwarb
 dreiwarben
 dreiweide
@@ -2273,6 +2460,7 @@ drumherum
 drunt
 drunten
 drunter
+drunter und drüber
 drunterhin
 drüsig
 dto.
@@ -2292,6 +2480,8 @@ dunstig
 dunstweise
 dunten
 durch
+durch den Wind
+durch und durch
 durchab
 durchabhin
 durchall
@@ -2315,6 +2505,7 @@ durchlängs
 durchlässig
 durchnässt
 durchnieder
+durchs
 durchsammen
 durchschlecht
 durchschlechts
@@ -2347,6 +2538,7 @@ dynamisch
 dynastisch
 easy
 ebd.
+ebda.
 eben
 ebenda
 ebendadurch
@@ -2423,6 +2615,7 @@ ehegestern
 ehehin
 ehelängst
 ehem
+ehem.
 ehemal
 ehemalen
 ehemals
@@ -2475,7 +2668,9 @@ eichelnweise
 eichelweise
 eidlich
 eidweigernd
+eif
 eifrig
+eig
 eigen
 eigenartig
 eigenartigerweise
@@ -2493,6 +2688,7 @@ eilends
 eilig
 eimerweise
 ein
+ein für alle Mal
 ein Mal
 einander
 einäugig
@@ -2506,18 +2702,24 @@ eineinhalbmal
 einenthalb
 einenweg
 einerseits
+einerseyts
 einerwärts
 einerwegen
 eines
+eines Nachts
+eines Tages
 einesteils
+einestheils
 einet
 einfach
+einfach so
 einfacherweise
 einfachheitshalber
 einfachhin
 einfahrt
 einfallslos
 einfältig
+einfältigerweise
 einfältiglich
 einfolgendlich
 einfolglich
@@ -2544,6 +2746,8 @@ einhin
 einhinwärts
 einhundertachtzigmal
 einhundertmal
+einhunderttausendfach
+einhunderttausendmal
 einig
 einigemal
 einigergestalt
@@ -2611,6 +2815,15 @@ eintragend
 einträglich
 eintreiblich
 eintretendenfalls
+einunddreißigmal
+einunddreissigstens
+einundfünfzigmal
+einundfünfzigstens
+einundsechzigmal
+einundvierzigmal
+einundvierzigstens
+einundzwanzigmal
+einundzwanzigstens
 einvernehmlich
 einwandfrei
 einwärts
@@ -2863,6 +3076,8 @@ erheimerwärt
 erheimwärt
 erhinter
 erhinterwärts
+erhobenen Hauptes
+erhobenen Haupts
 erinnerlichermaßen
 erinnerungsweise
 erkennbar
@@ -2910,6 +3125,7 @@ ersichtlicherweise
 ersprießlicherweise
 erst
 erst mal
+erst recht
 erstags
 erstattlich
 erstaunlich
@@ -2976,6 +3192,7 @@ etappenmäßig
 etappenweise
 etatmäßig
 etc.
+etc. pp.
 etesinnen
 ethisch
 ethischerweise
@@ -2988,6 +3205,7 @@ etlichfach
 etlichmal
 étouffé
 etswenne
+etw.
 etwa
 etwaigenfalls
 etwan
@@ -2995,9 +3213,12 @@ etwas
 etwie
 etwo
 etymologisch
+euerentwegen
 euerhalben
 euernthalb
+euerntwegen
 euerseits
+euerseyts
 euerthalben
 euertwegen
 euertwillen
@@ -3025,16 +3246,22 @@ evangelischerseits
 evangelistisch
 eventualiter
 eventuell
+ever
 evidentermaßen
 evokativ
+evtl.
 ewig
+ewigerweise
 ewiglich
 ewiglichen
 ex
 ex aequo
 ex ante
+ex cathedra
+ex nunc
 ex ovo
 ex post
+ex tunc
 exakt
 exekutionshalber
 exempelweise
@@ -3099,6 +3326,7 @@ farbenprächtig
 faschistisch
 faserig
 fässerweise
+fassungslos
 fassweise
 fast
 faszinierend
@@ -3141,6 +3369,7 @@ fernher
 fernhin
 fernmündlich
 ferns
+fernt
 feroce
 ferren
 ferrens
@@ -3292,6 +3521,7 @@ fraulich
 frech
 frecherweise
 frei
+frei Haus
 freidiglich
 freierdings
 freigiebig
@@ -3355,6 +3585,7 @@ früh
 frühauf
 frühe
 früher
+früher oder später
 früherhin
 frühestens
 frühjahrs
@@ -3429,6 +3660,13 @@ fünftausendstens
 fünftehalbmal
 fünfteilig
 fünftens
+fünfunddreißigmal
+fünfunddreißigstens
+fünfundfünfzigmal
+fünfundvierzigmal
+fünfundvierzigstens
+fünfundzwanzigmal
+fünfundzwanzigstens
 fünfwerbe
 fünfzehnerlei
 funfzehnmal
@@ -3454,6 +3692,9 @@ funkenerosiv
 funkenweise
 funktionsgemäß
 für
+für alle Fälle
+für immer
+für und für
 fürab
 füran
 füranhin
@@ -3594,12 +3835,14 @@ galant
 galvanisch
 gan
 gang
+gang und gäbe
 gangweis
 ganz
 gänzlich
 ganztägig
 ganztags
 gar
+gar nicht
 garaus
 garbei
 garnach
@@ -3700,6 +3943,7 @@ gehling
 gehlingen
 gehlings
 gehnbohr
+gehobenen Hauptes
 gehorsam
 gehorsamiglich
 geil
@@ -3718,6 +3962,7 @@ gelassef
 gelassentlich
 geldohne
 gelegenheitlich
+gelegentlich
 gelehrig
 gelehrtlich
 gelenkig
@@ -3744,6 +3989,7 @@ genah
 genahe
 genander
 genau
+genau genommen
 genauestens
 genaugenommen
 genaulich
@@ -3773,7 +4019,9 @@ gentlemanlike
 genugsam
 genügsam
 genugsamlich
+genung
 genüsslich
+geografisch
 geographisch
 geologisch
 geometrisch
@@ -3921,6 +4169,7 @@ gestelzt
 gesten
 gester
 gestern
+gestern Nacht
 gestertag
 gestfel
 gestracks
@@ -3947,6 +4196,7 @@ gewaltsam
 gewalttätiglich
 gewandsweise
 gewandt
+Gewehr bei Fuß
 gewellt
 gewerblich
 gewerbsmäßig
@@ -4107,6 +4357,7 @@ göttlich
 gottlob
 gottlos
 gottseidank
+Gottseidank
 gottseliglich
 gottserbärmiglich
 gottversprich
@@ -4115,6 +4366,7 @@ grabenab
 grabenauf
 grabenweise
 grabwärts
+grad
 gradatim
 grade
 gradeaus
@@ -4179,6 +4431,7 @@ großmütiglich
 großmütterlich
 großstädtisch
 großtechnisch
+großteils
 größtenteils
 großväterlich
 großzügig
@@ -4216,7 +4469,9 @@ günstigenfalls
 günstiglich
 günstigstenfalls
 gut
+guten Glaubens
 gutenteils
+guter Hoffnung
 gutermaßen
 gutgelaunt
 gutherziglich
@@ -4242,6 +4497,7 @@ haarweise
 habgierig
 hablich
 häblich
+hafenaus
 hafenein
 haftiglich
 halb links
@@ -4271,12 +4527,14 @@ halbwinds
 halbwöchentlich
 hälftewegs
 hälingen
+Hals über Kopf
 halsab
 halsstarriglich
 halt
 haltbar
 haltend
 hämodynamisch
+Hand in Hand
 händegleich
 handelseins
 handelsweise
@@ -4300,6 +4558,7 @@ härtiglich
 hartnäckig
 hartnäckiglich
 hässlich
+haste nicht gesehen
 hastig
 hastiglich
 hauchdünn
@@ -4472,11 +4731,13 @@ herzu
 herzuher
 herzzerreißend
 heterogen
+heteronom
 heuchlerisch
 heuer
 heuristisch
 heut
 heute
+heute Nacht
 heutigentags
 heutmorgen
 heutzutage
@@ -4511,6 +4772,7 @@ hienieden
 hienieder
 hieoben
 hier
+hier und da
 hier zu Lande
 hierab
 hieramts
@@ -4548,6 +4810,7 @@ hiermit
 hiernach
 hiernächst
 hierneben
+hiernechst
 hiernieden
 hierob
 hieroben
@@ -4595,6 +4858,8 @@ himmelwärts
 himmlisch
 himtenweise
 hin
+hin und her
+hin und wieder
 hinab
 hinaben
 hinabwärts
@@ -4667,6 +4932,7 @@ hintennach
 hintenrum
 hintenüber
 hinter
+hinter schwedischen Gardinen
 hinterdrein
 hintereinander
 hintereinanderher
@@ -4730,12 +4996,14 @@ höchstenfalls
 höchstens
 höchstfleißig
 höchstlich
+höchstpersönlich
 höchstwahrscheinlich
 hochtragenlich
 hochweislich
 hochzeitlich
 hoffärtiglich
 hoffendlich
+hoffenlich
 hoffentlich
 hoffnungslos
 höflich
@@ -4763,9 +5031,11 @@ homosexuell
 honoris causa
 hopplahopp
 hörbar
+hordenweise
 horizontal
 horstweise
 hüben
+hüben wie drüben
 hübsch
 hübschlichen
 hübschtlich
@@ -4783,7 +5053,9 @@ hundert Mal
 hunderterlei
 hundertjährig
 hundertmal
+hundertpro
 hundertstens
+hunderttausendmal
 hundertweise
 hundewohl
 hundsfieselig
@@ -4795,6 +5067,7 @@ hurtiglich
 hydraulisch
 hypnotisch
 hypothetisch
+i. d. R.
 ibidem
 ichtens
 ichteswann
@@ -4809,9 +5082,12 @@ idiomatisch
 idiotisch
 idiotischerweise
 idyllisch
+iein
+ieiner
 iender
 ienders
 iendert
+ietwas
 igelmäßig
 ignot
 ignote
@@ -4826,20 +5102,39 @@ ihresteils
 ihrethalben
 ihretwegen
 ihretwillen
+ihrtwegen
+ijemand
 illegal
 illuster
+im Gegenzug
+im großen Stil
+im Großen und Ganzen
+im Guten
+im Herzen
 im Höchstfall
+im Moment
 im Nachhinein
+im Nu
+im Nullkommanichts
+im Schnitt
+im selben Atemzug
 im Stand
 im Stande
+im übertragenen Sinne
+im Übrigen
 im Voraus
+im Vorfeld
 im Vorhinein
+im Vorübergehen
+im Wesentlichen
 imaginär
 imber
 imgleichen
 imhundert
 immanent
 immer
+immer noch
+immer wieder
 immerdar
 immerfort
 immerhin
@@ -4863,12 +5158,29 @@ improvisiert
 impulsweise
 imstand
 imstande
+in 14 Tagen
+in 8 Tagen
+in acht Tagen
+in Acht und Bann
+in aller Frühe
 in corpore
+in der Regel
+in der Tat
+in drei Tagen
+in echt
 in effectu
+in einem fort
+in einem Nu
+in einem Stück
 in Ermangelung
 in Ermanglung
+in erster Linie
+in etwa
 in flagranti
 in Folge
+in gewisser Weise
+in höchstem Maße
+in letzter Zeit
 in Minutenschnelle
 in pectore
 in petto
@@ -4876,7 +5188,10 @@ in praxi
 in situ
 in Sonderheit
 in Stand
+in trockenen Tüchern
 in vitro
+in Wirklichkeit
+in Zukunft
 inaktiv
 inbrünstig
 inbrünstiglich
@@ -5009,6 +5324,7 @@ irrigerweise
 irritierend
 irritiert
 irrsinnig
+irrsinnigerweise
 irrtümlich
 irrtümlicherweise
 isometrisch
@@ -5019,8 +5335,17 @@ itz
 itze
 itzi
 itzo
+itzt
 itzund
+iwann
+iwas
+iwelche
+iwer
+iwi
+iwie
+iwo
 j. w. d.
+ja
 jachlich
 jäh
 jählich
@@ -5029,7 +5354,9 @@ jählingen
 jählings
 jahrab
 jahraus
+jahraus, jahrein
 jahrein
+jahrein, jahraus
 jahrelang
 jahreszeitlich
 jahreweit
@@ -5047,6 +5374,9 @@ jammernd
 jawohl
 jazzartig
 je
+je nachdem
+jeden Augenblick
+jeden Moment
 jedenfalls
 jedermalen
 jederweilen
@@ -5055,6 +5385,7 @@ jedes
 jedes mal
 jedes Mal
 jedesmal
+jedoch
 jeglichesmal
 jehands
 jeher
@@ -5088,9 +5419,11 @@ jetzunder
 jetzzumal
 jeweilen
 jeweils
+jez
 jezuweilen
 jotwede
 journalistisch
+jtzt
 jubilierend
 juchzu
 jugendlich
@@ -5106,6 +5439,7 @@ just for fun
 justament
 justement
 jwd.
+jz
 kabelweise
 kahl
 kaiserlich
@@ -5145,6 +5479,8 @@ kehlig
 kehrum
 keifend
 keimarm
+kein Jota
+kein Wunder
 keinenfalls
 keinerhand
 keinerlei
@@ -5230,6 +5566,7 @@ knarrend
 knauserig
 knechtisch
 knechtsweise
+kniefällig
 kniehoch
 knielings
 knirschend
@@ -5247,6 +5584,9 @@ kom
 komediweis
 komisch
 komischerweise
+komme was wolle
+komme, was da wolle
+komme, was wolle
 kommerziell
 kommunal
 kommunikativ
@@ -5374,6 +5714,7 @@ kunstreich
 kunstvoll
 kurioserweise
 kurz
+kurz ab
 kurz(zeitig)
 kurzab
 kurzens
@@ -5537,6 +5878,7 @@ letterlich
 letzlichen
 letztemal
 letzten
+letzten Endes
 letztendlich
 letztens
 letzternfalls
@@ -5550,6 +5892,7 @@ leugnend
 lexikalisch
 lexikografisch
 lexikographisch
+li.
 liberal
 lichterloh
 lichterlohe
@@ -5597,12 +5940,14 @@ lobenswerterweise
 löblicherweise
 lobpreisend
 locker
+locker vom Hocker
 loco
 löffelweise
 logarithmisch
 logisch
 logischerweise
 logistisch
+logo
 lohnend
 loko
 longline
@@ -5635,6 +5980,9 @@ luttuoso
 luvwärts
 luxuriös
 lyrisch
+m ü. A.
+m. a. W.
+m.a.W.
 mächtig
 mächtiglich
 mächtlich
@@ -5723,6 +6071,8 @@ meerwärts
 meerweit
 mehlig
 mehr
+mehr oder minder
+mehr oder weniger
 mehrenteils
 mehrer
 mehrere
@@ -5737,9 +6087,12 @@ meiersweise
 meilenweit
 meilich
 meineidiglich
+meinentwegen
 meinerlei
 meinerseits
 meinerzeit
+meines Erachtens
+meines Wissens
 meinesteils
 meinethalb
 meinethalben
@@ -5747,6 +6100,7 @@ meinetwegen
 meinetwegen/deinetwegen/seinetwegen/ihretwegen/unsretwegen/Ihretwegen
 meinetwillen
 meinglich
+meintwegen
 meist
 meisten
 meistenorts
@@ -5811,8 +6165,10 @@ mineralogisch
 minimal
 minus
 minütlich
+mir nichts, dir nichts
 missachtsamlich
 missbilligend
+missbräuchlicherweise
 missbrauchsweise
 missgeburtlich
 missglaublich
@@ -5825,7 +6181,20 @@ misteriosamente
 misterioso
 misurato
 mit
+mit Abstand
+mit angehaltenem Atem
 mit der Hand
+mit einem Körnchen Salz
+mit einem Mal
+mit einemmal
+mit Fug und Recht
+mit halbem Herzen
+mit Herz
+mit Kind und Kegel
+mit Mann und Maus
+mit Pauken und Trompeten
+mit Sack und Pack
+mit vollen Zügen
 mitbei
 mite
 miteinander
@@ -5924,6 +6293,7 @@ morgens
 morgensfrüh
 morgenstags
 morgenwärts
+morgn
 morn
 morndes
 morphologisch
@@ -5968,17 +6338,24 @@ mysteriöserweise
 mystisch
 mythisch
 mythologisch
+'n
+n. u. Z.
 na wennschon
 nab
 nach
 nach Hause
+nach Herzenslust
+nach Lust und Laune
+nach oben
 nach rechts
+nach und nach
 nach wie vor
 nachahmend
 nachbarlich
 nachdem
 nachdenklich
 nachdrücklich
+nachdrücklichst
 nacheinander
 nacher
 nacherhand
@@ -5993,6 +6370,7 @@ nachgültiglich
 nachhallend
 nachhaltend
 nachhaltig
+nachhaus
 nachhause
 nachher
 nachhero
@@ -6065,12 +6443,14 @@ nährig
 nahrlos
 nahtlos
 naiv
+naiverweise
 namenlos
 namens
 namentlich
 namhaft
 namhaftig
 namhaftiglich
+näml.
 nämlich
 nan
 nander
@@ -6094,11 +6474,14 @@ natürlicherweise
 naturrecht
 nau
 nauf
+'nauf
 naus
+'naus
 naushin
 naußer
 nautisch
 nauwärts
+nd
 nebbich
 nebelig
 neben
@@ -6121,6 +6504,7 @@ nebst
 nebstbei
 nebstdem
 neckend
+ned
 negativ
 negligente
 nehmerlich
@@ -6130,11 +6514,13 @@ neidischbleich
 neidlos
 neidvoll
 nein
+'nein
 nervenaufreibend
 nervenzermürbend
 nervös
 nervtötend
 nesterweise
+net
 nett
 netterweise
 netto
@@ -6155,17 +6541,32 @@ neulingen
 neulings
 neunerlei
 neunfach
+neunhundertmal
 neunmal
+neuntausendmal
 neuntens
+neununddreissigmal
+neununddreißigstens
+neunundfünfzigmal
+neunundvierzigmal
+neunundvierzigstens
+neunundzwanzigmal
+neunundzwanzigstens
+neunzehnmal
 neunzehntens
 neunzigerlei
 neunzigmal
+neunzigtausendmal
 neurologisch
 neurotisch
 neustens
+neuwlich
+nich
 nicht
+nicht einmal
 nichtnicht
 nichtsdestominder
+nichtsdestotrotz
 nichtsdestoweniger
 nichtset
 nichtsnicht
@@ -6173,6 +6574,8 @@ nichtssagend
 nichtsweniger
 nidsich
 nie
+nie im Leben
+nie und nimmer
 nied
 nieden
 niedenen
@@ -6213,8 +6616,13 @@ nirgendswohin
 nirgendwo
 nirgendwoher
 nirgendwohin
+njet
 noch
+noch dazu
+noch einmal
 noch mal
+noch nicht
+nochall
 nochdann
 nochmal
 nochmalen
@@ -6222,6 +6630,7 @@ nochmals
 noctu
 nomadisch
 nominell
+nomma
 nonstop
 norden
 nordenwärts
@@ -6238,6 +6647,7 @@ normalerweise
 nort
 nostalgico
 nostalgisch
+not
 notabene
 notdränglich
 notdringlich
@@ -6270,6 +6680,7 @@ nüchterlingen
 nüchtern
 nuferlich
 null und nichtig
+nullmal
 num
 numerisch
 numerologisch
@@ -6277,6 +6688,7 @@ numismatisch
 nummen
 nummeriert
 nun
+nun einmal
 nundalest
 nundaling
 nundelingen
@@ -6289,14 +6701,18 @@ nuns
 nunter
 nunzumal
 nur
+nur für den Fall
+nur über meine Leiche
 nurmehr
 nuttig
 nutzenlos
 nützlich
 nutzlos
+o. B. d. A.
 o. k.
 O. K.
 ob
+ob man will oder nicht
 obaus
 obeinander
 oben
@@ -6366,10 +6782,14 @@ offshore
 offside
 oft
 ofte
+öfter
+öfteren
+Öfteren
 oftermal
 oftermalen
 oftermals
 öfters
+öftesten
 oftmal
 oftmalen
 oftmalig
@@ -6378,6 +6798,9 @@ ohmenweise
 ohmweise
 ohne
 ohne einander
+ohne mit der Wimper zu zucken
+ohne Trauschein
+ohne Unterlass
 ohne weiteres
 ohne Weiteres
 ohnedem
@@ -6515,6 +6938,7 @@ peripher
 perlenartig
 permanent
 personaliter
+persönlich
 perspektivisch
 pervers
 pervertiert
@@ -6555,6 +6979,7 @@ phrasenhaft
 physikalisch
 physiologisch
 physisch
+Pi mal Daumen
 piacevole
 piangendo
 pianissimo
@@ -6692,6 +7117,7 @@ problematisch
 produktiv
 professionell
 profihaft
+programmatisch
 programmgemäß
 programmiertechnisch
 proktoskopisch
@@ -6756,10 +7182,12 @@ querschiffs
 querüber
 quieto
 quietschvergnügt
+r.
 rabbinisch
 rabher
 rachsüchtig
 radikal
+radikalisch
 radioaktiv
 radiographisch
 radiologisch
@@ -6809,6 +7237,7 @@ rausher
 raußer
 rautenweise
 ravvivando
+rd.
 reaktiv
 realistisch
 realistischerweise
@@ -6890,12 +7319,16 @@ rektal
 rekursiv
 relativ
 religioso
+remis
 renitent
 repräsentabel
 repräsentativ
 repressiv
 reserviert
 resigniert
+resp.
+respective
+respektive
 respektlos
 respektvoll
 retour
@@ -6917,6 +7350,7 @@ riechend
 riesengroß
 riesenhaft
 riesig
+rigoros
 rigoroso
 rilasciando
 rin
@@ -6972,6 +7406,7 @@ ruck, zuck
 rückenab
 rücker
 rückgängig
+rückgängig machbar
 rückherzu
 rückläufig
 rücklings
@@ -7000,6 +7435,7 @@ rührselig
 rum
 rumher
 rund
+rund um die Uhr
 ründchen
 rundheraus
 rundherum
@@ -7022,8 +7458,10 @@ sackartig
 säckeweise
 sackweise
 sadistisch
+safe
 saftig
 saftlos
+sage und schreibe
 sagenhaft
 sägenweise
 saisonbedingt
@@ -7043,6 +7481,7 @@ samstagnachts
 samstags
 samstagvormittags
 samt
+samt und sonders
 sanft
 sanftmütig
 sans phrase
@@ -7105,6 +7544,7 @@ schelmisch
 scheltend
 schematisch
 schenkungsweise
+schenkweise
 scherzando
 scherzend
 scherzhaft
@@ -7116,6 +7556,7 @@ scheußlich
 schichtig
 schichtweise
 schick
+schickimicki
 schicklicherweise
 schicks
 schicksalhaft
@@ -7136,6 +7577,7 @@ schlaff
 schläflingen
 schlaflos
 schläfrig
+Schlag auf Schlag
 schlagartig
 schlagend
 schlagweise
@@ -7149,6 +7591,7 @@ schlapp
 schlau
 schlauerweise
 schlecht
+schlecht und recht
 schlechtab
 schlechtanhin
 schlechter
@@ -7190,6 +7633,7 @@ schlumps
 schlumpsweise
 schlumpweise
 schlüpfrig
+schlussendlich
 schlüssig
 schmachvoll
 schmackhaft
@@ -7225,8 +7669,11 @@ schnurschlechts
 schnurstracks
 schockierend
 schockweise
+schomma
 schon
 schön
+schon mal
+schonmal
 schönstens
 schöpferisch
 schoppenweise
@@ -7242,6 +7689,7 @@ schreiend
 schriem
 schriftlich
 schrill
+Schritt für Schritt
 schrittlich
 schrittlings
 schrittweise
@@ -7311,10 +7759,19 @@ sechsmal
 sechsmalen
 sechstausendmal
 sechstens
+sechsunddreißigmal
+sechsunddreißigstens
+sechsundfünfzigmal
+sechsundvierzigmal
+sechsundvierzigstens
+sechsundzwanzigmal
+sechsundzwanzigstens
 sechtiglich
 sechzehnmal
+sechzehntens
 sechzigmal
 sechzigmalen
+sechzigtausendmal
 secondhand
 seean
 seelenlos
@@ -7329,6 +7786,7 @@ sehr
 seider
 seidig
 seifig
+seinentwegen
 seinerseits
 seinerzeit
 seinesteils
@@ -7337,6 +7795,7 @@ seinethalben
 seinethalber
 seinetwegen
 seinetwillen
+seintwegen
 seismisch
 seitab
 seitdem
@@ -7366,6 +7825,7 @@ selbneunt
 selbsechst
 selbsiebent
 selbst
+selbstbewusst
 selbstgefällig
 selbstlos
 selbstredend
@@ -7417,14 +7877,24 @@ sidher
 siebenjährig
 siebenmal
 siebenstunt
+siebentausendmal
 siebentens
+siebenunddreissigmal
+siebenunddreißigstens
+siebenundfünfzigmal
+siebenundvierzigmal
+siebenundvierzigstens
+siebenundzwanzigmal
+siebenundzwanzigstens
 siebenweide
 siebenwerf
 siebtens
 siebzehnmal
+siebzehntens
 siebzigmal
 siebzigmalen
 siebzigstens
+siebzigtausendmal
 sieder
 siedest
 siegloslich
@@ -7466,7 +7936,11 @@ skrupellos
 slargando
 smorzando
 so
+so bald wie möglich
+so gut wie
 so lala
+so oder so
+so weit das Auge reicht
 soave
 sobald
 sodann
@@ -7478,6 +7952,7 @@ sogar
 sogleich
 sohin
 solala
+solange
 solchemnach
 solchenfalls
 solcherart
@@ -7549,8 +8024,10 @@ sospirante
 sostenuto
 sotanerweise
 sotto
+soundso
 soundsoviel
 souverän
+soviel
 sowahr
 sowieso
 soziologisch
@@ -7569,6 +8046,7 @@ spätaus
 späterhin
 spätestens
 spätnachmittags
+spätnachts
 spekulativ
 sperrangelbreit
 sperrangelweit
@@ -7635,12 +8113,14 @@ standhaftiglich
 ständig
 ständling
 stante pede
+stantepe
 stantepede
 stapelbar
 stapelweise
 stark
 stärklich
 starkmütiglich
+stärkstens
 starriglich
 starweise
 stas
@@ -7653,6 +8133,8 @@ stattdessen
 statuenweise
 statutengemäß
 staubaus
+steckbrieflich
+stehenden Fußes
 stehendlings
 stehlings
 steide
@@ -7833,6 +8315,7 @@ strumisch
 struppig
 stübiglich
 stübis
+Stück für Stück
 stückchenweise
 stückelos
 stückleinweise
@@ -7905,8 +8388,10 @@ südwestlich
 südwestwärts
 süffisant
 suffocato
+sui generis
 sukzessive
 summa cum laude
+summa summarum
 summarie
 summarisch
 summaweis
@@ -7941,11 +8426,14 @@ synthetisch
 systematisch
 systemisch
 systemlos
+szintigraphisch
 tabellarisch
 tadellos
 tadelnswürdig
+Tag und Nacht
 tagaus
 tagein
+tagein tagaus
 tagelang
 tagesaktuell
 tagesstationär
@@ -7966,6 +8454,7 @@ talabwärts
 talauf
 talaufwärts
 talaus
+talauswärts
 talein
 taleinwärts
 tälerwärts
@@ -7984,6 +8473,7 @@ taschenhalb
 tastend
 tastlings
 tätiglich
+tatsächlich
 taub
 täuschend
 täuschlich
@@ -8031,8 +8521,10 @@ textabhängig
 textlich
 thäle
 theatralisch
+theilweise
 theistisch
 thematisch
+themseaufwärts
 theokratisch
 theologisch
 theoretisch
@@ -8105,6 +8597,7 @@ träumlings
 traumtänzerisch
 traun
 traurig
+traurigerweise
 trauriglich
 treffend
 treffenderweise
@@ -8152,6 +8645,7 @@ trostlos
 trostweise
 trottelig
 trotzdem
+trotzdessen
 trotzig
 trotziglich
 trotzmütiglich
@@ -8166,6 +8660,8 @@ trunksüchtig
 trunksweise
 truppenweise
 truppweise
+trz
+trzdem
 tschari
 tüchtig
 tüchtiglich
@@ -8187,6 +8683,9 @@ tyranniglich
 tyrannisch
 tyrannischerweise
 tyrannischlich
+u. a.
+u. Z.
+u.a.
 übel
 übelan
 übelauf
@@ -8198,6 +8697,10 @@ tyrannischlich
 übelwollend
 üben
 über
+über alles
+über die Dörfer
+über Gebühr
+über Nacht
 überab
 überall
 überallher
@@ -8207,6 +8710,7 @@ tyrannischlich
 überdas
 überdem
 überdies
+überdiess
 überdurchschnittlich
 übereck
 übereifrig
@@ -8232,6 +8736,7 @@ tyrannischlich
 überhauf
 überhaufen
 überhaupt
+überhaupt nicht
 überheblich
 überher
 überhin
@@ -8243,6 +8748,7 @@ tyrannischlich
 überkreuz
 überland
 überländweise
+überlegt
 übermacht
 übermaß
 übermäßig
@@ -8303,6 +8809,7 @@ tyrannischlich
 übungsgemäß
 übungshalber
 übungsweise
+ueber
 uferwärts
 ulkig
 ultimo
@@ -8312,9 +8819,14 @@ um
 um deinetwillen
 um euertwillen
 um euretwillen
+um genau zu sein
+um Himmels Willen
 um ihretwillen
+um Ihretwillen
+um jeden Preis
 um meinetwillen
 um seinetwillen
+um und um
 um unseretwillen
 um unsertwillen
 umarmend
@@ -8476,7 +8988,11 @@ unbillig
 unbunt
 unbürokratisch
 unbussfertig
+und ob
+und so weiter
 und wennschon
+und zwar
+und, und, und
 undankbar
 undanks
 undeutlich
@@ -8559,6 +9075,7 @@ unfreilich
 unfreimütig
 unfreiwillig
 unfreundlich
+unfreundlicherweise
 unfrommiglich
 unfrömmlich
 unfrutiglich
@@ -8636,6 +9153,7 @@ ungewiss
 ungewissenhaftig
 ungewisslich
 ungewöhnlich
+ungewöhnlicherweise
 ungewohnt
 ungewollt
 ungeziefermäßig
@@ -8670,6 +9188,7 @@ unheilvoll
 unheimlich
 unhinreichlich
 unhöflich
+unhöflicherweise
 unhöhnisch
 unhold
 unholdseliglich
@@ -8744,6 +9263,7 @@ unqualifiziert
 unrasiert
 unratsamlich
 unrealistisch
+unrealistischerweise
 unrechtfertiglich
 unrechtmäßig
 unrechtmäßigerweise
@@ -8785,11 +9305,13 @@ unschwerlich
 unseligerweise
 unsensibel
 unsentimental
+unserentwegen
 unsererseits
 unseresteils
 unserethalben
 unseretwegen
 unseretwillen
+unserntwegen
 unserseits
 unsersteils
 unserthalben
@@ -8805,6 +9327,7 @@ unsittlich
 unsorgsamlich
 unsozial
 unspektakulär
+unsrentwegen
 unsrerseits
 unsresteils
 unsretwegen
@@ -8828,7 +9351,12 @@ untenherum
 untenhin
 untenrum
 unter
+unter aller Sau
+unter anderem
+unter dem Strich
 unter der Hand
+unter der Woche
+unter vier Augen
 unterbesetzt
 unterbewusst
 unterbrochen
@@ -9054,6 +9582,7 @@ unzweckmäßig
 unzweckmäßigerweise
 unzweifelhaft
 üppig
+ur
 uraltmodisch
 urbi et orbi
 urbildlich
@@ -9082,6 +9611,9 @@ urweltmäßig
 urwesenlich
 urwissenschaftlich
 urzeitlich
+usw.
+v. a.
+v. u. Z.
 va banque
 Vabanque
 vacillando
@@ -9136,6 +9668,7 @@ vereint
 verfahrensrechtlich
 verfallen
 verfault
+verfickt nochmal
 verflixt
 verfrüht
 verfügbar
@@ -9158,10 +9691,13 @@ verhältnisweise
 verhängnisvoll
 verheerend
 verhindernd
+verhoffenlich
+verhoffentlich
 verhutzelt
 verkäuflich
 verkehrstechnisch
 verkehrt
+verkehrt herum
 verkehrtherum
 verklärt
 verkommen
@@ -9329,11 +9865,22 @@ vierkant
 vierlei
 viermal
 viert
+viertausendmal
 viertels
 viertelweise
 viertens
+vierunddreissigmal
+vierunddreißigstens
+vierundfünfzigmal
+vierundvierzigmal
+vierundvierzigstens
+vierundzwanzigmal
+vierundzwanzigstens
+vierzehnmal
 vierzehntens
 vierzigmal
+vierzigstens
+vierzigtausendmal
 vigoroso
 villeicht
 violento
@@ -9351,6 +9898,9 @@ vivacissimo
 vivipar
 vivo
 vize
+vllt
+vlt
+vmt
 vocale
 voder
 vodern
@@ -9363,6 +9913,8 @@ voll
 vollan
 vollauf
 vollaus
+volle Möhre
+volle Pulle
 vollen
 vollend
 vollendet
@@ -9382,6 +9934,21 @@ vollständig
 volltönend
 volumetrisch
 von
+von A bis Z
+von da an
+von einem Tag auf den anderen
+von ganzem Herzen
+von Grund auf
+von Herzen
+von heute auf morgen
+von jetzt an
+von Natur aus
+von neu
+von Neuem
+von oben herab
+von selbst
+von vorn
+von vornherein
 von Zeit zu Zeit
 voneinander
 vonhanden
@@ -9391,7 +9958,9 @@ vonselbst
 vonstatten
 vor
 vor allem
+vor kurzem
 vor nachin
+vor Ort
 vorab
 vorall
 voralters
@@ -9477,6 +10046,7 @@ vorlässlich
 vorläufig
 vorlaut
 vorlehensweise
+vorletzt
 vorlieb
 vorlings
 vormal
@@ -9595,6 +10165,7 @@ vorzu
 vorzüglich
 vorzüglicherweise
 vorzugsweise
+vsl.
 vulgär
 vulgo
 vulkanisch
@@ -9644,6 +10215,7 @@ waldlerisch
 waldmäszig
 waldnächtlich
 waldwärts
+wallah
 waltiglich
 walzerisch
 walziglich
@@ -9656,6 +10228,7 @@ wandersweise
 wangenab
 wanks
 wann
+wann anders
 wannen
 wannenher
 wannenhero
@@ -9677,6 +10250,9 @@ wärt
 wärts
 warum
 wärzig
+was
+was auch passiert
+was für
 waschkörbeweise
 waser
 wasgestalt
@@ -9726,12 +10302,14 @@ weichselzopfmäßig
 weidlich
 weidmännlich
 weihnachtsartig
+weil.
 weiland
 weilerweise
 weilweise
 weinbarlich
 weinend
 weinerlich
+weis
 weise
 weisiglich
 weislich
@@ -9741,6 +10319,7 @@ weißglühend
 weißlich
 weisungsfrei
 weit
+weit und breit
 weitab
 weitauf
 weitaus
@@ -9753,6 +10332,7 @@ weiterhin
 weiterhinaus
 weitern
 weiters
+weitestens
 weitestgehend
 weitferne
 weitflächig
@@ -9791,8 +10371,12 @@ weltlich
 weltmännisch
 wendig
 wenigemal
+weniger
 weniglich
 wenigstens
+wenn Ostern und Pfingsten auf einen Tag fallen
+wenn Ostern und Weihnachten auf einen Tag fallen
+wenn überhaupt
 werb
 werbewirksam
 werhalben
@@ -9813,6 +10397,7 @@ wessenthalben
 wessentwegen
 wessentwillen
 wessenungeachtet
+wesshalb
 westenwart
 westenwärts
 westenzu
@@ -9864,6 +10449,7 @@ widerwärtig
 widerwärtiglich
 widerwarts
 widerwärts
+widerwillig
 widmungsfremd
 widmungsgemäß
 widrig
@@ -9871,16 +10457,25 @@ widrigenfalls
 widrigens
 widumsweise
 wie
+wie der Teufel das Weihwasser
+wie ein Fisch im Wasser
+wie ein Ja und ein Amen
+wie Gott ihn schuf
 wie viel
 wie viel Mal
+wie von der Tarantel gestochen
+wie Zahnschmerzen
 wieder
+wieder da
 wiederbieglich
 wiederbieglichen
 wiederholend
+wiederholt
 wiederkaufsweis
 wiederkehrend
 wiederrum
 wiederum
+wiederumb
 wiederwinnlich
 wiefern
 wienach
@@ -9953,6 +10548,12 @@ wöchiglich
 wochlingen
 wochweise
 wodran
+wodrauf
+wodraus
+wodrin
+wodrüber
+wodrum
+wodrunter
 wodurch
 wofür
 wogegen
@@ -9967,6 +10568,8 @@ wohinter
 wohinunter
 wohinwärts
 wohl
+wohl eher
+wohl oder übel
 wohlan
 wohlatmig
 wohlauf
@@ -9993,10 +10596,12 @@ wohlverwahrlich
 wohlweislich
 wohlwilliglich
 wohlwollend
+wol
 wölfisch
 wolkenbruchartig
 wolkenweise
 wolkig
+woll
 wollig
 wollüstig
 wollustiglich
@@ -10032,6 +10637,7 @@ wovor
 wozu
 wozwischen
 wrachtach
+wsl
 wucherisch
 wuchernd
 wuchtig
@@ -10060,6 +10666,7 @@ wurftafelsweise
 wurftafelweise
 wurfweit
 wurmartig
+wurst
 wurz
 wurzelauf
 wurzelaus
@@ -10068,8 +10675,12 @@ wüst
 wütend
 x-fach
 x-mal
+z. B.
+z. E.
+z. T.
 z. Z.
 z. Zt.
+z.B.
 zack
 zacker
 zackig
@@ -10103,6 +10714,7 @@ zeichenweise
 zeilenweise
 zeinzig
 zeinzigen
+zeit jemandes Lebens
 zeitenweise
 zeitgleich
 zeither
@@ -10160,6 +10772,7 @@ zitzelweise
 zivilrechtlich
 zizerlweis
 zizerlweise
+zml
 zögernd
 zögert
 zollweise
@@ -10173,21 +10786,32 @@ zornig
 zorniglich
 zöse
 zottig
+zsm
 zu
+zu bunt
+zu dritt
+zu Fuß
 zu Grunde
 zu guter Letzt
+zu Haus
 zu Hause
+zu Herzen
 zu Leid
 zu Leide
 zu mindest
+zu Mute
 zu Nutze
+zu Recht
 zu Schanden
 zu Schulden
 zu Stande
 zu Tage
+zu Tode
 zu viel
+zu viert
 zu Wege
 zu wenig
+zu zweit
 zuallerallererst
 zuallerallerletzt
 zuallererst
@@ -10255,6 +10879,9 @@ zuletzt
 zuletztlich
 zuliebe
 zum Beispiel
+zum Exempel
+zum Glück
+zum Teil
 zumal
 zumaß
 zumeist
@@ -10276,6 +10903,9 @@ zuniederst
 zunutze
 zuoberst
 zupass
+zur Abwechslung
+zur Genüge
+zur Seite
 zur Zeit
 zurande
 zurecht
@@ -10336,6 +10966,7 @@ zuvornhinaus
 zuwärts
 zuwege
 zuweilen
+zuwenig
 zuwider
 zuzeiten
 zwanghaft
@@ -10344,6 +10975,7 @@ zwangsläufig
 zwangsweise
 zwanzigmal
 zwanzigstens
+zwanzigtausendmal
 zwar
 zwecklos
 zweckloserweise
@@ -10367,8 +10999,18 @@ zweimal
 zweimonatlich
 zweispaltig
 zweisprachig
+zweitausendmal
 zweitens
+zweithöchst
 zweitrangig
+zweiunddreißigmal
+zweiunddreißigstens
+zweiundfünfzigmal
+zweiundfünfzigstens
+zweiundvierzigmal
+zweiundvierzigstens
+zweiundzwanzigmal
+zweiundzwanzigstens
 zweiwöchentlich
 zwerch
 zwerchfeld
@@ -10385,6 +11027,7 @@ zwingend
 zwirrunt
 zwirunt
 zwischen
+zwischen den Jahren
 zwischenauf
 zwischenaus
 zwischenbei
@@ -10414,4 +11057,5 @@ zwürend
 zyklisch
 zylindrisch
 zynisch
+zz.
 zzt.
