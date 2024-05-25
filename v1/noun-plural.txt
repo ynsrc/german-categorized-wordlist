@@ -1,6 +1,3 @@
-(Gesetzes-)Lücken
-…stifter
-…wissenschaften
 100-Jährigen
 10-Jährigen
 10-Meter-Bretter
@@ -22180,7 +22177,6 @@ Eiscrèmes
 Eisdecken
 Eisdielen
 Eisen
-Eisen(II)-verbindungen
 Eisen-2-verbindungen
 Eisenabscheider
 Eisenbahnabteile
@@ -40303,16 +40299,6 @@ Inselstaaten
 Inserate
 Inseraten
 Inserenten
-INSERT INTO `nomen` VALUES (1105883
-INSERT INTO `nomen` VALUES (1124809
-INSERT INTO `nomen` VALUES (1144670
-INSERT INTO `nomen` VALUES (1168123
-INSERT INTO `nomen` VALUES (215008
-INSERT INTO `nomen` VALUES (384248
-INSERT INTO `nomen` VALUES (504054
-INSERT INTO `nomen` VALUES (694571
-INSERT INTO `nomen` VALUES (862937
-INSERT INTO `nomen` VALUES (974406
 Insertionen
 Insider
 Insidergeschäfte
@@ -66949,7 +66935,6 @@ Rhythmikern
 Rhythmusmaschinen
 Rhytipterna-Tyrannen
 Rias
-Ribisel(n)
 Ribiseli
 Ribosen
 Ribosomen
@@ -69761,7 +69746,6 @@ Schändlichkeiten
 Schandmale
 Schandsleute
 Schandtaten
-Schani(s)
 Schanigärten
 Schankbiere
 Schankbieren
@@ -79801,7 +79785,6 @@ Stoßzähne
 Stotterer
 Stotterern
 Stövchen
-Stradivari(s)
 Strafakte
 Strafakten
 Strafaktionen

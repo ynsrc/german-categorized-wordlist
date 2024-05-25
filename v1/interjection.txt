@@ -1,14 +1,9 @@
-’n Abend
 a
 ä
-à bas
-à la bonne heure
-à la bonne heure!
 aa
 ab trimo
 absolut
 ach
-Achtung, fertig, los
 addio
 ade
 adies
@@ -20,7 +15,7 @@ aha
 ahi
 ähm
 ahoi
-Ahoi!
+Ahoi
 ai
 aia
 äks
@@ -40,9 +35,8 @@ amen
 anheb
 annen
 apport
-April, April!
 ätsch
-Ätsch!
+Ätsch
 au
 au weh
 au wei
@@ -50,13 +44,12 @@ au weia
 aua
 aubeia
 aubi
-auf die Plätze, fertig, los
 auf Wiedersehen
 auh
 autsch
 auwe
 auweh
-Auweh!
+Auweh
 auwei
 auweia
 auweih
@@ -80,10 +73,9 @@ berlick
 berlocke
 beu
 bim
-bim, bam
 bimbam
 bingo
-Bingo!
+Bingo
 bitte
 bitte schön
 bla
@@ -100,12 +92,11 @@ blubb
 bn
 boah
 boing
-Boing!
+Boing
 bonsdies
 br
 bravissimo
 bravo
-bravo!
 break
 breche
 brr
@@ -116,7 +107,7 @@ bu
 buh
 bum
 Bumbaum
-Bumm!
+Bumm
 bums
 burdi
 bye-bye
@@ -204,7 +195,6 @@ funtus
 futsch
 fuy
 gack
-gack, gack
 gag
 gaga
 gagack
@@ -253,7 +243,7 @@ gottbewahre
 gottlob
 Gottsverdori
 gottverdammmich
-Gottverdammt!
+Gottverdammt
 grab
 grap
 greif
@@ -281,8 +271,8 @@ hallo
 hallöchen
 halloh
 halt
-Halt!
-Hammer!
+Halt
+Hammer
 har
 hasa
 hasch
@@ -290,17 +280,17 @@ hascha
 hasi
 hatsch
 hatschi
-Hatschi!
+Hatschi
 hau
 hau ruck
 hauder
 hautsch
 he
-He!
+He
 heah
 hebedehe
 heda
-Heda!
+Heda
 hederle
 heh
 hehem
@@ -329,10 +319,10 @@ hem
 hen
 heng
 hep
-Herrgott!
+Herrgott
 herrje
 herrjemine
-Herrjemine!
+Herrjemine
 hervorragend
 heu
 heureka
@@ -342,15 +332,13 @@ hick
 hicks
 hiha
 hihi
-Hihi!
+Hihi
 hihihi
 hika
 hilfio
-Himmel, Arsch und Zwirn
 Himmeldonnerwetter
 Himmelherrgott
 Himmelherrgottsakra
-hipp, hipp, hurra
 hippe
 hippeheppe
 hiss
@@ -389,7 +377,7 @@ hopsa
 hopsala
 hopsasa
 hopsassa
-höret!
+höret
 horres
 horres morres
 horrido
@@ -399,7 +387,7 @@ hoscha
 hosianna
 hossa
 hott
-Hott!
+Hott
 hotta
 hotte
 hotteiahum
@@ -410,7 +398,7 @@ howdy
 hu
 hü
 huch
-Huch!
+Huch
 huckaufdiemagd
 hudri
 huf
@@ -419,7 +407,7 @@ huh
 hüh
 huhlah
 huhu
-Huhu!
+Huhu
 hui
 huihussa
 hum
@@ -430,12 +418,12 @@ hupp
 hurliburli
 hurr
 hurra
-Hurra!
+Hurra
 hurrah
 hurre
 husa
 husch
-Husch!
+Husch
 huseh
 huss
 hussa
@@ -457,7 +445,6 @@ iha
 inschallah
 Interjektion
 io
-J’accuse
 jäch
 jäche
 jaha
@@ -544,14 +531,13 @@ kopfab
 kr
 kra
 krach
-krach!
 krause mause
 krause mausemause
 kreuzdonnerwetter
 Kreuzdonnerwetter
 kruzitürken
 ksch
-Kschsch!
+Kschsch
 kückerlüki
 kuckuck
 Kurle
@@ -575,7 +561,7 @@ lollo
 lullull
 mä
 mäh
-Mäh!
+Mäh
 Mannomann
 marsch
 Marsch
@@ -589,17 +575,15 @@ meckmeck
 mei
 menno
 Mensch Meier
-Menschenskinder!
+Menschenskinder
 merci
 metanoeite
 miau
 mies
-miez, miez
 miff
 miha
 mion
 Mist
-Mist!
 moin
 Momenterl
 moor
@@ -614,7 +598,6 @@ mucks
 muff
 muffmaff
 muh
-muh!
 mumm
 mummerdum
 mupf
@@ -625,7 +608,6 @@ myon
 na
 nä
 na ja
-na, na
 naja
 nanu
 ne
@@ -633,7 +615,6 @@ nebbich
 nee
 nein
 nitschewo
-njam, njam
 nobis
 nobis obis
 notabene
@@ -696,7 +677,6 @@ pfuch
 pfuh
 pfui
 pfui Teufel
-pfui!
 pfusch
 pfutsch
 pfuy
@@ -710,8 +690,6 @@ pieps
 pif
 piff
 Piff
-piff, paff
-piff, paff, puff
 pik
 pim
 pink
@@ -719,7 +697,6 @@ pip
 pisch
 pist
 pitsch
-pitsch, patsch
 pladdradauz
 plaff
 plapf
@@ -727,7 +704,6 @@ platsch
 platz
 plauz
 pling
-plitsch, platsch
 plitz
 plotz
 plumpf
@@ -760,7 +736,6 @@ pst
 pu
 puff
 puh
-puh!
 puk
 pulter
 pump
@@ -770,11 +745,8 @@ Punktum
 pur
 purr
 Pustekuchen
-Pustekuchen!
 put
-put, put
 putt
-putt, putt
 qua
 qua qua
 quabb-
@@ -795,12 +767,10 @@ raz
 reißaus
 reitherzu
 reitzu
-rette sich, wer kann
 rettio
 rick
 ringelrangel
 rips
-rips, raps
 ripsraps
 ripsus
 rirarutsch
@@ -820,7 +790,6 @@ rumpeldepumpel
 runda
 rutz
 sa
-sa!
 Sackel
 sacker
 sackerdam
@@ -841,13 +810,13 @@ sapristi
 sasa
 saugdieklauen
 sch
-Sch!
+Sch
 schabab
 schade
 schapp
 Scheibe
-Scheibenhonig!
-Scheiße!
+Scheibenhonig
+Scheiße
 schelmio
 Schindenhengst
 schip
@@ -909,7 +878,7 @@ siehe
 siep
 sim
 simm
-Simsalabim!
+Simsalabim
 sing
 skål
 sodala
@@ -950,15 +919,12 @@ tick
 ticktack
 tiliri
 tipp
-tipp, tapp
 tireli
 tirili
 tiro
 tja
 töff
-töff, töff
 toi toi toi
-toi, toi, toi
 toitoitoi
 top
 topp
@@ -970,7 +936,7 @@ trallalala
 trapp
 trara
 trass
-Trauermusikspiel!
+Trauermusikspiel
 traun
 triliereli
 trillirum
@@ -995,7 +961,7 @@ Tschüs
 tschüss
 Tschüss
 tschüssikowski
-Tschüssilein!
+Tschüssilein
 tschwuid
 tucktuck
 tule
@@ -1029,13 +995,11 @@ utsch
 Vabanque
 vach
 vah
-valleri, vallera
 verstanden
 viva
 vivallera
 vivat
-voilà
-Vorsicht!
+Vorsicht
 wa
 waff
 wai
@@ -1045,10 +1009,9 @@ wallah
 wallo
 wanne
 wapp
-Wasser marsch!
+Wasser marsch
 wau
 wau wau
-wau, wau
 wauwau
 wau-wau
 wawa
@@ -1092,7 +1055,7 @@ wuppdi
 wuppdich
 wupps
 wusch
-Wusch!
+Wusch
 wustaher
 wusther
 wutsch

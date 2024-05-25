@@ -1,9 +1,3 @@
-&c.
-’naus
-⁊c.
-…fach
-…fältig
-…wärts
 0-mal
 100-mal
 10-mal
@@ -81,7 +75,6 @@ a fortiori
 a posteriori
 a priori
 a tempo
-a. a.
 aah
 äämol
 ab
@@ -992,7 +985,6 @@ autographisch
 autokratisch
 automatisch
 autonom
-b. m.
 babbelas
 babyhaft
 bachab
@@ -1219,7 +1211,6 @@ berühiglichen
 berühmt
 berührend
 berührtermaßen
-bes.
 besagtermaßen
 beschäftigt
 beschämend
@@ -1320,7 +1311,6 @@ bezeichnend
 bezeichnenderweise
 bezeite
 bezirksweise
-bezw.
 bezweifelnd
 bibliografisch
 biblisch
@@ -1448,7 +1438,6 @@ botenweise
 botmäßig
 botschaftsweise
 botschaftweise
-br. m.
 brachtig
 brächtiglich
 branchenweit
@@ -1480,8 +1469,6 @@ brustabwärts
 brutal
 brutalst
 brutto
-bspw.
-btto.
 bübisch
 buchstabengetreu
 buchstabenweise
@@ -1506,8 +1493,6 @@ bußfertiglich
 bußtäglich
 buten
 butzenweise
-bzw.
-ca.
 calando
 calmato
 cantabile
@@ -1546,12 +1531,9 @@ cordialisch
 couragiert
 covalent
 cramanzerlich
-cresc.
 crescendo
 cross
 cum laude
-d. h.
-d’accord
 da
 da capo
 daan
@@ -1847,7 +1829,6 @@ dechantweise
 decherweise
 deciso
 deckenhoch
-decresc.
 decrescendo
 deduktiv
 defensiv
@@ -2225,7 +2206,6 @@ digital
 diktatorisch
 dilatorie
 dilemmatice
-dim.
 dimensional
 diminuendo
 dimmer
@@ -2463,7 +2443,6 @@ drunter
 drunter und drüber
 drunterhin
 drüsig
-dto.
 dualistisch
 duftend
 duftig
@@ -2537,8 +2516,6 @@ dwarsschiffs
 dynamisch
 dynastisch
 easy
-ebd.
-ebda.
 eben
 ebenda
 ebendadurch
@@ -2615,7 +2592,6 @@ ehegestern
 ehehin
 ehelängst
 ehem
-ehem.
 ehemal
 ehemalen
 ehemals
@@ -3191,8 +3167,6 @@ etagenweise
 etappenmäßig
 etappenweise
 etatmäßig
-etc.
-etc. pp.
 etesinnen
 ethisch
 ethischerweise
@@ -3205,7 +3179,6 @@ etlichfach
 etlichmal
 étouffé
 etswenne
-etw.
 etwa
 etwaigenfalls
 etwan
@@ -3249,7 +3222,6 @@ eventuell
 ever
 evidentermaßen
 evokativ
-evtl.
 ewig
 ewigerweise
 ewiglich
@@ -3847,7 +3819,6 @@ garaus
 garbei
 garnach
 garstig
-garten…
 gassab
 gassaten
 gassatim
@@ -4231,7 +4202,6 @@ gezwiefachtig
 gezwungen
 gezwungenermaßen
 gezwungenerweise
-ggf.
 gierdiglich
 gierig
 giftig
@@ -4486,7 +4456,6 @@ gutmütiglich
 guttural
 gutzeit
 gymnastisch
-h. c.
 haarbreit
 haargenau
 haarig
@@ -5067,7 +5036,6 @@ hurtiglich
 hydraulisch
 hypnotisch
 hypothetisch
-i. d. R.
 ibidem
 ichtens
 ichteswann
@@ -5344,7 +5312,6 @@ iwer
 iwi
 iwie
 iwo
-j. w. d.
 ja
 jachlich
 jäh
@@ -5438,7 +5405,6 @@ just
 just for fun
 justament
 justement
-jwd.
 jz
 kabelweise
 kahl
@@ -5715,7 +5681,6 @@ kunstvoll
 kurioserweise
 kurz
 kurz ab
-kurz(zeitig)
 kurzab
 kurzens
 kurzerhand
@@ -5892,7 +5857,6 @@ leugnend
 lexikalisch
 lexikografisch
 lexikographisch
-li.
 liberal
 lichterloh
 lichterlohe
@@ -5980,9 +5944,6 @@ luttuoso
 luvwärts
 luxuriös
 lyrisch
-m ü. A.
-m. a. W.
-m.a.W.
 mächtig
 mächtiglich
 mächtlich
@@ -6025,7 +5986,6 @@ mannlichen
 mano destra
 manualiter
 manuell
-marc.
 marcatissimo
 marcato
 märchenhaft
@@ -6339,7 +6299,6 @@ mystisch
 mythisch
 mythologisch
 'n
-n. u. Z.
 na wennschon
 nab
 nach
@@ -6450,7 +6409,6 @@ namentlich
 namhaft
 namhaftig
 namhaftiglich
-näml.
 nämlich
 nan
 nander
@@ -6708,9 +6666,6 @@ nuttig
 nutzenlos
 nützlich
 nutzlos
-o. B. d. A.
-o. k.
-O. K.
 ob
 ob man will oder nicht
 obaus
@@ -6899,7 +6854,6 @@ parasitisch
 pari
 parlando
 parlante
-part.
 parteisüchtig
 parterre
 partienweise
@@ -6999,7 +6953,6 @@ pilztötend
 pincé
 pipapo
 più
-pizz.
 pizzicato
 placido
 plan
@@ -7182,7 +7135,6 @@ querschiffs
 querüber
 quieto
 quietschvergnügt
-r.
 rabbinisch
 rabher
 rachsüchtig
@@ -7237,7 +7189,6 @@ rausher
 raußer
 rautenweise
 ravvivando
-rd.
 reaktiv
 realistisch
 realistischerweise
@@ -7326,7 +7277,6 @@ repräsentativ
 repressiv
 reserviert
 resigniert
-resp.
 respective
 respektive
 respektlos
@@ -8566,7 +8516,6 @@ tosto
 tot
 total
 totaliter
-toten…
 toxikologisch
 trabantenartig
 trabends
@@ -8683,9 +8632,6 @@ tyranniglich
 tyrannisch
 tyrannischerweise
 tyrannischlich
-u. a.
-u. Z.
-u.a.
 übel
 übelan
 übelauf
@@ -9611,9 +9557,6 @@ urweltmäßig
 urwesenlich
 urwissenschaftlich
 urzeitlich
-usw.
-v. a.
-v. u. Z.
 va banque
 Vabanque
 vacillando
@@ -10165,7 +10108,6 @@ vorzu
 vorzüglich
 vorzüglicherweise
 vorzugsweise
-vsl.
 vulgär
 vulgo
 vulkanisch
@@ -10302,7 +10244,6 @@ weichselzopfmäßig
 weidlich
 weidmännlich
 weihnachtsartig
-weil.
 weiland
 weilerweise
 weilweise
@@ -10675,12 +10616,6 @@ wüst
 wütend
 x-fach
 x-mal
-z. B.
-z. E.
-z. T.
-z. Z.
-z. Zt.
-z.B.
 zack
 zacker
 zackig
@@ -11057,5 +10992,3 @@ zwürend
 zyklisch
 zylindrisch
 zynisch
-zz.
-zzt.

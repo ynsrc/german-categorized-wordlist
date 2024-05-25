@@ -2,14 +2,12 @@
 abgasärmer
 abhörsichrer
 äbichor
--abler
 abwechslungsärmer
 alkoholärmer
 älter
 angeschlagner
 angesehner
 anregungsärmer
--anter
 antriebsärmer
 aprer
 äquatornäher
@@ -60,7 +58,6 @@ einbruchsichrer
 einkommensschwächer
 einkommensstärker
 einwohnerärmer
--eller
 emissionsärmer
 energieärmer
 entschlossner
@@ -68,7 +65,6 @@ erdnäher
 ereignisärmer
 ergebner
 erlesner
--fähiger
 ferner
 fettärmer
 feuerröter
@@ -98,7 +94,6 @@ höher
 höher kompliziert
 höherrangig
 holzärmer
--ibler
 ideenärmer
 idiotensichrer
 integrer
@@ -120,7 +115,6 @@ kunstbeflissner
 kürzer
 lammfrömmer
 länger
--lastiger
 laufstärker
 lautstärker
 lebensnäher

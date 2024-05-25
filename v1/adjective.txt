@@ -1,72 +1,7 @@
-(ab)lösbar
-(zu)treffend
-...abel
-...algisch
-...äquat
-...är
-...argisch
-...äugig
-...bar
-...bolisch
-...chthon
-...diktisch
-...dolent
-...duktiv
-...falt
-...ibel
-...it
-...jektiv
-...klamatorisch
-...lativ
-...ligatorisch
-...log
-...lytisch
-...nom
-...nym
-...pher
-...sprachig
-...teger
-...tensiv
-...thetisch
-...tinent
-...tonisch
-...zentrisch
-…alisch
-…bedingt
-…bereit
-…bezogen
-…dox
-…erzeugend
-…esk
-…fach
-…fältig
-…farbig
-…fekt
-…fest
-…füßig
-…gebaut
-…hältig
-…herzig
-…hüftig
-…intern
-…orientiert
-…rädrig
-…seitig
-…silbig
-…stellig
-…teilig
-…valent
-…verbial
-…wärtig
-…weise
-…zessiv
 ♥-lich
-0.
 08/15
 0815
 0-fach
-1.
-10.
 1000-jährig
 100fach
 100-fach
@@ -94,7 +29,6 @@
 10-tägig
 10-teilig
 10-wöchig
-11.
 11-eckig
 11fach
 11-fach
@@ -107,7 +41,6 @@
 11-seitig
 11-tägig
 11-wöchig
-12.
 12-eckig
 12fach
 12-fach
@@ -122,7 +55,6 @@
 12-stündig
 12-tägig
 12-wöchig
-13.
 1337
 13-eckig
 13fach
@@ -200,7 +132,6 @@
 19-stündig
 19-tägig
 19-wöchig
-1A-…
 1-fach
 1-füssig
 1-jährig
@@ -210,8 +141,6 @@
 1-tägig
 1-wöchig
 1-zeilig
-2.
-20.
 2000-fähig
 2000-jährig
 200-jährig
@@ -231,7 +160,6 @@
 20-tägig
 20-teilig
 20-wöchig
-21.
 21-eckig
 21-fach
 21-jährig
@@ -241,7 +169,6 @@
 21-stündig
 21-tägig
 21-wöchig
-22.
 22-eckig
 22-fach
 22-jährig
@@ -250,7 +177,6 @@
 22-minütig
 22-stündig
 22-wöchig
-23.
 23-fach
 23-jährig
 23-Jährigen
@@ -258,7 +184,6 @@
 23-minütig
 23-stündig
 23-wöchig
-24.
 24-eckig
 24-fach
 24-jährig
@@ -269,7 +194,6 @@
 24-stündig
 24-tägig
 24-wöchig
-25.
 25-fach
 25-jährig
 25-Jährigen
@@ -278,7 +202,6 @@
 25-prozentig
 25-stündig
 25-wöchig
-26.
 26-fach
 26-jährig
 26-Jährigen
@@ -286,7 +209,6 @@
 26-minütig
 26-stündig
 26-wöchig
-27.
 27-eckig
 27-fach
 27-jährig
@@ -296,7 +218,6 @@
 27-stündig
 27-tägig
 27-wöchig
-28.
 28-eckig
 28-fach
 28-jährig
@@ -306,7 +227,6 @@
 28-stündig
 28-tägig
 28-wöchig
-29.
 29-fach
 29-jährig
 29-Jährigen
@@ -337,8 +257,6 @@
 2-zimmerig
 2-zimmrig
 2-zylindrig
-3.
-30.
 300-jährig
 30-eckig
 30er
@@ -351,7 +269,6 @@
 30-prozentig
 30-stündig
 30-tägig
-31.
 31-eckig
 31-fach
 31-jährig
@@ -359,7 +276,6 @@
 31-minütig
 31-stündig
 31-tägig
-32.
 32-eckig
 32-fach
 32-jährig
@@ -367,26 +283,22 @@
 32-minütig
 32-stündig
 32-tägig
-33.
 33-fach
 33-jährig
 33-Jährigen
 33-minütig
 33-tägig
-34.
 34-eckig
 34-fach
 34-jährig
 34-Jährigen
 34-minütig
 34-tägig
-35.
 35-fach
 35-jährig
 35-Jährigen
 35-minütig
 35-stündig
-36.
 36-eckig
 36-fach
 36-jährig
@@ -394,17 +306,14 @@
 36-minütig
 36-monatig
 36-stündig
-37.
 37-fach
 37-jährig
 37-Jährigen
 37-minütig
-38.
 38-fach
 38-jährig
 38-Jährigen
 38-minütig
-39.
 39-fach
 39-jährig
 39-Jährigen
@@ -430,8 +339,6 @@
 3-teilig
 3-wöchig
 3-zinkig
-4.
-40.
 400-jährig
 40-eckig
 40-fach
@@ -444,45 +351,37 @@
 40-stündig
 40-tägig
 40-wöchig
-41.
 41-fach
 41-jährig
 41-Jährigen
 41-minütig
-42.
 42-fach
 42-jährig
 42-Jährigen
 42-minütig
-43.
 43-fach
 43-jährig
 43-Jährigen
 43-minütig
-44.
 44-fach
 44-jährig
 44-Jährigen
 44-minütig
-45.
 45-fach
 45-jährig
 45-Jährigen
 45-minütig
 45-stündig
 45-tägig
-46.
 46-fach
 46-jährig
 46-Jährigen
 46-minütig
 46-stündig
-47.
 47-fach
 47-jährig
 47-Jährigen
 47-minütig
-48.
 48-eckig
 48-fach
 48-jährig
@@ -494,7 +393,6 @@
 48-stündig
 48-tägig
 48-wöchig
-49.
 49-fach
 49-jährig
 49-Jährigen
@@ -520,8 +418,6 @@
 4-tägig
 4-teilig
 4-wöchig
-5.
-50.
 500-jährig
 50-eckig
 50-fach
@@ -534,24 +430,19 @@
 50-stündig
 50-tägig
 50-wöchig
-51.
 51-eckig
 51-fach
 51-jährig
 51-minütig
-52.
 52-fach
 52-jährig
 52-minütig
-53.
 53-fach
 53-jährig
 53-minütig
-54.
 54-fach
 54-jährig
 54-minütig
-55.
 55-fach
 55-jährig
 55-minütig
@@ -581,7 +472,6 @@
 5-tägig
 5-teilig
 5-wöchig
-6.
 600-jährig
 60-eckig
 60-fach
@@ -618,7 +508,6 @@
 6-wöchig
 6-zeilig
 6-zylindrig
-7.
 70-eckig
 70-fach
 70-jährig
@@ -646,7 +535,6 @@
 7-stündig
 7-tägig
 7-wöchig
-8.
 800-jährig
 80-eckig
 80-fach
@@ -671,7 +559,6 @@
 8-tägig
 8-wöchig
 8-zylindrig
-9.
 900-jährig
 90-fach
 90-jährig
@@ -701,7 +588,6 @@
 à point
 a posteriori
 a priori
-a.
 Aachener
 aal-
 aalähnlich
@@ -732,7 +618,6 @@ abasinisch
 abatisch
 abaxial
 abbasidisch
-Abbau…
 abbaubar
 abbaufähig
 abbauresistent
@@ -827,7 +712,6 @@ abfahrtsbereit
 abfallend
 abfällig
 abfärbig
-Abfederungs…
 abfindig
 abflauend
 abflüchtig
@@ -836,7 +720,6 @@ abfluss-
 abflusslos
 abfragbar
 abführend
-abg.
 abgabe-
 abgabefrei
 abgabenfrei
@@ -1087,7 +970,6 @@ abredig
 abreibend
 abreisend
 abreißbar
-abret.
 abriebfest
 abrindig
 abrufbar
@@ -1235,7 +1117,6 @@ abtriefig
 abtrüllig
 abtrünnig
 abtrünnisch
-abulg.
 abulisch
 abundant
 abundanten
@@ -1294,7 +1175,6 @@ abzüglich
 abzugsfähig
 abzugsfrei
 abzuklärend
-ač.
 acetonämisch
 acetyliert
 achaten
@@ -1369,7 +1249,6 @@ achtsprachig
 achtstellig
 achtstimmig
 achtstöckig
-Achtstufen…
 achtstündig
 achtstündlich
 achttägig
@@ -1570,7 +1449,6 @@ advokatisch
 advokatorisch
 adygeisch
 adynamisch
-aeol.
 aeolisch
 aeril
 aerisch
@@ -1635,7 +1513,6 @@ afroamerikanisch
 afroasiatisch
 afrobrasilianisch
 afrodeutsch
-afrz.
 aftere
 afterklug
 afterphilosophisch
@@ -1683,14 +1560,12 @@ agrobiologisch
 agrochemisch
 agronomisch
 agrotechnisch
-ags.
 agsteinen
 agsteinisch
 agtsteinen
 ägyptisch
 ägyptologisch
 ahasverisch
-ahd.
 ahermatypisch
 ähern
 ahistorisch
@@ -1728,7 +1603,6 @@ ahornen
 ährenschwanger
 ährig
 ahuman
-ai.
 aidsinfiziert
 AIDS-infiziert
 aidskrank
@@ -1737,8 +1611,6 @@ AIDS-krank
 aidsverseucht
 AIDS-verseucht
 aimabel
-air.
-aisl.
 akademisch
 akalorisch
 akanthusähnlich
@@ -1794,7 +1666,6 @@ akrophonisch
 akrot
 akrozentrisch
 akrozephal
-aksl.
 aktenkundig
 aktenmäßig
 aktienrechtlich
@@ -1870,7 +1741,6 @@ alchimistisch
 alcyonisch
 aleatorisch
 alecithal
-alem.
 alemannisch
 Aleppiner
 aleppinisch
@@ -2006,7 +1876,6 @@ alleinwirkend
 alleinwohnend
 alleinzig
 allel
-Allel…
 allelopathisch
 allemalig
 allemsig
@@ -2604,7 +2473,6 @@ allsüß
 alltägig
 alltäglich
 alltags-
-Alltags…
 alltagsästhetisch
 alltagsgeschichtlich
 alltagsmäßig
@@ -2689,7 +2557,6 @@ alsobaldig
 alsogleich
 alt
 alt-
-Alt…
 altadelig
 altadlig
 altägyptisch
@@ -2700,7 +2567,6 @@ altansässig
 altarähnlich
 altarartig
 altarmenisch
-altäth.
 altäthiopisch
 altbacken
 altbefreundet
@@ -2808,7 +2674,6 @@ altgewohnt
 altgeworden
 altgläubig
 altgotisch
-altgr.
 altgreis
 altgriechisch
 altheidnisch
@@ -2878,7 +2743,6 @@ altrot
 altroth
 altruistisch
 altrussisch
-altsächs.
 altsächsisch
 altschlachten
 altschwäbisch
@@ -2989,7 +2853,6 @@ ampelografisch
 ampelographisch
 amperometrisch
 amphetaminhaltig
-Amphibien…
 amphibisch
 amphibolisch
 amphipathisch
@@ -3042,7 +2905,6 @@ amygdaloid
 amyloid
 an
 an den Haaren herbeigezogen
-an.
 anabaptistisch
 anabatisch
 anabol
@@ -3060,7 +2922,6 @@ analfixiert
 analgetisch
 anallaktisch
 analog
-Analog…
 analog-digital
 analogisch
 analphabetisch
@@ -3088,7 +2949,6 @@ anastatisch
 anästhesiologisch
 anästhetisch
 anastigmatisch
-anat.
 anational
 anatolisch
 anatomisch
@@ -3172,7 +3032,6 @@ andin
 andisch
 andorranisch
 andringlich
-andro...
 androgen
 androgyn
 androphil
@@ -3545,7 +3404,6 @@ ansässig
 ansatzweise
 ansauer
 ansäuerlich
-Ansaug…
 anschaubar
 anschauend
 anschaulich
@@ -3557,7 +3415,6 @@ anschlägig
 anschlägisch
 anschläglich
 anschließend
-Anschluss…
 anschlussfähig
 anschlussfertig
 anschlüssig
@@ -3850,9 +3707,7 @@ anzündlich
 anzurechnend
 anzutreffen
 anzweifelbar
-äol.
 äolisch
-aon.
 äonenlang
 äonenweit
 äonisch
@@ -3884,7 +3739,6 @@ aphotometrisch
 aphrodisisch
 apikal
 apikodental
-apl.
 aplastisch
 aplitisch
 apnoisch
@@ -3895,7 +3749,6 @@ apokalyptisch
 apokarp
 apokryph
 apokryphisch
-apolab.
 apolitisch
 apollinisch
 apollonisch
@@ -3949,7 +3802,6 @@ aprillenwetterisch
 apriorisch
 aprioristisch
 aprotisch
-aprov.
 apsidial
 aptiert
 apulisch
@@ -4208,8 +4060,6 @@ arzneimittelresistent
 arzneiverständig
 ärztlich
 arztpflichtig
-as.
-asächs.
 asbach
 asbestfrei
 asch-
@@ -4237,7 +4087,6 @@ aschig
 aschist
 aschkenasisch
 aschleifig
-aschwed.
 aseismisch
 aseptisch
 aserbaidschanisch
@@ -4251,7 +4100,6 @@ askanisch
 asketisch
 asklepisch
 askriptiv
-asl.
 aslaipfig
 asomatisch
 äsopisch
@@ -4530,7 +4378,6 @@ aufreibend
 aufreißerisch
 aufreizend
 aufrichtig
-Aufriss…
 aufrollbar
 aufrückig
 aufrufbar
@@ -4553,7 +4400,6 @@ aufschneiderisch
 aufschnippisch
 aufschnüpfisch
 aufschnüppig
-Aufschraub…
 Aufsehen erregend
 aufsehenerregend
 aufsehig
@@ -4571,16 +4417,13 @@ aufspreitig
 aufspringend
 aufständig
 aufständisch
-Aufsteck…
 aufsteckbar
 aufsteigend
-Aufstockungs…
 aufstößig
 aufstrebend
 aufstützig
 aufteilbar
 auftraggemäß
-Auftrags…
 auftragsbezogen
 auftragsentscheidend
 auftragsgemäß
@@ -4717,7 +4560,6 @@ ausgabenseitig
 ausgabenwirksam
 ausgäbig
 ausgablich
-Ausgangs…
 ausgearbeitet
 ausgeatmet
 ausgebaut
@@ -5111,7 +4953,6 @@ avicennistisch
 avirulent
 awarisch
 awestisch
-awn.
 axial
 axillar
 axiologisch
@@ -5212,7 +5053,6 @@ badewarm
 badgummiert
 badisch
 baff
-Bagatell…
 bagatellmäßig
 bahamaisch
 bahamisch
@@ -5274,9 +5114,7 @@ balearisch
 balgerisch
 balgisch
 balinesisch
-Balkan…
 balkanisch
-Balken…
 balkendick
 balkenkantig
 ball-
@@ -5477,7 +5315,6 @@ bauchfällig
 bauchflüssig
 bauchförmig
 bauchfrei
-Bauchfrei…
 bauchicht
 bauchig
 bäuchig
@@ -5509,7 +5346,6 @@ baugeschichtlich
 baugleich
 bauhaft
 baukünstlerisch
-Baulängen…
 baulich
 baulos
 baulustig
@@ -5580,7 +5416,6 @@ beansprucht
 beantwortbar
 beantwortet
 bearb
-bearb.
 bearbeitbar
 bearbeitet
 bearbeitungsfähig
@@ -6138,7 +5973,6 @@ bepstisch
 bequem
 bequemlich
 beratend
-Beratungs…
 beratungsintensiv
 beratungsresistent
 berauschend
@@ -6285,7 +6119,6 @@ besaitet
 besandet
 besatzungsrechtlich
 besch***en
-besch...en
 beschädigt
 beschaffbar
 beschaffen
@@ -6610,7 +6443,6 @@ beutesüchtig
 beutfertig
 beuthaftig
 bevölkerungs-
-Bevölkerungs…
 bevölkerungsarm
 bevölkerungsfeindlich
 bevölkerungsmäßig
@@ -6729,7 +6561,6 @@ bezugnehmend
 bezugs-
 bezugsberechtigt
 bezugsbereit
-bezugsf.
 bezugsfertig
 bezweifelbar
 bezwingbar
@@ -6739,9 +6570,7 @@ bezwungenlich
 bhd
 bhutanisch
 bi
-bi...
 bibel-
-Bibel…
 bibelbuchstäblich
 bibelfest
 bibelgläubig
@@ -6749,7 +6578,6 @@ Biberacher
 biberhären
 biberschwarz
 bibet
-bibl.
 bibliografisch
 bibliographisch
 biblioman
@@ -6852,7 +6680,6 @@ bildstark
 bildstöckig
 bildsynchron
 bildungs-
-Bildungs…
 bildungsarm
 bildungsbeflissen
 bildungsbesessen
@@ -7288,7 +7115,6 @@ blinkerblank
 blinzern
 blinzlich
 blitz-
-Blitz…
 blitzartig
 blitzäugig
 blitzbewaffnet
@@ -7674,7 +7500,6 @@ börsenkotiert
 börsennotiert
 börsentäglich
 börslich
-Borsten…
 borstenartig
 borstenförmig
 borstenstarrend
@@ -7738,7 +7563,6 @@ bovin
 boxerisch
 brabäntisch
 brach
-Brach…
 brachial
 brachliegend
 brächtisch
@@ -7966,7 +7790,6 @@ bretthart
 brettig
 brettleben
 brettsdick
-Brief…
 briefadelig
 briefedel
 briefisch
@@ -8035,7 +7858,6 @@ bruchstücklich
 bruchteilig
 brüchtig
 bruchverknüpft
-Bruder…
 brüderlich
 bruderlos
 brudermörderisch
@@ -8092,7 +7914,6 @@ brütendheiß
 brutheiß
 brutig
 brütig
-Brutto…
 brutwarm
 bubenfrei
 bubenfromm
@@ -8204,7 +8025,6 @@ bund-
 bundbrüchig
 bündelweise
 bundes-
-Bundes…
 bundesbrüchig
 bundesdeutsch
 bundeseigen
@@ -8312,7 +8132,6 @@ burgähnlich
 burgartig
 burgenländisch
 burgenlandkroatisch
-Bürger…
 bürgeraktiv
 bürgerbewegt
 bürgerfeindlich
@@ -8391,7 +8210,6 @@ butch
 butchig
 büttelisch
 butter-
-Butter…
 butterbeschmiert
 butterfarben
 buttergelb
@@ -8479,7 +8297,6 @@ chasarisch
 chassidisch
 chaussiert
 chauvinistisch
-Chef…
 cheironomisch
 chelatbildend
 chelatisierend
@@ -8578,8 +8395,6 @@ christselig
 christsozial
 christtreulich
 chrom-
-Chrom(II)-…
-Chrom(III)-…
 chromaffin
 chromatiert
 chromatisch
@@ -8714,8 +8529,6 @@ cytogenetisch
 cytoplasmatisch
 cytostatisch
 d-
-d’Hondt’sch
-d’hondtsch
 dach-
 dachähnlich
 dachartig
@@ -9106,7 +8919,6 @@ dawidrig
 dazitisch
 dazugehörig
 dazumalig
-dazwischen…
 dazwischenliegend
 de facto
 de luxe
@@ -9504,7 +9316,6 @@ dereinstig
 dererlei
 dergestaltig
 derisch
-Derivate…
 derivativ
 deriviert
 derjenige
@@ -9534,7 +9345,6 @@ derwisch-
 derzeitig
 dérzeitig
 derzeitlich
-des.
 desaströs
 desavantagös
 desbewegend
@@ -9829,7 +9639,6 @@ diakonissen-
 diakritisch
 diaktin
 dialekt-
-Dialekt…
 dialektal
 dialektfrei
 dialektgefärbt
@@ -10550,7 +10359,6 @@ diptotisch
 direct
 direkt
 direkt-
-Direkt…
 direktdemokratisch
 direktional
 direktions-
@@ -11587,7 +11395,6 @@ dreistöckig
 dreistrahlig
 dreisträhnig
 dreisträngig
-Dreistufen…
 dreistufig
 dreistündig
 dreistündlich
@@ -11724,7 +11531,6 @@ dritt-
 drittältest
 drittälteste
 drittbest
-dritt-best…
 drittbeste
 drittbestes
 dritte
@@ -11887,7 +11693,6 @@ dschingisidisch
 dschungel-
 dschungelartig
 dschungelhaft
-dt.
 du-
 dual
 dual-
@@ -12226,7 +12031,6 @@ dünnstengelig
 dünnstimmig
 dünntuchen
 dünnverschlungen
-Dünnwand…
 dünnwandig
 dünnwässericht
 dünnwässerig
@@ -12662,7 +12466,6 @@ dysteleologisch
 dyston
 dystonisch
 dystop
-Dystopie…
 dystopisch
 dystroph
 dystrophisch
@@ -12743,7 +12546,6 @@ echtdeutsch
 echtgolden
 echtig
 echtsilbern
-Echtzeit…
 eckend
 eckenlos
 ecker-
@@ -12916,7 +12718,6 @@ ehelieb
 eheliebend
 ehelos
 ehelustig
-ehemal.
 ehemalig
 ehemännlich
 ehemündig
@@ -13142,8 +12943,6 @@ ehrwidrig
 Ehrwürden
 ehrwürdig
 ehrzüchtig
-ehst.
-ehstn.
 ehstnisch
 ehverhaft
 ehverknüpft
@@ -13771,7 +13570,6 @@ einpärig
 einpferdig
 einpflichtig
 einpfündig
-Einphasen…
 einphasig
 einpöklerisch
 einpolig
@@ -14017,7 +13815,6 @@ einzehig
 einzeilicht
 einzeilig
 einzel
-Einzel…
 einzelbetrieblich
 einzelgängerisch
 einzelhaft
@@ -14176,7 +13973,6 @@ eiweißartig
 eiweißhaltig
 eiweißreich
 eiweißverdauend
-Ejakulations…
 ekchymotisch
 ekdemisch
 ekel
@@ -14321,7 +14117,6 @@ elfprozentig
 elfseitig
 elfstellig
 elfstöckig
-Elfstufen…
 elfstündig
 elftägig
 elftältest
@@ -14419,7 +14214,6 @@ empfängig
 empfänglich
 empfängnisfähig
 empfängnisverhütend
-Empfangs…
 empfangsberechtigt
 empfangsbereit
 empfangsseitig
@@ -14465,7 +14259,6 @@ enantiotop
 enantiotrop
 enchantiert
 enchondral
-End…
 endbenannt
 endbesteuert
 endbetont
@@ -14602,7 +14395,6 @@ enggespannt
 enggestellt
 enghalsig
 engherzig
-engl.
 englandfreundlich
 engländisch
 englisch
@@ -14850,7 +14642,6 @@ entwicht
 entwickelbar
 entwickelnd
 entwickelt
-Entwicklungs…
 entwicklungsbedingt
 entwicklungsbedürftig
 entwicklungsfähig
@@ -15497,7 +15288,6 @@ ergriffen
 ergrimmt
 ergründbar
 ergründlich
-Erguss…
 erhaben
 erhabenschauerlich
 erhabentuend
@@ -16150,7 +15940,6 @@ erythematös
 erythräisch
 erythropoetisch
 erz-
-Erz…
 erzähl-
 erzählbar
 erzählenswert
@@ -16358,12 +16147,10 @@ esslich
 esslöffelweise
 esslustig
 eßsüchtig
-est.
 esterartig
 estimabel
 estisch
 estländisch
-estn.
 estnisch
 estrich-
 estrichen
@@ -16409,7 +16196,6 @@ etlich
 etlichgroß
 etlichtägig
 etrurisch
-etrusk.
 etruskisch
 etslich
 etüdenhaft
@@ -16515,7 +16301,6 @@ eutrophisch
 EU-weit
 euwrisch
 euxinisch
-ev.
 evagläubig
 evaluativ
 evaluierbar
@@ -16545,7 +16330,6 @@ evokatorisch
 evolut
 evolutionär
 evolutionistisch
-Evolutions…
 evolutionsbiologisch
 evolutionsgemäß
 evolutionstheoretisch
@@ -16553,7 +16337,6 @@ evolutiv
 evolutorisch
 evolventenverzahnt
 evoziert
-evtl.
 EWG-freudig
 EWG-freundlich
 EWG-verdächtig
@@ -16746,7 +16529,6 @@ exotherm
 exothermisch
 exotisch
 exozentrisch
-exp.
 expansibel
 expansion-
 expansionistisch
@@ -16914,7 +16696,6 @@ exzessiv
 exzessivschnell
 exzitabel
 eytel
-f.
 fabelfroh
 fabelhaft
 fabelhaftig
@@ -16982,7 +16763,6 @@ fade
 fadechtig
 fademecht
 fädemig
-Faden…
 fadenähnlich
 fadendünn
 fadenförmig
@@ -17063,7 +16843,6 @@ fahrunfähig
 fahruntauglich
 fahruntüchtig
 fahrvoll
-Fahrzeug…
 fair
 fäkal
 fake
@@ -17546,7 +17325,6 @@ feindbesetzt
 feindbewältigt
 feindbildlos
 feinddürstig
-Feindes…
 feindesdürstig
 feindgesinnt
 feindhässig
@@ -17702,7 +17480,6 @@ felsisch
 felsitisch
 felsstarr
 felsumsteilt
-fem.
 feminin
 feministisch
 femisch
@@ -17985,8 +17762,6 @@ feurig
 feurisch
 feyn
 ff
-ff.
-fi.
 fiberbronchoskopisch
 fiberglasverstärkt
 fibern
@@ -18223,7 +17998,6 @@ flach-
 flachabfallend
 flachaufliegend
 flachausgerollt
-Flachbett…
 flachbödig
 flachbrüstig
 flachdachig
@@ -18434,7 +18208,6 @@ fleißig
 fleißigbemüht
 fleißiglich
 fleißlich
-fleißlich.
 fleißlos
 fleißvermählt
 fleißwillig
@@ -18655,7 +18428,6 @@ flüglich
 flugmedizinisch
 flugplanmäßig
 flugplanwidrig
-Flugrettungs…
 flugschnell
 flugstark
 flugsüchtig
@@ -18774,7 +18546,6 @@ follikular
 follikulär
 folterisch
 folterlos
-Fonations…
 foncé
 fondsbasiert
 fondsgebunden
@@ -18987,7 +18758,6 @@ fortschrittslustig
 fortschrittsorientiert
 fortschrittsreich
 fortsetzbar
-Fortsetzungs…
 fortüberliefert
 fortwährend
 fortwierig
@@ -19247,7 +19017,6 @@ freisig
 freisinnig
 freislich
 freissam
-freist.
 freistaatlich
 freistehend
 freitägig
@@ -19961,7 +19730,6 @@ frühmüde
 frühmykenisch
 frühneuhochdeutsch
 frühneuzeitlich
-frühnhd.
 frühpensioniert
 frühreif
 frühreifend
@@ -20007,7 +19775,6 @@ frustrierend
 frustriert
 frut
 frutig
-frz.
 fuchsähnlich
 fuchsartig
 füchsen
@@ -20252,7 +20019,6 @@ fünfstimmig
 fünfstöckig
 fünfstrahlig
 fünfstrophig
-Fünfstufen…
 fünfstufig
 fünfstündig
 fünfstündlich
@@ -21031,7 +20797,6 @@ ganzwollen
 ganzzahlig
 gäppisch
 gar
-Gär…
 garantiert
 garbenbeladen
 garbenförmig
@@ -21197,7 +20962,6 @@ geäugelt
 geaugt
 geäugt
 geäußert
-geb.
 gebalkt
 geballt
 gebändert
@@ -21291,7 +21055,6 @@ gebrauchbar
 gebräuchig
 gebräuchlich
 gebrauchlos
-Gebrauchs…
 gebrauchsam
 gebrauchsfähig
 gebrauchsfertig
@@ -22772,7 +22535,6 @@ gerichtbelastet
 gerichtet
 gerichtfest
 gerichtlich
-Gerichts…
 gerichtsähnlich
 gerichtsam
 gerichtsärztlich
@@ -22852,7 +22614,6 @@ gerispet
 gerissen
 gerisslet
 geritten
-germ.
 germanisch
 germanistisch
 germaniumhaltig
@@ -23524,7 +23285,6 @@ gestoppt
 gestorben
 gestörcht
 gestört
-gestr.
 gestrack
 gestrackt
 gesträhnt
@@ -23800,7 +23560,6 @@ gewaltsentlassen
 gewaltsüchtig
 gewalttäterisch
 gewalttätig
-gewalttätig. gewaltthätig
 gewalttrutzig
 gewalttuig
 gewaltverherrlichend
@@ -24323,7 +24082,6 @@ gichtschmerzend
 gichtstarrig
 gichtsteif
 gichtsüchtig
-Giebel…
 giebelartig
 giebelförmig
 giebelig
@@ -25202,7 +24960,6 @@ glücklos
 glückmäßig
 glückmüde
 glückreich
-Glücks…
 glücksam
 glücksamiglich
 glücksamlich
@@ -25550,7 +25307,6 @@ goschig
 gossenhaft
 gost
 göst
-got.
 gotenfreundlich
 gotenverscheuchend
 gothisch
@@ -25678,7 +25434,6 @@ gottmenschlich
 gottruhig
 gottsackrig
 gottsam
-gottsch.
 gottschänderisch
 gottschändig
 gottscheerisch
@@ -25714,7 +25469,6 @@ gotzig
 götzisch
 gouvernantenhaft
 gozitanisch
-gr.
 grabähnlich
 grabbar
 grabbig
@@ -26268,8 +26022,6 @@ grazienvoll
 grazil
 graziös
 gräzistisch
-grch.
-grds.
 grech
 greckig
 gredsch
@@ -26381,7 +26133,6 @@ gridig
 griebendürr
 griebenfräßig
 griebensinnig
-griech.
 griechenblau
 griechisch
 griechisch-katholisch
@@ -26482,7 +26233,6 @@ grinselig
 grinsenhaft
 grinsig
 grippal
-Grippe…
 grippeähnlich
 grippekrank
 grippig
@@ -26959,7 +26709,6 @@ grottenhässlich
 grottenschlecht
 grotticht
 grottig
-grr.
 grßmöglich
 grübelhaft
 grübelig
@@ -28450,7 +28199,6 @@ häuflich
 häuftig
 hauig
 hauländisch
-Haupt…
 hauptamtlich
 hauptberuflich
 hauptbetostet
@@ -28569,7 +28317,6 @@ havelländisch
 hawaiianisch
 hawaiisch
 hawkish
-hd.
 HDTV-tauglich
 heavy
 hebammlich
@@ -28692,7 +28439,6 @@ heilwärtig
 heilwirksam
 heilwirtig
 heilwürdig
-Heimat…
 heimatberechtigt
 heimatgebunden
 heimatkundlich
@@ -29281,9 +29027,7 @@ heterozerk
 heterozön
 heterozygot
 heterozyklisch
-heth.
 hethitisch
-Hetz…
 hetzerisch
 hetzhalber
 hetzlos
@@ -30066,7 +29810,6 @@ hochsommerlich
 hochspekulativ
 hochspezialisiert
 hochsprachlich
-höchst…
 hochstabil
 hochstaffiert
 hochstämmig
@@ -30117,7 +29860,6 @@ höchstzulässig
 hochsubventioniert
 hochtalentiert
 hochtechnisiert
-Hochtechnologie…
 hochtechnologisch
 hochteuer
 hochtitrig
@@ -30360,7 +30102,6 @@ holzverarbeitend
 holzverkleidet
 holzverschränkt
 holzzerstörend
-hom.
 Homburger
 homburgisch
 homerisch
@@ -30883,7 +30624,6 @@ hypotonisch
 hypoxisch
 hypsografisch
 hypsometrisch
-Hyptertonie…
 hyrkanisch
 hysterisch
 hysterogen
@@ -30939,7 +30679,6 @@ ideologiefrei
 ideologiekritisch
 ideologisch
 ideomotorisch
-idg.
 idioblastisch
 idiochromatisch
 idiographisch
@@ -30956,7 +30695,6 @@ idiotypisch
 idistisch
 idyllisch
 -ig
-ig.
 igelartig
 igelhaft
 igelisch
@@ -30996,7 +30734,6 @@ illuster
 illustrativ
 illustriert
 illuvial
-illyr.
 illyrisch
 im Regen stehen gelassen
 im Stich gelassen
@@ -31175,9 +30912,6 @@ individuelleren
 indizierbar
 indoarisch
 indoeuropäisch
-indog.
-indogerm.
-indogerman.
 indogermanisch
 indoiranisch
 indoktrinativ
@@ -31614,7 +31348,6 @@ intern
 internal
 international
 internationalistisch
-Internet…
 internetabhängig
 internetaffin
 internetbasiert
@@ -31915,7 +31648,6 @@ israelkritisch
 ist
 isthmisch
 istrisch
-it.
 italianisiert
 italianistisch
 Italiener
@@ -32012,7 +31744,6 @@ Japaner
 japanesisch
 japanisch
 jareich
-Jargon…
 jasminisch
 jaspisartig
 jauchig
@@ -32086,7 +31817,6 @@ jordanisch
 journalistisch
 jovial
 jovianisch
-jr.
 jubelhell
 jubelnd
 jubelvoll
@@ -32109,7 +31839,6 @@ jüdisch
 jüdisch-christlich
 judiziell
 judiziös
-Jugend…
 jugendbeglückend
 jugendbewegt
 jugendblühend
@@ -32138,7 +31867,6 @@ jugengemäß
 jugoslawisch
 julianisch
 Julianisch
-jun.
 jung
 jung belaubt
 jung verheiratet
@@ -32199,8 +31927,6 @@ juwelenartig
 juwelenbesetzt
 juxig
 juxtarenal
-k. o.
-k.o.
 kabardinisch
 kabarettistisch
 kabbalistisch
@@ -32248,7 +31974,6 @@ Kaiser
 kaiserfrei
 kaiserhaft
 kaiserisch
-kaiserl.
 kaiserlich
 kaiserlich-königlich
 kaiserlos
@@ -32295,7 +32020,6 @@ kalibergroß
 kälich
 kalifornisch
 kalihaltig
-Kalk…
 kalkähnlich
 kalkarm
 kalkartig
@@ -32309,13 +32033,11 @@ kalkreich
 kalksteinechtig
 kalkulatorisch
 kalkulierbar
-Kalkum…
 kalkut
 kalkweiß
 kalligrafisch
 kalligraphisch
 kallös
-Kallus…
 kalm
 kalmanken
 kalmäuserisch
@@ -32494,7 +32216,6 @@ kantig
 kantisch
 kantlich
 kantonal
-Kantonal…
 kantonesisch
 kantoniert
 kantonseigen
@@ -32505,7 +32226,6 @@ kanzleimäßig
 kanzleisässig
 kanzleistilig
 kanzleiverwandt
-Kaolin…
 kaolinitisch
 kapabel
 kapaunenhaft
@@ -32562,7 +32282,6 @@ kardiologisch
 kardiopulmonal
 kardiopulmonar
 kardiovaskulär
-karel.
 karelisch
 kären
 karfunkeln
@@ -32645,7 +32364,6 @@ käsehoch
 käseweiß
 käsicht
 käsig
-Kaskaden…
 kaskadenförmig
 kaskadierbar
 kaspisch
@@ -32706,7 +32424,6 @@ kategorisch
 katenativ
 katerig
 katexochen
-kath.
 katharisch
 katharob
 kathartisch
@@ -32742,7 +32459,6 @@ katzenschlau
 kätzern
 katzig
 katzrein
-Kau…
 kaubar
 kaudal
 kauderig
@@ -33597,7 +33313,6 @@ klotzköpfig
 klötzlecht
 klötzlicht
 klotzmännisch
-klr.
 klubeigen
 klübig
 klubisch
@@ -33649,7 +33364,6 @@ knackevoll
 knackfrisch
 knackicht
 knackig
-Knall…
 knallartig
 knallblau
 knallbunt
@@ -33937,7 +33651,6 @@ kohlebeheizt
 kohlefördernd
 kohleführend
 kohlehaltig
-Kohlen…
 kohlenartig
 kohlengesäuert
 kohlenhydratarm
@@ -33995,7 +33708,6 @@ kolligativ
 kollinear
 kollisionsrechtlich
 kolloid
-Kolloid…
 kolloidal
 kolloquial
 kollossal
@@ -34167,7 +33879,6 @@ konfokal
 konform
 konformativ
 konformistisch
-Konfrontations…
 konfrontativ
 konfundiert
 konfus
@@ -34351,7 +34062,6 @@ kontrovers
 kontroversiell
 konturenlos
 konturlos
-Konvektions…
 konvektiv
 konvenabel
 konvenient
@@ -35603,7 +35313,6 @@ kurz angebunden
 kurz gebraten
 kurz geschnitten
 kurz geschoren
-Kurz…
 kurzährig
 kurzärmelig
 kurzarmig
@@ -35738,7 +35447,6 @@ kynthisch
 kyphös
 kyphotisch
 kyrillisch
-l.
 labber
 labberig
 labbrig
@@ -36130,7 +35838,6 @@ lanzettförmig
 lanzettlich
 laotisch
 lapidar
-lapp.
 lappendig
 lappenhaft
 lappicht
@@ -36200,7 +35907,6 @@ lasurblau
 lasuren
 lasurfarben
 lasziv
-lat.
 lateinamerikanisch
 lateinisch
 latent
@@ -36219,7 +35925,6 @@ latzdeckig
 latzgehornt
 lau
 Laub tragend
-Laub…
 laubabwerfend
 laubästen
 laubbekränzt
@@ -36358,7 +36063,6 @@ Leben spendend
 Leben zerstörend
 lebenähnlich
 lebend
-Lebend…
 lebendgebärend
 lebendig
 lebendigspielend
@@ -36906,7 +36610,6 @@ letal
 lethargisch
 letschert
 letschig
-lett.
 letten
 lettenreich
 lettgallisch
@@ -37345,7 +37048,6 @@ listfindig
 listig
 listiggesinnt
 listrisch
-lit.
 litauisch
 literal
 literarhistorisch
@@ -37709,7 +37411,6 @@ lusttaumelnd
 lusttrunken
 lustvoll
 lustwiehernd
-luth.
 lutherisch
 Luthersch
 lütt
@@ -37721,7 +37422,6 @@ luvgierig
 luwisch
 luxemburgisch
 luxuriös
-Luxus…
 luzid
 luziferisch
 lw
@@ -37738,7 +37438,6 @@ lyophob
 lyrisch
 lysigen
 lytisch
-m.
 mäanderartig
 mäanderförmig
 mäandrisch
@@ -37754,7 +37453,6 @@ machomäßig
 machsam
 machsch
 Macht habend
-Macht…
 machtarm
 machtbesessen
 machtbewusst
@@ -37789,7 +37487,6 @@ madenfressig
 madenzerfressen
 madicht
 madig
-madj.
 madjarisch
 madonnenhaft
 Madrider
@@ -37897,7 +37594,6 @@ makrosozial
 makrosoziologisch
 makrostrukturell
 makrozephal
-mal.
 malachitgrün
 malad
 maladaptiv
@@ -38058,7 +37754,6 @@ manntöricht
 mannvest
 mannweiblich
 manoli
-Manöver…
 manövrierfähig
 manövrierunfähig
 manschicht
@@ -38215,7 +37910,6 @@ masernartig
 masernkrank
 masicht
 masig
-mask.
 maskenartig
 maskengesteuert
 maskenhaft
@@ -38398,15 +38092,12 @@ maxi
 maxillar
 maxillär
 maximal
-Maya…
 mayaisch
 mayanisch
 Mayer
 mazarinblau
 mazedonisch
 mäzenatisch
-md.
-me.
 mechanisch
 mechanistisch
 mechatronisch
@@ -38656,7 +38347,6 @@ meistbeteiligt
 meistbietend
 meistdiskutiert
 meiste
-Meister…
 meistergeschäftig
 meisterhaft
 meisterig
@@ -38718,7 +38408,6 @@ memmenhaft
 memmisch
 memorabel
 mench
-Mendel’sch
 mendelsch
 meng
 mengbar
@@ -38787,7 +38476,6 @@ mensurabel
 mensural
 mensuriert
 mental
-Mental…
 mentalistisch
 mentalitätsgeschichtlich
 menügeführt
@@ -38799,7 +38487,6 @@ meridional
 meristematisch
 meritokratisch
 meritorisch
-Merk…
 merkantil
 merkantilistisch
 merkbar
@@ -38911,15 +38598,12 @@ metaphysisch
 metasomatisch
 metasprachlich
 metastabil
-Metastasen…
 metastatisch
 metatarsal
 metatheoretisch
 metawissenschaftlich
-Meteor…
 meteorhaft
 meteorisch
-Meteoriten…
 meteoritisch
 meteorologisch
 meteorotrop
@@ -38958,9 +38642,6 @@ meuterisch
 mexikanisch
 mezzanin
 mfG
-mfr.
-mfrz.
-mhd.
 miarolitisch
 miasmatisch
 michel
@@ -39164,7 +38845,6 @@ minutiös
 minütlich
 minuziös
 miotisch
-mir.
 mirakulös
 misandrisch
 misanthrop
@@ -39313,7 +38993,6 @@ mitleidswert
 mitleidswürdig
 mitleidvoll
 mitmenschlich
-Mitochondrien…
 mitotisch
 mitpflichtig
 mitral
@@ -39424,16 +39103,13 @@ mitwirkend
 mitzeitig
 mixolydisch
 mixotroph
-mlat.
 mnemonisch
 mnemotechnisch
 mnestisch
-mnl.
 mobil
 mobile
 mobilisierbar
 mobilitätseingeschränkt
-möbl.
 möbliert
 mockig
 modal
@@ -39811,7 +39487,6 @@ motivational
 motivierend
 motiviert
 motivisch
-Motor…
 motorbetrieben
 motorgetrieben
 motorisch
@@ -39878,7 +39553,6 @@ mukopurulent
 mukös
 mukoziliär
 mülbicht
-Mulden…
 muldenförmig
 muldicht
 mülk
@@ -40480,7 +40154,6 @@ nameinig
 namenkundlich
 namenlos
 namenreich
-Namens…
 namensgebend
 namensgleich
 namensgroß
@@ -40691,7 +40364,6 @@ navigatorisch
 nazarenisch
 nazifreundlich
 nazistisch
-nd.
 n-dimensional
 neapelgelb
 neapolitanisch
@@ -40795,7 +40467,6 @@ nelkenreich
 nelkenrot
 nematisch
 nematodentötend
-Nenn…
 nennbar
 nennenswert
 nennhaft
@@ -40898,7 +40569,6 @@ netig
 nett
 nettfüßig
 netto
-Netz…
 netzabhängig
 netzaffin
 netzartig
@@ -40922,7 +40592,6 @@ netzunabhängig
 netzunverträglich
 netzverträglich
 netzweit
-Netzwerk…
 netzwerkartig
 netzwerkbasiert
 netzwerkfähig
@@ -40997,7 +40666,6 @@ neugebacken
 neugebärend
 neugebaut
 neugeboren
-Neugeborenen…
 neugeborn
 neugedruckt
 neugefühlt
@@ -41098,7 +40766,6 @@ neunsprachig
 neunstellig
 neunstimmig
 neunstöckig
-Neunstufen…
 neunstündig
 neuntägig
 neuntäglich
@@ -41246,7 +40913,6 @@ neuzeitig
 neuzeitlich
 new
 Newtonsch
-nhd.
 nicaraguanisch
 nice
 nichen
@@ -41525,7 +41191,6 @@ nimmersatt
 niobhaltig
 nischenfrei
 nischig
-nisl.
 nissechtig
 nisselig
 nisserig
@@ -41542,8 +41207,6 @@ niveauverschieden
 niveauvoll
 nixengemein
 nixenhaft
-nl.
-nlat.
 n-leitend
 nobel
 nobelpreiswürdig
@@ -41600,7 +41263,6 @@ nordindisch
 nordisch
 norditalienisch
 nordkoreanisch
-nördl.
 nordländisch
 nordlich
 nördlich
@@ -41714,7 +41376,6 @@ novellenartig
 novellistisch
 nowomoskowskisch
 NP-vollständig
-nsl.
 n-stufig
 nuancenreich
 nuanciert
@@ -41806,12 +41467,8 @@ nylonverstärkt
 nymphenhaft
 nymphoman
 nymphomanisch
-o. g.
-o. k.
-O. K.
 obachtvoll
 obberührt
-obd.
 obdachlos
 obderennsisch
 obdiplostemon
@@ -41959,7 +41616,6 @@ odontogen
 odontologisch
 ödverstummt
 odysseisch
-Oektranon…
 oenophil
 ofenfertig
 ofenfrisch
@@ -42000,7 +41656,6 @@ oftmalig
 ogival
 ogygisch
 oheimlich
-Ohm’sch
 ohmig
 öhmig
 öhmlich
@@ -42137,7 +41792,6 @@ omanisch
 ombriert
 ombrophil
 ombrophob
-omd.
 ominös
 omnidirektional
 omnipotent
@@ -42251,7 +41905,6 @@ oratorisch
 orbikular
 orbital
 orbitofrontal
-Orchester…
 orchestral
 orchideenähnlich
 orchideengeschmückt
@@ -42435,7 +42088,6 @@ ostinat
 ostjiddisch
 ostkaribisch
 ostkatalanisch
-östl.
 östlich
 ostmitteldeutsch
 ostösterreichisch
@@ -42446,7 +42098,6 @@ ostrheinisch
 ostromanisch
 oströmisch
 ostschweizerisch
-ostseefi.
 ostseefinnisch
 ostseeisch
 ostseitig
@@ -42496,7 +42147,6 @@ ozeanisch
 ozeanografisch
 ozeanographisch
 ozeanologisch
-Ozon…
 ozonhaltig
 ozonhältig
 ozonreich
@@ -42621,7 +42271,6 @@ pantomimisch
 pantophag
 pantürkisch
 panurgisch
-Panzerabwehr…
 panzerartig
 panzerbedeckt
 panzerbegürtet
@@ -42668,7 +42317,6 @@ pappicht
 pappig
 pappsatt
 pappsüß
-Papst…
 päpstelnd
 papstfähig
 päpstisch
@@ -42686,7 +42334,6 @@ parabolisch
 paracelsisch
 paradiesisch
 paradigmatisch
-Paradontal…
 paradox
 paradoxal
 paraffinhaltig
@@ -42711,7 +42358,6 @@ paralympisch
 paralytisch
 paramagnetisch
 paramedizinisch
-Parameter…
 parameterlos
 parametran
 parametrierbar
@@ -42888,7 +42534,6 @@ patriotisch
 patristisch
 patrizisch
 patrologisch
-patronym.
 patronymisch
 patschenass
 patschend
@@ -43117,7 +42762,6 @@ perpendikulär
 perpetuell
 perpetuierlich
 perplex
-pers.
 persisch
 persischsprachig
 persistent
@@ -43282,7 +42926,6 @@ pfennigvergeltlich
 pfennigwertig
 pfennwertig
 pferdbeschwänzt
-pferdefüßig. pferdefüszig
 pferdehaaren
 pferdehaft
 pferdehären
@@ -43331,7 +42974,6 @@ pflanzensoziologisch
 pflanzenwüchsig
 pflanzig
 pflanzlich
-Pflaster…
 pflasterartig
 pflastericht
 pflastermüde
@@ -43465,7 +43107,6 @@ phasenverschoben
 phasenweise
 phasisch
 phatisch
-Phenol…
 phenolisch
 phenolmodifiziert
 philanthrop
@@ -43503,8 +43144,6 @@ phosphatfrei
 phosphathaltig
 phosphatiert
 phosphatisch
-Phosphor(III)…
-Phosphor(V)…
 phosphoreszierend
 phosphorfrei
 phosphorhaltig
@@ -44005,7 +43644,6 @@ polyzyklisch
 pomadig
 pomale
 pomali
-pomm.
 pommerisch
 pommersch
 pomologisch
@@ -44400,7 +44038,6 @@ prestigevoll
 pretial
 pretiös
 Preungesheimer
-preuß.
 preußisch
 preußischblau
 preziös
@@ -44436,7 +44073,6 @@ prioritätsbegründend
 prismatisch
 prismenförmig
 privat
-Privat…
 privatangestellt
 privatärztlich
 privatautonom
@@ -44634,7 +44270,6 @@ protreptisch
 protz
 protzenhaft
 protzig
-prov.
 provenzalisch
 proverbial
 proverbialisch
@@ -44701,10 +44336,7 @@ prußisch
 psammitisch
 psammophil
 psephitisch
-pseud...
 pseudo
-pseudo…
-Pseudo…
 pseudoglazial
 pseudojapanisch
 pseudologisch
@@ -44766,7 +44398,6 @@ ptolemäisch
 ptygmatisch
 puberal
 pubertär
-Pubertäts…
 pubertierend
 pubeszent
 pubisch
@@ -45207,7 +44838,6 @@ rabiat
 rabicht
 rabisch
 rabulistisch
-Racemat…
 räch
 rachbegierig
 rachbesessen
@@ -45396,7 +45026,6 @@ rassistisch
 räßlich
 räßlicht
 räßzüngig
-räßzüngig. räszzüngig
 rastbar
 rastlos
 Rat suchend
@@ -45443,7 +45072,6 @@ ratzekahl
 ratzenkahl
 ratzig
 rau
-Raub…
 raubauzig
 raubbegierig
 raubbesudelt
@@ -45519,7 +45147,6 @@ rauhrindig
 rauhschwarz
 raum
 Raum sparend
-Raum…
 raumakustisch
 räumdig
 raumersparend
@@ -45572,7 +45199,6 @@ reaktiviert
 reaktorproduziert
 real
 real denkend
-Real…
 realdenkend
 realgeschichtlich
 realhistorisch
@@ -45655,7 +45281,6 @@ rechtlos
 rechtmäßig
 rechtmeinend
 rechts stehend
-Rechts…
 rechtsam
 rechtsäugig
 rechtsbedürftig
@@ -45852,7 +45477,6 @@ refraktär
 regal
 regbar
 rege
-Regel…
 regelbar
 regelbasiert
 regelgeleitet
@@ -46157,7 +45781,6 @@ reitfertig
 reiticht
 reitig
 reitstätig
-Reiz…
 reizbar
 reizempfänglich
 reizend
@@ -46228,8 +45851,6 @@ remis
 remittierend
 remontant
 remotiv
-ren.
-ren.bed.
 renaissancistisch
 renal
 renditenstark
@@ -46292,7 +45913,6 @@ reseda
 resedafarben
 resedagrün
 resequent
-Reserve…
 reserviert
 resident
 residual
@@ -46493,7 +46113,6 @@ rieselfähig
 rieselicht
 rieselig
 rieselweiß
-Riesen…
 riesenbar
 riesenförmig
 riesengroß
@@ -46701,7 +46320,6 @@ rollstuhlgängig
 rollstuhlgerecht
 rollstuhltauglich
 rolzig
-röm.-kath.
 romanartig
 romanesk
 romanhaft
@@ -47000,7 +46618,6 @@ rotzklitzig
 rotznasig
 rotznäsig
 rotzverschmiert
-Routine…
 routinehaft
 routinemäßig
 routiniert
@@ -47202,7 +46819,6 @@ rülpig
 rülpisch
 rülpsig
 rülzicht
-rum.
 rumänisch
 rumänophob
 rumorisch
@@ -47241,7 +46857,6 @@ rundlich
 rundlicht
 rundscheibig
 rundschwänzig
-Rundum…
 rundumerneuert
 rundumschirmt
 rundumschrieben
@@ -47278,7 +46893,6 @@ ruschlig
 rüselicht
 rüsig
 rüsplicht
-russ.
 rußähnlich
 rußartig
 rußbraun
@@ -47484,7 +47098,6 @@ salmannisch
 salomonisch
 salonfähig
 salopp
-Salpeter…
 salpeterartig
 salpeterbedeckt
 salpeterhaltig
@@ -47558,10 +47171,8 @@ samtmatt
 samtmütig
 samtschwarz
 samtweich
-san.
 sanabel
 Sanct
-Sand…
 sandammeerig
 sandartig
 sandbedeckt
@@ -47580,7 +47191,6 @@ sandinistisch
 sandsteinartig
 sandtrocken
 sandvoll
-Sandwich…
 sanforisiert
 sanft
 sanftanmutig
@@ -47702,7 +47312,6 @@ satanatisch
 satanisch
 satanistisch
 satanologisch
-Satellitenabwehr…
 satellitengestützt
 sathmarschwäbisch
 satirisch
@@ -47742,7 +47351,6 @@ saturnin
 saturnisch
 satyrartig
 satyrisch
-Satz…
 satzbrechend
 satzfertig
 satzig
@@ -47828,7 +47436,6 @@ säuicht
 säuisch
 saukalt
 saukomisch
-Säulen…
 säulenähnlich
 säulenbewehrt
 säulendick
@@ -47876,8 +47483,6 @@ savannenähnlich
 savannenartig
 sazerdotal
 SB-fähig
-sbg.
-sbg.-sächs.
 scanbar
 scannbar
 sch****e
@@ -47904,7 +47509,6 @@ schachtartig
 schachtelhalmähnlich
 schachttief
 schad
-Schad…
 schadbar
 schade
 schadend
@@ -48260,7 +47864,6 @@ schauklig
 schaulich
 schaulustig
 Schaum bildend
-Schaum…
 schaumachtig
 schaumartig
 schäumbar
@@ -48330,7 +47933,6 @@ scheidlich
 scheidungswillig
 scheier
 schein
-Schein…
 scheinähnlich
 scheinbar
 scheinbarlich
@@ -48643,7 +48245,6 @@ schiffmächtig
 schiffmännisch
 schiffoberlästig
 schiffreich
-Schiffs…
 schiffsärztlich
 schiffsbrüchig
 schiffschnäbelig
@@ -49388,7 +48989,6 @@ schmalrückicht
 schmalrückig
 schmalschnäbelig
 schmalschultrig
-Schmalspur…
 schmalspurig
 schmaltblau
 schmaltzig
@@ -49826,7 +49426,6 @@ schnupficht
 schnupfig
 schnuppe
 schnupper
-Schnupper…
 schnuppicht
 schnuppig
 schnüppig
@@ -49989,7 +49588,6 @@ schönrednerisch
 schonsam
 schönsäulig
 schönschmeckend
-Schönschreib…
 schönsinnig
 schönsprüchig
 schönstimmig
@@ -50269,7 +49867,6 @@ schuhleckerisch
 schuhlos
 schuhmacherisch
 schuhweit
-Schul…
 schulärztlich
 schulautonom
 schulbar
@@ -50425,7 +50022,6 @@ schusterhaft
 schusterig
 schusterisch
 schustermäßig
-Schutt…
 schütter
 schutzbar
 schützbar
@@ -50800,7 +50396,6 @@ schwebicht
 schwebisch
 schweblisch
 schwechlich
-schwed.
 schwedericht
 schwedisch
 schwefelähnlich
@@ -51047,7 +50642,6 @@ schwerwiegend
 schwerwitzig
 schwerzerstört
 schwerzüngig
-Schwester…
 schwesterhaft
 schwesterlich
 schwichtig
@@ -51080,7 +50674,6 @@ schwindartig
 schwinde
 schwindel
 Schwindel erregend
-Schwindel…
 schwindeldumm
 schwindelerregend
 schwindelfrei
@@ -51104,13 +50697,11 @@ schwindlicht
 schwindlig
 schwindlisch
 schwindsüchtig
-Schwing…
 schwingbar
 schwingend
 schwingerlich
 schwingicht
 schwinglich
-Schwingungs…
 schwingungsdämpfend
 schwingungsempfindlich
 schwingungserregend
@@ -51165,8 +50756,6 @@ schwürmerisch
 schwurvergessen
 scripophil
 scrollbar
-Sct.
-Sd.
 sec
 secco
 sechsachsig
@@ -51213,7 +50802,6 @@ sechsklafterig
 sechsknöpfig
 sechsköpfig
 sechsläufig
-sechslötig. sechslöthig
 sechsmalig
 sechsmännerig
 sechsmännig
@@ -51249,7 +50837,6 @@ sechsstimmig
 sechsstöckig
 sechsstrahlig
 sechsstrophig
-Sechsstufen…
 sechsstündig
 sechsstündlich
 sechstägig
@@ -52005,7 +51592,6 @@ semmelfarbig
 semmelwarm
 semper
 semperfrei
-sen.
 senatorisch
 sendbar
 sendfällig
@@ -52128,7 +51714,6 @@ setzig
 setzisch
 setzköpfig
 setzlich
-Seuchen…
 seuchenartig
 seuchenfest
 seuchenfrei
@@ -52155,7 +51740,6 @@ sexpositiv
 sexsüchtig
 sextillionste
 sexual
-Sexual…
 sexualethisch
 sexualpathologisch
 sexuell
@@ -52188,7 +51772,6 @@ sicher wirkend
 sicherbar
 sichergehend
 sichergestellt
-Sicherheits…
 sicherheitsbewusst
 sicherheitskritisch
 sicherheitspolitisch
@@ -52292,7 +51875,6 @@ siebenstimmig
 siebenstöckig
 siebenstrahlig
 siebenströmig
-Siebenstufen…
 siebenstündig
 siebenstündlich
 siebentägig
@@ -52871,29 +52453,24 @@ sklerotisiert
 skoliosexuell
 skoptisch
 skorbutisch
-skr.
 skriptural
 skrofulös
 skrotal
 skrupelhaft
 skrupellos
 skrupulös
-Skt.
 skulptural
 skuril
 skurril
 S-Kurven-reich
 skythisch
-slav.
 slavisch
 slawisch
 slawistisch
 slawophil
 slimeline
 slovenisch
-slow.
 slowakisch
-slowen.
 slowenisch
 slubbisch
 small
@@ -52920,7 +52497,6 @@ sofortig
 soft
 softsektoriert
 softwaretechnisch
-sog.
 sogdisch
 sogenannt
 sogetan
@@ -52954,7 +52530,6 @@ soldatisch
 soldlos
 solenn
 solid
-Solidar…
 solidarisch
 solide
 solider
@@ -53414,7 +52989,6 @@ spaßlustig
 spastisch
 spat
 spät
-spätangls.
 spätantik
 spatartig
 spätbarock
@@ -53444,11 +53018,9 @@ spätlaichend
 spätlateinisch
 spätlich
 spätlicht
-spätmhd.
 spätmittelalterlich
 spätmittelhochdeutsch
 spätmittelniederländisch
-spätmnl.
 spätmodern
 spätnachts
 spätorogen
@@ -53587,7 +53159,6 @@ sperlingsartig
 spermatogen
 spermizid
 sperr
-Sperr…
 sperrangelweit
 sperrbar
 sperrbeinig
@@ -53703,7 +53274,6 @@ spießwinkelig
 spietig
 spietisch
 spietlich
-Spike…
 spikuliert
 spillendünn
 spillenmäßig
@@ -53722,7 +53292,6 @@ spindelförmig
 spindelzepterig
 spindlig
 spinklig
-Spinn…
 spinnbar
 spinnefädig
 spinnefeind
@@ -53793,7 +53362,6 @@ spitzdachig
 spitze
 spitzechtig
 spitzeckig
-Spitzen…
 spitzenbesetzt
 spitzenförmig
 spitzengerändert
@@ -54097,7 +53665,6 @@ spruchverwandt
 spruchweise
 spruck
 sprudelnd
-Sprungbein…
 sprungbereit
 sprungelastisch
 sprungfähig
@@ -54141,8 +53708,6 @@ sputig
 spütig
 sri-lankisch
 ssuersüß
-st.
-St.
 staad
 staatähnlich
 Staaten bildend
@@ -54155,7 +53720,6 @@ staatenlos
 staatisch
 staatlich
 staatlos
-Staats…
 staatsangehörig
 staatsanwaltschaftlich
 staatsbewusst
@@ -54240,7 +53804,6 @@ stack
 stad
 stadeltorweit
 stadial
-Stadt…
 stadtadelig
 stadtarm
 stadtbeherrschend
@@ -54293,7 +53856,6 @@ staffiericht
 stäfig
 stagnierend
 stagnikol
-Stahl…
 stahlartig
 stahlbedekt
 stahlbepanzert
@@ -54361,7 +53923,6 @@ stammverwandt
 stampfdick
 stampficht
 stampfig
-Standard…
 standardisiert
 standardmäßig
 standardsprachlich
@@ -54961,7 +54522,6 @@ steinverziert
 steinweh
 steinzeitlich
 steinzermalmend
-Steirer…
 steirisch
 steißreißend
 stellar
@@ -54975,7 +54535,6 @@ stellungsflüchtig
 stellungslos
 stellungspflichtig
 stellungsuchend
-stellv.
 stellvertretend
 stelzbeinig
 stelzenähnlich
@@ -55192,7 +54751,6 @@ stettig
 stetwährend
 stetwierig
 Steuer sparend
-Steuer…
 steuerabzugsfähig
 steuerbar
 steuerbefreit
@@ -56672,8 +56230,6 @@ submediterran
 submental
 submers
 submikroskopisch
-Submillimeter…
-Subminiatur…
 submiss
 submissiv
 submukös
@@ -56749,7 +56305,6 @@ suchtkrank
 süchtlich
 suchtpräventiv
 suckelig
-Süd…
 südafrikanisch
 südamerikanisch
 Sudaner
@@ -56777,7 +56332,6 @@ sudisch
 südisch
 süditalienisch
 südkoreanisch
-südl.
 südländisch
 sudlecht
 sudlerisch
@@ -56786,7 +56340,6 @@ sudlich
 südlich
 sudlicht
 sudlig
-südnl.
 sudomotorisch
 südostafghanisch
 südostasiatisch
@@ -56911,7 +56464,6 @@ sunig
 sünig
 sunkelwarm
 sunnitisch
-suom.
 super
 superb
 süperb
@@ -57054,7 +56606,6 @@ süßlippig
 süßlockend
 süßmelancholisch
 süßmundig
-süßmündig. süszmündig
 süßredig
 süßsauer
 süß-sauer
@@ -57251,7 +56802,6 @@ taften
 tagaktiv
 tagebuchartig
 tagelang
-Tages…
 tagesaktiv
 tagesaktuell
 tagesformabhängig
@@ -57465,7 +57015,6 @@ tatlos
 tatmäßig
 tätowiert
 tatrichterlich
-Tatsachen…
 tatsachengetreu
 tatsachentreu
 tatsächlich
@@ -57486,7 +57035,6 @@ taubenartig
 taubenblau
 taubeneigroß
 taubenetzt
-taubenetzt. thaubenetzt
 taubenfarb
 taubenfarbig
 taubenfromm
@@ -57710,7 +57258,6 @@ teilzeitbeschäftigt
 tektisch
 tektogenetisch
 tektonisch
-Teleangiektasie…
 telefonisch
 telefotografisch
 telegen
@@ -57724,7 +57271,6 @@ teleologisch
 telepathisch
 telephonisch
 teleseismisch
-Teleskop…
 teleskopartig
 teleskopisch
 televisionär
@@ -57750,7 +57296,6 @@ temperaturfest
 temperaturprogrammiert
 templisch
 temporal
-Temporal…
 temporär
 temporeich
 temporell
@@ -57806,7 +57351,6 @@ testosterongeschwängert
 testosterongesteuert
 tetaniform
 tetanisch
-tetra...
 tetraedrisch
 tetragonal
 tetramer
@@ -57874,7 +57418,6 @@ thalassokratisch
 thanatologisch
 thätig
 thatsächlich
-Theater…
 theaterbegeistert
 theaterbesessen
 theatererfahren
@@ -57898,7 +57441,6 @@ themenspezifisch
 themenübergreifend
 themenverwandt
 themenzentriert
-theo...
 theodosianisch
 theogonisch
 theokratisch
@@ -58584,7 +58126,6 @@ totalitär
 totalitaristisch
 tötbar
 totemistisch
-Toten…
 totenähnlich
 totenallein
 totenartig
@@ -58880,7 +58421,6 @@ trauflos
 traufnass
 traulich
 traulos
-Traum…
 traumähnlich
 traumartig
 traumatisch
@@ -59183,7 +58723,6 @@ treuwohlmeinlich
 treuwürdig
 trew
 trezeliert
-tri...
 triadisch
 triakelisch
 triangelförmig
@@ -59654,7 +59193,6 @@ trustfrei
 trutschelig
 trutz
 trutzig
-tsch.
 tschadisch
 tschadisch-sudanesisch
 tschechisch
@@ -59662,7 +59200,6 @@ tschechoslowakisch
 tschetschenisch
 tschuktschisch
 tschuwaschisch
-tü.
 tuberkular
 tuberkulos
 tuberkulös
@@ -60328,7 +59865,6 @@ tyrrhenisch
 überrechtig
 überredend
 überredsam
-Überredungs…
 überrege
 überregional
 überreich
@@ -60583,7 +60119,6 @@ tyrrhenisch
 überzwerch
 übig
 ubiquitär
-üblere(r/s)
 üblich
 üblig
 U-Boot-gestützt
@@ -60605,7 +60140,6 @@ U-förmig
 ugandisch
 ugaritisch
 ugrisch
-ugs.
 uhrähnlich
 uhrglasförmig
 uhrmäßig
@@ -60614,7 +60148,6 @@ ukasisch
 ukrainisch
 ulkig
 ulkisch
-Ulkus…
 ulmen
 ulmenähnlich
 ulmenbäumen
@@ -60669,7 +60202,6 @@ umfällig
 umfänglich
 umfangmäßig
 umfangreich
-Umfangs…
 umfangsarm
 umfangsmäßig
 umfangsvoll
@@ -62540,7 +62072,6 @@ unfürstlich
 unfurtbar
 unfußbar
 unfüßig
-ung.
 ungäbe
 ungabhaft
 ungäbig
@@ -63449,7 +62980,6 @@ unglückhaft
 unglückheilig
 unglückig
 unglücklich
-Unglücks…
 unglücksahnend
 unglücksam
 unglücksbegierig
@@ -65020,7 +64550,6 @@ untersuchbar
 untersuchend
 untersucherisch
 untersucht
-Untersuchungs…
 untertägig
 untertan
 untertänig
@@ -66369,7 +65898,6 @@ urgemeinschaftlich
 urgemütlich
 urgent
 urgerecht
-urgerm.
 urgermanisch
 urgeschichtlich
 urgesellschaftlich
@@ -66389,7 +65917,6 @@ urgut
 urhäbig
 urhaft
 urheberrechtlich
-Urheberrechts…
 urhebig
 urheblich
 urhehr
@@ -66402,7 +65929,6 @@ urherrlich
 urhoch
 urhochdeutsch
 urideal
-uridg.
 urig
 urinal
 urinbesehen
@@ -66440,7 +65966,6 @@ urmännlich
 urmäßig
 urmenschlich
 urmusikalisch
-urn.
 urnächtig
 urnachttrunken
 urnatürlich
@@ -66478,7 +66003,6 @@ urschriftlich
 urschwarz
 urselbständig
 ursinnig
-ursl.
 urslawisch
 urspät
 ursplitternackt
@@ -66644,7 +66168,6 @@ varikös
 variskisch
 varistisch
 variszisch
-Varizen…
 varus
 vasal
 vasallisch
@@ -66694,7 +66217,6 @@ veilchenfarbig
 veilfarb
 veilreich
 veitstänzig
-Vektor…
 vektoriell
 vektorisiert
 velar
@@ -67146,7 +66668,6 @@ verhext
 verhilflich
 verhinderlich
 verhindert
-verhinderte(r/s)
 verhockt
 verhoffentlich
 verhohlen
@@ -67178,7 +66699,6 @@ verkalkt
 verkannt
 verkantet
 verkappt
-Verkäsungs…
 verkatert
 verkaufbar
 verkäuferisch
@@ -68085,7 +67605,6 @@ vestibulär
 vestimentär
 vestisch
 vesuvisch
-vet.-med.
 vetärinärmedizinisch
 veterinär
 veterinärhygienisch
@@ -68913,7 +68432,6 @@ vierhornig
 vierhörnig
 vierhundertjährig
 viericht
-Vierjahres…
 vierjährig
 Vierjährige
 Vierjährigen
@@ -68999,7 +68517,6 @@ viersträhnig
 viersträngig
 vierströmig
 vierstrophig
-Vierstufen…
 vierstündig
 vierstündlich
 vierstützig
@@ -69701,7 +69218,6 @@ vonhändig
 vonhintig
 vonnöten
 vonvornig
-Vor…
 vorabendlich
 vorachtbar
 vorahnungsvoll
@@ -70304,7 +69820,6 @@ vulkanistisch
 vulkanologisch
 vulkanotektonisch
 vulnerabel
-w.
 W14
 waadtländisch
 waageförmig
@@ -70498,7 +70013,6 @@ wagnisvoll
 wagsam
 wäh
 wahhabitisch
-Wahl…
 wahlanalytisch
 wahlbar
 wählbar
@@ -71065,7 +70579,6 @@ wartungsaufwendig
 wartungsfrei
 wartungsfreundlich
 wartungsintensiv
-Warven…
 warzenähnlich
 warzenartig
 warzenförmig
@@ -71509,7 +71022,6 @@ weibgeboren
 weibicht
 weibig
 weibisch
-weibl.
 weiblich
 weiblos
 weibmännerig
@@ -72496,7 +72008,6 @@ weltig
 weltisch
 weltkennend
 weltkindisch
-Weltklasse…
 weltklug
 weltkluges
 weltklüglich
@@ -72757,7 +72268,6 @@ westgermanisch
 westindisch
 westjiddisch
 westkatalanisch
-westl.
 westländisch
 westlerisch
 westlich
@@ -72800,7 +72310,6 @@ wettehaftig
 wetteifernd
 wetteifrig
 wettelustig
-Wetter…
 wetterabhängig
 wetterartig
 Wetterauer
@@ -72851,7 +72360,6 @@ wettig
 wettkampfmäßig
 wettkampforientiert
 wetzig
-wgm.
 wibbelig
 wichsen
 wichsern
@@ -73211,7 +72719,6 @@ will
 willengleich
 willenlos
 willens
-Willens…
 willensfrei
 willenskräftig
 willenskrank
@@ -73615,7 +73122,6 @@ witzig
 witzlos
 witzreich
 witzverständig
-wmd.
 wochelich
 wöchelich
 wochenalt
@@ -74495,7 +74001,6 @@ wolket
 wolkicht
 wolkig
 wölklich
-Woll…
 wollartig
 wollen
 wollentlich
@@ -74645,7 +74150,6 @@ wulstartig
 wulstbäuchig
 wulstig
 wulstlippig
-Wulstnarben…
 wumpe
 wun
 wund
@@ -75008,7 +74512,6 @@ wurzelfest
 wurzelfrisch
 wurzelgerecht
 wurzelhaft
-Wurzelhaut…
 wurzelich
 wurzelicht
 wurzelig
@@ -75627,7 +75130,6 @@ zehnspännig
 zehnsprachig
 zehnstellig
 zehnstimmig
-Zehnstufen…
 zehnstündig
 zehnstündlich
 zehntägig
@@ -75795,7 +75297,6 @@ zeitwidrig
 zeitwierig
 zeitwörtlich
 zelglich
-Zell…
 zellauflösend
 zellbasiert
 zelleigen
@@ -76087,7 +75588,6 @@ zifferräterisch
 zig
 -zig
 zigarrenförmig
-Zigeuner…
 zigeunerartig
 zigeunerbraun
 zigeunerfeindlich
@@ -76983,7 +76483,6 @@ zweieimerig
 zweieinhalbmal
 zweieinhalbtägig
 zweieinig
-Zweier…
 zweierlei
 zweifach
 zweifachtig
@@ -77017,7 +76516,6 @@ zweifertig
 zweifiederig
 zweifingerig
 zweiflammig
-Zweiflanken…
 zweiflerisch
 zweiflig
 zweiflügelig
@@ -77025,7 +76523,6 @@ zweiflüglig
 zweiförmig
 zweifudrig
 zweifüßig
-Zweig…
 zweigabelig
 zweigädig
 zweigebeint
@@ -77117,7 +76614,6 @@ zweinähtig
 zweiöhrig
 zweipaarig
 zweipfündig
-Zweiphasen…
 zweiphasig
 zweipolig
 zweiprozentig
@@ -77170,7 +76666,6 @@ zweistirnig
 zweistöckig
 zweistrahlig
 zweistrophig
-Zweistufen…
 zweistufig
 zweistündig
 zweistündlich
@@ -77485,7 +76980,6 @@ zwölfseitig
 zwölfsilbig
 zwölfstellig
 zwölfstöckig
-Zwölfstufen…
 zwölfstündig
 zwölfstündlich
 zwölftägig
@@ -77513,7 +77007,6 @@ zyklamfarben
 zyklamrot
 zyklisch
 zykloid
-Zykloiden…
 zyklopenartig
 zyklopisch
 zyklothym

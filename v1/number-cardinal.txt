@@ -1,4 +1,3 @@
-...zig
 acht
 achthundert
 achttausend
