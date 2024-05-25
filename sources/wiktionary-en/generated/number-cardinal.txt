@@ -54,6 +54,7 @@ fünfzehn
 fünfzig
 hundert
 hunderteins
+Milliarde
 neun
 neuntausendneunhundertneunundneunzig
 neunundachtzig
@@ -66,8 +67,9 @@ neunundvierzig
 neunundzwanzig
 neunzehn
 neunzig
-Quadrillion
-Quintilliarde
+null
+Oktillion
+Quattuordezillion
 sechs
 sechsundachtzig
 sechsunddreißig
@@ -81,7 +83,6 @@ sechzehn
 sechzig
 Septillion
 Sextilliarde
-Sextillion
 siebenundachtzig
 siebenunddreißig
 siebenundfünfzig
@@ -93,9 +94,9 @@ siebenundzwanzig
 siebzehn
 siebzig
 tausend
+Tausend
 tausendtausend
 Tredezillion
-Undezillion
 vier
 vierundachtzig
 vierunddreißig
@@ -107,6 +108,7 @@ vierundvierzig
 vierundzwanzig
 vierzehn
 vierzig
+Vigintillion
 zehn
 zwanzig
 zwei

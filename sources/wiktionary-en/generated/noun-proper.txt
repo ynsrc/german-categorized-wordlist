@@ -11,6 +11,7 @@ Aaron
 Abchasien
 Abchasisch
 Abdera
+Abessinien
 Abh. Berl. Akad.
 Abia
 Abraham
@@ -22,7 +23,6 @@ Absdorf
 Absurdistan
 Abtenau
 Abu Dhabi
-Abwehr
 Accum
 Achau
 Achenkirch
@@ -80,6 +80,7 @@ Aichach-Friedberg
 Aichinger
 Aichkirchen
 Ainet
+Aische
 Aistersheim
 Ajax
 Ajax Amsterdam
@@ -106,8 +107,8 @@ Aleppo
 Alex
 Alexandria
 Alexandrien
+Alexin
 Algarve
-Alge
 Algerien
 Algier
 Algonkin
@@ -222,8 +223,8 @@ Andreas
 Andrichsfurt
 Angath
 Angela
+Angeln
 Angelsächsisch
-Anger
 Angerberg
 Angermaier
 Angermair
@@ -236,6 +237,7 @@ Anglo-Friesisch
 Anglonormannisch
 Anglosphäre
 Angola
+Anhalt
 Anhalt-Bitterfeld
 Anheuser
 Anif
@@ -352,10 +354,8 @@ Attalien
 Attendorn
 Attila
 Atzbach
-Atze
 Atzenbrugg
 Atzesberg
-Au
 Auberg
 Auch
 Auerbach
@@ -366,7 +366,6 @@ Augias
 Augsburg
 Aurich
 Aurolzmünster
-Aurora
 Auschwitz
 Austerlitz
 Australien
@@ -419,7 +418,6 @@ Badersdorf
 Baerbock
 Bagdad
 Bahamas
-Bahn
 Bahr
 Bahrain
 Bahrein
@@ -471,11 +469,9 @@ Baskisch
 Basse
 Bassum
 Battenberg
-Bauch
 Bauerfeind
 Bauersachs
 Bauhaus
-Baum
 Baumann
 Baumgartenberg
 Baumgartner
@@ -491,11 +487,9 @@ Bayxit
 BDM
 Beamtendeutsch
 Béarn
-Beat
 Beatles
 Beaufortsee
 Bebel
-Beck
 Beckenbauer
 Becker
 Beckmann
@@ -534,11 +528,13 @@ Benedikt
 Beneke
 Bengalisch
 Benin
+Benjamin
 Benkmann
 Benning
 Bentheim
 Bentz
 Bentzien
+Benz
 Benzien
 Beranek
 Berchtesgadener Land
@@ -553,7 +549,6 @@ Bergisches Land
 Bergkarabach
 Bergmaier
 Bergmair
-Bergmann
 Bergmeier
 Bergmeir
 Bergmeyer
@@ -603,11 +598,11 @@ Bielefeld
 Bienewitz
 Bildein
 Bildstein
+Binder
 Bingen
 Binnendeutsch
 Binnewies
 Birgitz
-Birke
 Birkenfeld
 Birkenstock
 Birkfeld
@@ -733,7 +728,6 @@ Breit
 Breitbach
 Breitenau
 Breitenwang
-Breitlauch
 Breitling
 Breitung
 Bremen
@@ -753,7 +747,6 @@ Britisch Kurzhaar
 Britisch-Kolumbien
 Brixen
 Broadway
-Brocken
 Broekhuysen
 Bromberg
 Brosius
@@ -802,12 +795,10 @@ Bundesrepublik Deutschland
 Bundeswehr
 Bündnerromanisch
 Bürden
-Burg
 Burgau
 Burgenland
 Burgenlandkreis
 Burgkirchen
-Burgstall
 Burgund
 Burgundisch
 Burkhard
@@ -819,7 +810,6 @@ Bürs
 Bürserberg
 Burundi
 Buschmann
-Busse
 Büste
 Buxtehude
 Bydlinski
@@ -864,12 +854,14 @@ Chorassan
 Chosrau
 Christel
 Christkind
+Christkindl
 Christlich Demokratische Union
 Christof
 Christoph
 Christopher
 Christophorus
 Christus
+Chur
 Churfürstenrath
 Chwala
 Cinotti
@@ -900,11 +892,13 @@ Crostwitz
 Cryogenium
 CSU
 Cupido
+Curaçao
 Curie-Konstante
 Cuxhaven
 Cypern
 Czartoryski
 Däbritz
+Dach
 DACH
 Dachau
 DAG
@@ -941,7 +935,6 @@ Darwin
 Darwin Award
 Dassel
 Datteln
-Däumling
 Daun
 David
 Davos
@@ -1006,7 +999,6 @@ Dietmanns
 Dietrich
 Dietzenbach
 Diezmann
-Dill
 Dillingen
 Dillinger
 Dimbach
@@ -1025,7 +1017,6 @@ Dobersberg
 Dodonowo
 Döhlen
 Dohnal
-Dolchstosslegende
 Dolchstoßlüge
 Dolezal
 Döllach
@@ -1041,6 +1032,7 @@ Don Quijote
 Don Quixote
 Donar
 Donau
+Donaudampfschiffahrtsgesellschaft
 Donau-Ries
 Donauwörth
 Donnersberg
@@ -1055,6 +1047,7 @@ Dornach
 Dornbirn
 Dörner
 Dornfelder
+Dornröschen
 Dörptestnisch
 Dörptisch
 Dortmund
@@ -1084,6 +1077,7 @@ Dühring
 Duisburg
 Duma
 Düna
+Düne
 Dunkeldeutschland
 Dunkelsteinerwald
 Dünkirchen
@@ -1119,6 +1113,7 @@ Eberswalde
 Eblaitisch
 Ebreichsdorf
 Ebro
+Echo
 Echsenbach
 Eckard
 Eckardt
@@ -1128,7 +1123,6 @@ Eckert
 Eckhard
 Eckhardt
 Eckhart
-Eckstein
 Ectasium
 Ecuador
 Edelschild
@@ -1180,6 +1174,7 @@ Einstein
 Einsteinkonstante
 Eisenach
 Eisenberg
+Eisenerz
 Eisenhauer
 Eisenhüttenstadt
 Eisenstadt
@@ -1251,7 +1246,6 @@ Epstein
 Erbach
 Erdaltertum
 Erdaltzeit
-Erde
 Erdfrühzeit
 Erding
 Erdmittelalter
@@ -1267,6 +1261,7 @@ Eriesee
 Eris
 Eritrea
 Eriwan
+Erlangen
 Erlangen-Höchstadt
 Erlauf
 Erlen
@@ -1284,7 +1279,6 @@ Erzgebirge
 Erzgebirgisch
 Erzgebirgskreis
 Esau
-Esche
 Eschen
 Eschenau
 Escher
@@ -1293,6 +1287,7 @@ Eschwege
 ESM
 Esperanto
 Esslingen
+Esslinger
 Esternberg
 Estland
 Estnisch
@@ -1368,7 +1363,6 @@ Ferschnitz
 Feucht
 Feuerland
 FFM
-Fichte
 Fichtelgebirge
 Fidji
 Fidschi
@@ -1431,6 +1425,7 @@ Fränkisch
 Frankoprovenzalisch
 Frankreich
 Franzensfeste
+Französisch
 Französische Revolution
 Französisch-Polynesien
 Frasch
@@ -1452,7 +1447,6 @@ Freinberg
 Freising
 Freistaat Puerto Rico
 Fresach
-Freud
 Freudenstadt
 Freyung
 Freyung-Grafenau
@@ -1473,7 +1467,6 @@ Friesen
 Friesisch
 Friesland
 Frings
-Fritz
 Fritzens
 Fröbel
 Frobenius
@@ -1484,14 +1477,13 @@ Frühmittelhochdeutsch
 Frühneuenglisch
 Frühneuhochdeutsch
 FSK
+Fuchs
 Fucking
 Fügen
 Fügenberg
 Füger
 Fuhren
 Fulda
-Füllen
-Füller
 Fulpmes
 Fünen
 Fünfstromland
@@ -1538,6 +1530,7 @@ Ganassi
 Ganges
 Ganghofer
 Gänseliesel
+Ganser
 Gänserndorf
 Garcke
 Gardasee
@@ -1559,6 +1552,7 @@ Gdingen
 GDL
 Geboltskirchen
 Gedersdorf
+Geduld
 Gefell
 GEG
 Geiersberg
@@ -1607,7 +1601,6 @@ GfdS
 Gföhl
 Ghana
 Gibraltar
-Gier
 Gieß
 Gießen
 Gifhorn
@@ -1619,7 +1612,6 @@ Gladbeck
 Glanegg
 Glarus
 Glasgow
-Glashütte
 Glaspass
 Glatten
 Glauber
@@ -1684,6 +1676,7 @@ Göteborg
 Gotenburg
 Gotha
 Gothenburg
+Gotisch
 GOtt
 Gottesgebärerin
 Gotteslamm
@@ -1695,7 +1688,6 @@ Gotthelf
 Göttingen
 Gottlieb
 Gottschalk
-Götze
 Götzens
 Götzis
 Grabern
@@ -1743,6 +1735,7 @@ Groll
 Grönland
 Grönländisch
 Gropper
+Gross
 Großarl
 Großbritannien
 Großdeutschland
@@ -1902,6 +1895,7 @@ Haugschlag
 Haugsdorf
 Hauland
 Haunoldstein
+Haus
 Hausbrunn
 Hauschild
 Hauschildt
@@ -1927,10 +1921,10 @@ Hawliczek
 Hawlitschek
 Haydn
 Heard und McDonaldinseln
-Hebel
 Hebner
 Hebräisch
 Hebriden
+Heck
 Hecken
 Hedwig
 Hegel
@@ -1943,7 +1937,6 @@ Heidenreichstein
 Heidenthum
 Heidfeld
 Heidmann
-Heiermann
 Heilbad Heiligenstadt
 Heilbronn
 Heilemann
@@ -1975,7 +1968,6 @@ Heiterwang
 Heitmeyer
 Heldenberg
 Helfenberg
-Helge
 Helgoland
 Helibert
 Hellenische Republik
@@ -2009,6 +2001,7 @@ HERR
 Herr der Heerscharen
 Herrnbaumgarten
 Hersfeld-Rotenburg
+Hertz
 Herwarth
 Herzberg
 Herzegowina
@@ -2022,7 +2015,6 @@ Hetzner
 Heuert
 Heuet
 Heugraben
-Heuler
 Heumann
 Hickelsberger
 Hiddensee
@@ -2147,7 +2139,6 @@ Holzkirch
 Holzkirchen
 Holzmeister
 Holzminden
-Holznagel
 Homberg
 Homberger
 Homer
@@ -2162,6 +2153,7 @@ Hörbich
 Hörbranz
 Horch
 Horitschon
+Horn
 Hornburg
 Hörsching
 Hösch
@@ -2199,7 +2191,6 @@ Hurritisch
 Husum
 Hüttau
 Hüttschlag
-Hymen
 Iberien
 Iberisch
 Ibiza
@@ -2260,7 +2251,6 @@ IPR
 Irak
 Irakkrieg
 Iran
-Iris
 Irisch
 Irisch-Gälisch
 Irland
@@ -2288,6 +2278,7 @@ Itzehoe
 IWF
 Jabing
 Jacqueline
+Jäger
 Jagerberg
 Jahn
 Jaidhof
@@ -2295,6 +2286,7 @@ Jakob
 Jakobus
 Jakutien
 Jakutisch
+Jamaika
 Jander
 Japan
 Japanisch
@@ -2355,7 +2347,6 @@ Jule
 Julian
 Jülich
 Julierpass
-Jung
 Jungholz
 Jupiter
 Jupp
@@ -2375,6 +2366,7 @@ Kafka
 Kagawa
 KAGB
 Kairo
+Kaiser
 Kaisers
 Kaisersdorf
 Kaiserslautern
@@ -2384,7 +2376,6 @@ Kalevala
 Kalifornien
 Kaliningrad
 Kalkutta
-Kalle
 Kalletal
 Kallham
 Kaltenberg
@@ -2404,7 +2395,6 @@ Kannada
 Känozoikum
 Kant
 Kanther
-Kanton
 Kantonesisch
 Kaohsiung
 Kap Hoorn
@@ -2421,6 +2411,7 @@ Kaprun
 Kapstadt
 Karabach
 Karatschi
+Karbon
 Karelien
 Karelisch
 Karibik
@@ -2473,6 +2464,7 @@ Kemeten
 Kempen
 Kempf
 Kempten
+Kenia
 Kennelbach
 Kepler
 Kerkrade
@@ -2490,7 +2482,6 @@ Kielburger
 Kiens
 Kiesinger
 Kiew
-Kiez
 Kiezdeutsch
 Kilb
 Kilian
@@ -2500,7 +2491,6 @@ Kilima-Ndscharo
 Killinger
 Kindberg
 Kinkel
-Kipper
 Kirchberger
 Kirchenlatein
 Kirchham
@@ -2523,13 +2513,11 @@ Kittsee
 Kitzbühel
 Kitzingen
 Kitzinger
-KL
 Klam
 Klappert
 Klaproth
 Klara
 Klaugemauer
-Klaus
 Klausen
 Klausenburg
 Klein
@@ -2558,7 +2546,6 @@ Knesset
 Knesseth
 Knittelfeld
 Knop
-Knopf
 Knör
 Kobenz
 Kobersdorf
@@ -2575,10 +2562,10 @@ Kölle
 Kollerschlag
 Kolmar
 Köln
-Kolophon
 Kolosseum
 Kolsass
 Kolsassberg
+Kölsch
 Kolumbien
 Kolumbus
 Komintern
@@ -2603,7 +2590,6 @@ Korbach
 Koreanisch
 Koreanische Volksdemokratische Republik
 Korfu
-Korn
 Korneuburg
 Kornisch
 Korsika
@@ -2623,14 +2609,12 @@ Koubek
 Kovar
 Kowalski
 Krakau
-Krämer
 Kramsach
 Kratky
 Kraus
 Krause
 Krefeld
 Krefeldisch
-Kreide
 Kreidezeit
 Kreiskonstante
 Kreml
@@ -2642,6 +2626,7 @@ Kreta
 Kreuttal
 Kreuz des Südens
 Kreuzberg
+Kreuzer
 Kreuzkölln
 Kreuzstetten
 Krieglach
@@ -2681,8 +2666,6 @@ Kumanien
 Kumanisch
 Kumberg
 Kumilsko
-Kümmel
-Kunkel
 Kunz
 Künzelsau
 Kurdisch
@@ -2778,7 +2761,6 @@ Latsch
 Lattwein
 Lauda
 Lauenburg
-Lauf
 Lauf an der Pegnitz
 Laurein
 Laurier
@@ -2812,9 +2794,9 @@ Leibhaftiger
 Leibnitz
 Leibniz
 Leidecker
+Leiden
 Leifers
 Leimen
-Leine
 Leipzig
 Leisach
 Leithaprodersdorf
@@ -2834,7 +2816,6 @@ Leninstraße
 Lenne
 Lenné
 Lenné-Dreieck
-Lenzing
 Leoben
 Leobendorf
 Leobersdorf
@@ -2877,7 +2858,6 @@ Liebeskind
 Liebfrauenmilch
 Liebig
 Liebknecht
-Liebling
 Lieboch
 Liechtenstein
 Liefland
@@ -2970,6 +2950,7 @@ Ludwigsburg
 Ludwigshafen
 Ludwigslust-Parchim
 Luffmann
+Luftwaffe
 Lügde
 Lukan
 Lukasevangelium
@@ -3010,7 +2991,6 @@ Magdeburg
 Magellanstrasse
 Magnus
 Magyarisch
-Mahlstrom
 Mähren
 Maichrowitz
 Maier
@@ -3052,7 +3032,7 @@ Malteserorden
 Maltesisch
 Mammoth Mountain
 Manaus
-Manhattan
+Mandelbrot
 Manila
 Mank
 Mannesmann
@@ -3098,6 +3078,7 @@ Marx
 Marz
 Märzdorf
 Maskarenen
+Massai
 Masuren
 Matterhorn
 Mattersburg
@@ -3110,7 +3091,6 @@ Matthias
 Mattighofen
 Mattsee
 Matuschek
-Matz
 Matzinger
 Mauerbach
 Mauerkirchen
@@ -3158,7 +3138,6 @@ Melani
 Melchior
 Melk
 Mellau
-Melle
 Memel
 Memmingen
 Mendelejew
@@ -3178,7 +3157,6 @@ Meppen
 Meran
 Merkel
 Merkur
-Merle
 Merseburg
 Merw
 Merzbach
@@ -3190,15 +3168,12 @@ Mesoarchaikum
 Mesoproterozoikum
 Mesozoikum
 Messerschmidt
-Methusalem
 Metnitz
 Metternich
 Mettmach
 Mettmann
 Metz
-Metze
 Metzingen
-Metzinger
 Mexicum
 Mexiko
 Mexiko-Stadt
@@ -3218,8 +3193,6 @@ Miesbach
 Miesenbach
 Mieß
 Mikronesien
-Mikroskop
-Milan
 Milchstraße
 Mildenberger
 Millimetternich
@@ -3284,6 +3257,7 @@ Mölten
 Monaco
 Mönchengladbach
 Mönchhof
+Mond
 Mondsee
 Mongolei
 Mongolisch
@@ -3306,6 +3280,7 @@ Mooskirchen
 Mordechai
 Mordwinisch
 Moresnet
+Morgenstern
 Moritz
 Mörschwang
 Mortantsch
@@ -3314,13 +3289,13 @@ Mosambik
 Mosbach
 Moschendorf
 Mose
-Mosel
 Moser
 Moses
 Moskau
 Moskowien
 Moskwa
 Mossad
+Motorola
 Mötz
 Moyses
 Mozarabisch
@@ -3336,7 +3311,9 @@ Muldenhammer
 Mülhausen
 Mülheim
 Mülheim an der Ruhr
+Mull
 Müllendorf
+Müller
 Münchausen
 München
 Münchendorf
@@ -3344,7 +3321,6 @@ Münchhausen
 Munderfing
 Münning
 Münsingen
-Münsinger
 Münsterland
 Münsterländisch
 Münstertal
@@ -3358,7 +3334,6 @@ Murr
 Mürzzuschlag
 Musau
 Mustermann
-Mutter
 Mutter Gottes
 Muttergottes
 Mutterisch
@@ -3374,7 +3349,6 @@ Nagy
 Nahe
 Naher Osten
 Nals
-Namen
 Namibia
 Namlos
 Nanzig
@@ -3399,7 +3373,6 @@ Nauru
 Nauruisch
 Nausikaa
 Navis
-Nazaräer
 Nazaret
 Nazareth
 NDH
@@ -3526,6 +3499,7 @@ Nietzsche
 Niger
 Nigeria
 Niggli
+Nike
 Nikitsch
 Niklasdorf
 Niklaus
@@ -3582,7 +3556,6 @@ Numeri
 Numidien
 Nürnberg
 Nürnberger Land
-Nuß
 Nußbach
 Nüziders
 Nyírtass
@@ -3591,6 +3564,7 @@ Nynorsk
 ÖAMTC
 Obadja
 Obama
+Obdach
 Oberallgäu
 Oberalm
 Oberbayern
@@ -3644,7 +3618,6 @@ Oerlikon
 Oerlinghausen
 Oettingen
 Oettinger
-Ofen
 Ofenhorn
 Ofenpass
 Offenbach
@@ -3733,8 +3706,6 @@ Ostfriesland
 Ostfront
 Ostgrönländisch
 Ostholstein
-Ostküste
-Ostmark
 Ostmitteldeutsch
 Ostniederdeutsch
 Ostpolitik
@@ -3803,9 +3774,9 @@ Paris
 Parnass
 Parndorf
 Parsifal
+Partei
 PARTEI
 Partschins
-Pascal
 Pasching
 Paschtu
 Passail
@@ -3831,7 +3802,7 @@ Pennewang
 Pennsylvania
 Pennsylvaniadeutsch
 Pennsylvanien
-Pentarchie
+Pentagon
 Per
 Percha
 Perchtoldsdorf
@@ -3850,7 +3821,6 @@ Persien
 Persisch
 Peru
 Pesch
-Pest
 Peter
 Peters
 Peterskirchen
@@ -3864,8 +3834,6 @@ Pfaffing
 Pfafflar
 Pfaffstätt
 Pfaffstätten
-Pfaltz
-Pfalz
 Pfalzen
 Pfälzisch
 Pfänder
@@ -3879,7 +3847,6 @@ Pfizer
 Pflach
 Pfons
 Pforzheim
-Pfund
 Pfunds
 Phanerozoikum
 Philip
@@ -3921,10 +3888,10 @@ Pitten
 Pitzenberg
 Pivitsheide
 Pjöngjang
-Planer
 Planken
 Platon
 Plattdeutsch
+Platten
 Plattensee
 Plauen
 Plaus
@@ -3937,10 +3904,10 @@ Plön
 Plotin
 Plowdiw
 Pluto
-Po
 Pöchlarn
 Poggersdorf
 Pöggstall
+Pokémon
 Polabisch
 Polarstern
 Polen
@@ -3977,6 +3944,7 @@ Pöttsching
 Pour le Mérite
 Poysdorf
 Präarchaikum
+Pracht
 Prag
 Prags
 Präkambrium
@@ -4025,8 +3993,9 @@ Putler
 Putzleinsdorf
 Pyhra
 Pyrenäen
-Pyxis
+Python
 Quadrath
+Quart
 Quartär
 Québec
 Quebeck
@@ -4090,10 +4059,10 @@ Rechberg
 Rechnitz
 Recklinghausen
 Redleiten
+Reeperbahn
 Reformesperanto
 Rega
 Regau
-Regen
 Regensburg
 Rehhagel
 Reich der Mitte
@@ -4110,9 +4079,6 @@ Reichsfürstenrat
 Reichsfürstenrath
 Reichsheini
 Reichshofrat
-Reichskrone
-Reichsrat
-Reichsrath
 Reichstag
 Reichstürkisch
 Reichswehr
@@ -4148,7 +4114,6 @@ Republik Mazedonien
 Republik Polen
 Resch
 Resopal
-Rest
 Rettenegg
 Rettenschöss
 Retz
@@ -4188,6 +4153,7 @@ Rhön-Grabfeld
 Rhyacium
 Riad
 Riedau
+Riedel
 Riedelbauch
 Riedlingsdorf
 Riefensberg
@@ -4203,12 +4169,11 @@ Rindt
 Rinn
 Rio de Janeiro
 Ripuarisch
-Riß
 Ritschel
 Ritten
-Ritter
 Ritzing
 Robert
+Roden
 Rodeneck
 Roensch
 Roermond
@@ -4224,6 +4189,7 @@ Rommel
 Römpp
 Ronneburg
 Röns
+Röntgen
 Root
 Roppen
 Rorschach
@@ -4232,6 +4198,7 @@ Rosch ha-Schana
 Röschitz
 Rosegg
 Rosenheim
+Rosenrot
 Rosenstein
 Rosenthal
 Roßbach
@@ -4243,11 +4210,11 @@ Roter Platz
 Rotes Kreuz
 Rotes Meer
 Rotes Rathaus
+Roth
 Rothenberger
 Rothenburg
 Röthis
 Rothkopf
-Rothschild
 Rothstein
 Rotkäppchen
 Rottal-Inn
@@ -4266,7 +4233,6 @@ Rudloff
 Rudolf
 Rügen
 Rühle
-Ruhr
 Ruhrgebiet
 Ruhrpottdeutsch
 Rumänien
@@ -4335,7 +4301,6 @@ Sambia
 Samland
 Samoa
 Samothrazien
-Samsung
 San Marino
 Sandbrink
 Sandra
@@ -4409,7 +4374,6 @@ Schicklgruber
 Schiechtl
 Schiefer Turm von Pisa
 Schiffmann
-Schildknecht
 Schildorn
 Schilfmeer
 Schiller
@@ -4422,7 +4386,6 @@ Schlanders
 Schlangen
 Schlatt
 Schleedorf
-Schleimer
 Schleißheim
 Schleiz
 Schlemper
@@ -4451,7 +4414,6 @@ Schmirn
 Schmitt
 Schmitz
 Schmutzli
-Schnabel
 Schnaderbeck
 Schnals
 Schnelling
@@ -4471,6 +4433,7 @@ Schönbach
 Schönberg
 Schönberger
 Schönemann
+Schonen
 Schönfeld
 Schönfelder
 Schönlein
@@ -4501,7 +4464,6 @@ Schumacher
 Schumann
 Schurl
 Schurli
-Schuster
 Schwabach
 Schwaben
 Schwabenland
@@ -4528,7 +4490,6 @@ Schwarzenfels
 Schwarzentruber
 Schwarzes Meer
 Schwarzhaupt
-Schwarzkopf
 Schwarzschild
 Schwarzwald
 Schwarzwald-Baar-Kreis
@@ -4618,9 +4579,7 @@ Sicherheitsrat der Vereinten Nationen
 Siderium
 Siebenbürgen
 Siebold
-Sieg
 Siegburg
-Siegel
 Siegen
 Siegendorf
 Siegen-Wittgenstein
@@ -4645,6 +4604,7 @@ Silum
 Silur
 Simbabwe
 Simmering
+Simmern
 Simon
 Simplon
 Simplonpass
@@ -4654,10 +4614,10 @@ Sinai
 Sindelfingen
 Sindhi
 Singapur
+Singen
 Singhalesisch
 Single-Responsibility-Prinzip
 Sipbachzell
-Sirene
 Sirius
 Sistrans
 Sisyphus
@@ -4707,7 +4667,6 @@ Sooß
 Sophia
 Sophie
 Sorbisch
-Soul
 Sowjetunion
 Sozialdemokratische Partei Deutschlands
 Sozialistische Einheitspartei Deutschlands
@@ -4726,7 +4685,6 @@ Speyer
 Spielberg
 Spillern
 Spiss
-Spitz
 Spitzbergen
 Splügen
 Splügenpass
@@ -4747,6 +4705,7 @@ Stadthagen
 Stainz
 Stalin
 Stalinallee
+Stalingrad
 Stalinstadt
 Stalinstraße
 Stallehr
@@ -4780,7 +4739,6 @@ Steigerlied
 Steina
 Steinau
 Steinbach
-Steinbeißer
 Steinberg
 Steinberger
 Steinbrink
@@ -4792,7 +4750,6 @@ Steiner
 Steinfeld
 Steinfels
 Steinfurt
-Steinhaus
 Steinhauser
 Steinhöfel
 Steinhoff
@@ -4808,6 +4765,7 @@ Stendal
 Stenium
 Stephan
 Stephanus
+Stern
 Sterzing
 Stetten
 Stetten am kalten Markt
@@ -4846,7 +4804,6 @@ Straubing-Bogen
 Strem
 Strengberg
 Strengen
-Stresemann
 Ströbel
 Stroheim
 Stromeyer
@@ -4858,9 +4815,9 @@ Stuggi
 Stuhlfelden
 Stumm
 Stummerberg
+Stunde Null
 Stuttgart
 Styx
-Suaheli
 Suben
 Sücka
 Südafrika
@@ -4953,7 +4910,6 @@ Tatarisch
 Tatarstan
 Tattendorf
 Tatung
-Taube
 Tauberbischofsheim
 Tauern
 Taunus
@@ -4991,6 +4947,7 @@ Texasdeutsch
 Texingtal
 Thailand
 Thailändisch
+Thal
 Thalgau
 Thalmann
 Thälmann
@@ -5014,13 +4971,13 @@ Thomas
 Thomasberg
 Thomatal
 Thörl
-Thorn
 Thorwald
 Thrakien
 Thrakisch
 Thurgau
 Thüringen
 Thüringerberg
+Thurn
 THW
 Thyssen
 Tiber
@@ -5047,7 +5004,7 @@ Tiszabecs
 Tobadill
 Toblach
 Tocharisch
-Todt
+Todestal
 Togo
 Tokelauisch
 Tokio
@@ -5095,7 +5052,6 @@ Trinidad und Tobago
 Trins
 Tripolis
 Tristach
-Triumphbogen
 Trizone
 Trizonesien
 Trofaiach
@@ -5115,6 +5071,7 @@ Tschechische Republik
 Tschechoslowakei
 Tschenstochau
 Tscherms
+Tschernobyl
 Tschetschenien
 Tschetschenisch
 Tschuktschisch
@@ -5176,7 +5133,6 @@ Unbefleckte Empfängnis
 Ungarisch
 Ungarn
 Ungenach
-Union
 Union der Sozialistischen Sowjetrepubliken
 Unkel
 Unna
@@ -5241,6 +5197,8 @@ Venedig
 Venetien
 Venetisch
 Venezuela
+Venus
+Venusberg
 Vercingetorix
 Verden
 Verdet-Konstante
@@ -5274,12 +5232,10 @@ Vincenz
 Virgen
 Virgo-Superhaufen
 Vitis
-VK
 Vöcklabruck
 Vöcklamarkt
 Vogelhochzeit
 Vogelsbergkreis
-Vogt
 Vogtlandkreis
 Voigt
 Voitsberg
@@ -5326,13 +5282,13 @@ Vuoksi
 Vyslouzil
 Waadt
 Waadtland
-Waage
 Waalkes
 Wächterrat
 Wacken
 Wagenknecht
 Wagna
 Wagner
+Wahl
 Wahlen
 Waiblingen
 Waidbruck
@@ -5390,7 +5346,6 @@ Wang
 Wangerberg
 Wängle
 Wanninger
-Wappler
 Warburg
 Warendorf
 Warren
@@ -5449,6 +5404,7 @@ Weißpriach
 Weißrussisch
 Weißrussland
 Weistrach
+Weiten
 Weitersfeld
 Weitersfelden
 Weitkamp
@@ -5472,6 +5428,7 @@ Wenzel
 Weppersdorf
 Wepsisch
 Werdandi
+Werfen
 Werfenweng
 Wermelskirchen
 Werndorf
@@ -5482,6 +5439,7 @@ Wesel
 Wesenberg
 Weser
 Wesermarsch
+Wesselmann
 Westafrika
 Westarmenisch
 Westasien
@@ -5517,7 +5475,6 @@ Wienerwald
 Wienroither
 Wies
 Wiesbaden
-Wiese
 Wieselburg
 Wiesemann
 Wiesen
@@ -5561,7 +5518,7 @@ Winsen
 Winterkorn
 Wippenham
 Wirnsberger
-Wirt
+Wisch
 Wisconsin
 Wismar
 Wittenberg
@@ -5573,7 +5530,6 @@ Wladiwostok
 Wlaschek
 Wöhler
 Wölbling
-Wolf
 Wolfau
 Wolfenbüttel
 Wolfenstein
@@ -5637,11 +5593,10 @@ Zagreb
 Zams
 Zapletal
 Zederhaus
+Zeiger
 Zeillern
-Zeit
 Zeitz
 Zellberg
-Zelle
 Zellerndorf
 Zeltweg
 Zendisch
@@ -5657,18 +5612,18 @@ Zenz
 Zermatt
 ZEW
 Zickefoose
-Ziegler
 Ziersdorf
 Zilch
 Zilizien
 Zillingdorf
 Zillingtal
 Zimbrisch
-Zimmermann
 Zimpel
+Zinn
 Zinsberger
 Zintl
 Zion
+Zipf
 Zirndorf
 Zischkowitz
 Zistersdorf

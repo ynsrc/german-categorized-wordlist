@@ -343,6 +343,7 @@ Abwasch
 Abwasseranlage
 Abwasserreinigung
 Abwechslung
+Abwehr
 Abwehrreaktion
 Abwehrschlacht
 Abwehrspielerin
@@ -495,6 +496,7 @@ Agronomie
 Ägyptologin
 Ahle
 Ahndung
+Ahne
 Ahnenforschung
 Ahnengleichheit
 Ahnenprobe
@@ -505,7 +507,6 @@ Ahnung
 Ähre
 Ailurophobie
 Airline
-Aische
 Akad.
 Akademie
 Akademieausgabe
@@ -554,6 +555,7 @@ Alarmglocke
 Alarmstufe
 Alaskanerin
 Alawitin
+Alb
 Albanerin
 Albanesin
 Albanierin
@@ -573,6 +575,7 @@ Alexie
 Alexithymie
 Alfalfa
 Alfanzerei
+Alge
 Algebra
 Algenkunde
 Algerierin
@@ -716,6 +719,7 @@ Aminosäure
 Aminoverbindung
 Amme
 Ammensprache
+Ammer
 Ammoniaklösung
 Ammoniaksynthese
 Ammoniumverbindung
@@ -815,7 +819,6 @@ Angabe
 Angeberei
 Angeberin
 Angehörigkeit
-Angel
 Angelegenheit
 Angelleine
 Angelrute
@@ -1231,6 +1234,7 @@ Askese
 Asketin
 Asparaginsäure
 Asphaltstraße
+Aspie
 Aspirata
 Aspiration
 ASS
@@ -1317,8 +1321,10 @@ Attitüde
 Attraktion
 Attraktivität
 Attrappe
+Atze
 Ätzlösung
 Atzung
+Au
 Aubergine
 Audienz
 Audiodatei
@@ -1435,6 +1441,7 @@ Augsburgerin
 Auktion
 Aula
 Aura
+Aurora
 Ausatmung
 Ausbausprache
 Ausbeute
@@ -1665,6 +1672,7 @@ Axt
 Azalee
 Azidose
 Azoverbindung
+Azubi
 Azubiene
 Azubine
 Babuschka
@@ -1678,6 +1686,7 @@ Babysitterin
 Babytragetasche
 Baby-Tragetasche
 Babywanne
+Bache
 Bachelorarbeit
 Bachelorthesis
 Bachforelle
@@ -1715,6 +1724,7 @@ Bagage
 Bagatelle
 Bagatellisiererin
 Bagatellisierung
+Bahn
 Bahnfahrt
 Bahnhofstraße
 Bahnhofsuhr
@@ -1725,6 +1735,7 @@ Bahrainerin
 Bahre
 Bai
 Baikalente
+Bain-Marie
 Baisse
 Bajuwarin
 Bake
@@ -1748,6 +1759,7 @@ Balkenspiralgalaxie
 Balkenwaage
 Balkontür
 Ballade
+Ballerina
 Ballettmusik
 Ballettschule
 Balletttänzerin
@@ -1771,7 +1783,6 @@ Bananenmilch
 Bananenrepublik
 Bananenschale
 Bananenschnecke
-Band
 Bandage
 Bandbreite
 Bande
@@ -1794,6 +1805,7 @@ Bankrotterklärung
 Bannerwolke
 Bannmeile
 Banshee
+Bantu
 Baracke
 Barbadierin
 Barbarei
@@ -1824,6 +1836,7 @@ Barschaft
 Barte
 Bartholomäusnacht
 Bartnelke
+Bärwurz
 Barzahlung
 Basalebene
 Baschkirin
@@ -1871,6 +1884,7 @@ Bauchfellentzündung
 Bauchflosse
 Bauchhöhle
 Bauchlandung
+Bauchnabelfussel
 Bauchpinselei
 Bauchrednerin
 Bauchspeicheldrüse
@@ -2043,7 +2057,6 @@ Behutsamkeit
 Beichte
 Beifügung
 Beigabe
-Beige
 Beigesellung
 Beihilfe
 Beikost
@@ -2528,6 +2541,7 @@ Biosynthese
 Biotechnologie
 Bioverfügbarkeit
 Bireme
+Birke
 Birkenrinde
 Birkenstocksandale
 Birne
@@ -2718,6 +2732,7 @@ Bolivianerin
 Bolle
 Bolschewistin
 Bombardierung
+Bombe
 Bombendrohung
 Bombenlegerin
 Bomberjacke
@@ -2778,7 +2793,6 @@ Brachylogie
 Brailleschrift
 Bräme
 Branche
-Brand
 Brandbekämpfung
 Brandblase
 Brandbombe
@@ -2858,7 +2872,6 @@ Brenztraubensäure
 Bresche
 Bretzel
 Breze
-Brezel
 Brezen
 Brezn
 Briefbombe
@@ -2874,6 +2887,7 @@ Brieftaubenzüchterin
 Briefträgerin
 Briefwaage
 Brigade
+Brillant
 Brillanz
 Brille
 Brillenschlange
@@ -2915,6 +2929,7 @@ Brotschrift
 Brotsuppe
 Brotzeit
 Brucellose
+Bruch
 Bruchbude
 Bruchfläche
 Brüchigkeit
@@ -3009,7 +3024,9 @@ Bühnenpräsenz
 Bulette
 Bulgarin
 Bulldogge
+Bulle
 Bullette
+Bult
 Bülte
 Bummelantin
 Bummelbahn
@@ -3038,6 +3055,7 @@ Buntheit
 Bürde
 Burenwurst
 Bürette
+Burg
 Bürgerin
 Bürgerinitiative
 Bürgermeisterin
@@ -3056,6 +3074,7 @@ Büroklammer
 Bürokratie
 Bürolandschaft
 Bürotür
+Bursche
 Burschensprache
 Bürste
 Buschbohne
@@ -3070,6 +3089,7 @@ Busspur
 Butike
 Bütt
 Bütte
+Butter
 Butterbirne
 Butterblume
 Butterdose
@@ -3085,7 +3105,6 @@ Butze
 Buvette
 Bux
 Buxe
-BW
 Cadmiumverbindung
 Cafeteria
 Caissonkrankheit
@@ -3173,6 +3192,7 @@ Chicagoerin
 Chiffre
 Chilenin
 Chimäre
+Chinchilla
 Chinesin
 Chinoiserie
 Chipkarte
@@ -3222,7 +3242,6 @@ Chronobiologie
 Chronobiologin
 Chronologie
 Chrysantheme
-Chur
 Chuzpe
 Chymie
 Cirkulation
@@ -3597,6 +3616,7 @@ Dialektologie
 Dialyse
 Dialysepatientin
 Dialysesitzung
+Diamant
 Diamantenmine
 Diamantstempelzelle
 Diaphanoskopie
@@ -3766,7 +3786,6 @@ Dominikanerin
 Domkirche
 Dompteuse
 Donation
-Donaudampfschiffahrtsgesellschaft
 Donaumetropole
 Donaumonarchie
 Donaustadt
@@ -3917,6 +3936,7 @@ Drucktype
 Druckversion
 Druckwalze
 Druckwelle
+Druse
 Drüse
 Dryade
 Dschihadistin
@@ -3930,7 +3950,6 @@ Dult
 Dummheit
 Dümmlichkeit
 Dumpfheit
-Düne
 Dünengazelle
 Düngemittelindustrie
 Düngung
@@ -4371,6 +4390,8 @@ Elementbezeichnung
 Elementhäufigkeit
 Elenantilope
 Elephantenlaus
+Elf
+Elfe
 Elfeckpyramide
 Elfeck-Pyramide
 Elfenbeinkugel
@@ -4653,6 +4674,7 @@ Erdbebenkatastrophe
 Erdbeere
 Erdbeerwoche
 Erdbirne
+Erde
 Erdeichel
 Erdenbürgerin
 Erderwärmung
@@ -4788,7 +4810,6 @@ Erschöpfung
 Erschütterung
 Ersetzbarkeit
 Ersetzung
-Ersparnis
 Erstarrung
 Erstattung
 Erstaufnahme
@@ -4826,6 +4847,7 @@ Erzielung
 Erzwingungshaft
 erzwungene Perspektive
 Eschatologie
+Esche
 Eselei
 Eselhaftigkeit
 Eselin
@@ -4919,6 +4941,7 @@ Evolutionsbiologie
 Evolutionsbiologin
 Evolutionstheorie
 Ewigkeit
+Ex
 Exaktheit
 Exaltiertheit
 Exception
@@ -5037,6 +5060,7 @@ Faktur
 Faktura
 Fakultät
 Falafel
+Falbe
 Falbel
 Falbkatze
 Falknerei
@@ -5104,6 +5128,7 @@ Farbstärke
 Farbtube
 Färbung
 Farce
+Farm
 Färse
 Faschistin
 Fase
@@ -5119,6 +5144,7 @@ Fastnacht
 Fastprimzahl
 Faszie
 Faszination
+Fatwa
 Fäule
 Faulfliege
 Faulheit
@@ -5327,6 +5353,7 @@ Fiberglasverkleidung
 Fibonaccifolge
 Fibonacci-Folge
 Fibonaccizahl
+Fichte
 Fichtenammer
 Fichtennadel
 Fickfreundin
@@ -5371,6 +5398,7 @@ Finesse
 Fingerbreite
 Fingerfertigkeit
 Fingerspitze
+Finne
 Finnin
 Finnländerin
 Finnlandisierung
@@ -5541,6 +5569,7 @@ Fluorverbindung
 Fluorvergiftung
 Fluorwasserstoffsäure
 Fluppe
+Flur
 Flurbeleuchtung
 Fluse
 Flussbiegung
@@ -5653,6 +5682,7 @@ Fragwürdigkeit
 Fraktion
 Fraktur
 Frakturschrift
+Frankfurter
 Frankfurterin
 Frankierung
 Fränkin
@@ -5725,6 +5755,7 @@ Freskomalerei
 Fresse
 Fresserei
 Fresszelle
+Freud
 Freude
 Freudenabteilung
 Freudenträne
@@ -5788,7 +5819,6 @@ Fruchtfliege
 Fruchtfolge
 Fruchtschale
 Fructose
-Früh
 Frühaufsteherin
 Frühe
 Frühgeburt
@@ -5817,6 +5847,7 @@ Füchsin
 Fuchsjagd
 Fuchsschwalbe
 Fuchtel
+Fuffi
 Fuge
 Fügung
 Fühlerborste
@@ -5881,7 +5912,6 @@ Furche
 Furcht
 Furchtlosigkeit
 Furie
-Furore
 Fürsichtigkeit
 Fürsorge
 Fürsprache
@@ -6044,6 +6074,7 @@ Gasturbine
 Gasuhr
 Gaswolke
 Gaszentrifuge
+Gate
 Gattin
 Gattung
 Gaube
@@ -6060,6 +6091,7 @@ Gauß-Verteilung
 Gaze
 Gazelle
 Gazette
+Gazpacho
 Gebärde
 Gebärdensprache
 Gebärerin
@@ -6108,7 +6140,6 @@ Gedenkmünze
 Gedenkschrift
 Gedenkstätte
 Gediegenheit
-Geduld
 Geest
 Gefahr
 Gefährdung
@@ -6146,6 +6177,7 @@ Gegenfrage
 Gegenleistung
 Gegenmaßnahme
 Gegenoffensive
+Gegenpart
 Gegenreaktion
 Gegenreformation
 Gegenrichtung
@@ -6195,6 +6227,7 @@ Gehülfin
 Geige
 Geigenspielerin
 Geilheit
+Geisel
 Geiselerschießung
 Geiselhaft
 Geiselnahme
@@ -6414,7 +6447,6 @@ Geschwindigkeitsbeschränkung
 Geschwindigkeitsgrenze
 Geschwindigkeitsregelanlage
 Geschwollenheit
-Geschwulst
 Geselligkeit
 Gesellschaft
 Gesellschafterin
@@ -6439,6 +6471,7 @@ Gespenstschrecke
 Gespielin
 Gesprächspartnerin
 Gesprächspause
+Gest
 Gestalt
 Gestaltung
 Gestaltungsfähigkeit
@@ -6512,9 +6545,11 @@ Gezeiten
 Ghanaerin
 Ghettofaust
 Gicht
+Gier
 Gießerei
 Gießkanne
 Gießpfanne
+Gift
 Giftigkeit
 Giftpflanze
 Giftschlange
@@ -6529,6 +6564,7 @@ Gipfelkonferenz
 Giraffe
 Girlande
 Girondistin
+Gischt
 Gitalele
 Gitarre
 Gitarrenlehrerin
@@ -6556,6 +6592,7 @@ Glasflügelzikade
 Glasgowerin
 Glasharmonika
 Glasherstellung
+Glashütte
 Glasindustrie
 Glaskugel
 Glasmacherin
@@ -6651,6 +6688,7 @@ Gnosis
 Gnostikerin
 Goethezeit
 Gogel
+Goldammer
 Goldbrasse
 Goldbulle
 Golddistel
@@ -6689,7 +6727,6 @@ Gothik
 Gotifizierung
 Gotik
 Gotin
-Gotisch
 Gotte
 Götterdämmerung
 Göttergattin
@@ -6748,6 +6785,7 @@ Graugans
 Graukatze
 Graukehlralle
 Graupe
+Graupel
 Grausamkeit
 Grauzone
 Gravidität
@@ -6873,6 +6911,7 @@ Gsibergerin
 Guacamole
 Guasch
 Guatemaltekin
+Guerilla
 Gugel
 Guggenmusik
 Guillotine
@@ -6990,6 +7029,7 @@ Halbzeit
 Halbzwetsche
 Halde
 Hälfte
+Halfter
 Halle
 Hallenserin
 Hallig
@@ -7027,7 +7067,6 @@ Hämodialyse
 Hämolymphe
 Hämolyse
 Hämorrhoide
-Hand
 Handarbeit
 Handballspielerin
 Handbewegung
@@ -7106,6 +7145,7 @@ Hartkaramelle
 Hartnäckigkeit
 Härtung
 Hascherin
+Hasel
 Haselmaus
 Haselnuss
 Haselnußschale
@@ -7218,6 +7258,7 @@ Hautschuppe
 Häutung
 Hautwunde
 Havana-Katze
+Havanna
 Havarie
 Hawaiigitarre
 Hawaii-Mönchsrobbe
@@ -7245,6 +7286,7 @@ Heftzwecke
 Hegemonie
 Hehlerei
 Heia
+Heide
 Heidelbeere
 Heidelbergerin
 Heidelerche
@@ -7278,7 +7320,6 @@ Heißklebepistole
 Heißluft
 Heißluftfritteuse
 Heißzeit
-Heister
 -heit
 Heiterkeit
 Heizhaube
@@ -7337,6 +7378,7 @@ Herkunftsbezeichnung
 Herkunftsdeutsche
 Herme
 Hermeneutik
+Heroin
 Heroine
 Heroinsucht
 Herrenkleidung
@@ -7374,6 +7416,7 @@ Herzogin
 Herzrhythmusstörung
 Herztätigkeit
 Herzzehn
+Hesse
 Hessin
 Hete
 Heterogenität
@@ -7403,6 +7446,7 @@ Hexenküche
 Hexenkunst
 Hexenverfolgung
 Hexerei
+Heyde
 Heylung
 Hiebwaffe
 Hierarchie
@@ -7435,6 +7479,7 @@ Himmelsschrift
 Himmelstänzerin
 Hin- und Rückfahrt
 Hinde
+Hindu
 Hinfahrt
 Hingabe
 Hingebung
@@ -7538,7 +7583,6 @@ Hochzeitsreise
 Hochzeitstorte
 Hocke
 Hocktoilette
-Hode
 Hofberichterstattung
 Hofburg
 Hofdame
@@ -7658,6 +7702,7 @@ Hundepfeife
 Hundepflaume
 Hundepfote
 Hunderasse
+Hundert
 Hundert-Euro-Banknote
 Hundertjahrfeier
 Hundertschaft
@@ -8051,6 +8096,7 @@ Iranerin
 Iranistik
 Irin
 Iriomote-Katze
+Iris
 Irisblende
 Irländerin
 Ironie
@@ -8141,6 +8187,8 @@ Jobvermittlung
 Jochlaute
 Jodhpur
 Jogginghose
+Joghurt
+Jogurt
 Johannisbeere
 Jolle
 Jonglage
@@ -8192,6 +8240,7 @@ Jungholzerin
 Jungsband
 Jungsteinzeit
 Junta
+Jupe
 Jurisdiktion
 Jurisprudenz
 Juristerei
@@ -8279,6 +8328,7 @@ Kaliumverbindung
 Kalkausfällung
 Kalkulation
 Kalkung
+Kalle
 Kalligraphie
 Kalmuswurzel
 Kalorie
@@ -8308,7 +8358,6 @@ Kameradschaft
 Kameradschaftlichkeit
 Kameraperspektive
 Kamerunerin
-Kamikaze
 Kamikazedrohne
 Kamille
 Kamillenblüte
@@ -8366,6 +8415,7 @@ Kapitalversicherung
 Kapitänin
 Kapitänskajüte
 Kapitulation
+Kapo
 Kappe
 Kappsäge
 Kaprice
@@ -8461,6 +8511,7 @@ Kastration
 Kastrationsangst
 Kasuistik
 Katachrese
+Katakana
 Katakombe
 Katalanin
 Katalase
@@ -8468,6 +8519,7 @@ Katalepsie
 Katalysatoraktivität
 Katalyse
 Katapultpost
+Katarakt
 Katastralgemeinde
 Katastrophe
 Katastrophenmedizin
@@ -8610,13 +8662,13 @@ Keulung
 Keuschheit
 K-Frage
 Kfz-Haftpflichtversicherung
-Khmer
 KI
 Kiberei
 Kichererbse
 Kickerin
 Kidneybohne
 Kieberei
+Kiefer
 Kiefergelenkserkrankung
 Kieferhöhle
 Kiefernnadel
@@ -8697,10 +8749,10 @@ Kita
 Kitsche
 Kittelschürze
 Kitzbühelerin
+Kiwi
 Klabusterbeere
 Kladde
 Klaffmuschel
-Klafter
 Klage
 Klagemauer
 Klägerin
@@ -8736,6 +8788,7 @@ Klassik
 Klatsche
 Klatschpresse
 Klaue
+Klaus
 Klause
 Klausel
 Klaustrophobie
@@ -8827,6 +8880,7 @@ Klöten
 Klubchefin
 Kluft
 Klugheit
+Klunker
 Klunte
 Kluppe
 Knabenschändung
@@ -9243,6 +9297,7 @@ Kostprobe
 Koteletten
 Koterie
 Kotze
+KR
 Krabbe
 Krabbenspinne
 Kracke
@@ -9310,6 +9365,7 @@ Kreditkarte
 Kreditkartennummer
 Kreditwürdigkeit
 Krefelderin
+Kreide
 Kreisbahn
 Kreiselegge
 Kreiselpumpe
@@ -9487,6 +9543,7 @@ Kümmeltürkin
 Kummerkastentante
 Kumquat
 -kunde
+Kunde
 Kundgebung
 Kundgebungsteilnehmerin
 Kündigung
@@ -9494,6 +9551,7 @@ Kündigungsfrist
 Kundin
 Kundmachung
 Kundschaft
+Kunkel
 Kunst
 Kunstakademie
 Kunstausstellung
@@ -9949,6 +10007,7 @@ Leihgabe
 Leihgebühr
 Leihmutter
 Leimschleuderspinne
+Leine
 Leinenhose
 Leinwand
 Leiste
@@ -10098,6 +10157,7 @@ Liegebescheinigung
 Liegekur
 Liegenschaft
 Liegestütze
+LIF
 Liga
 Ligandenfeldtheorie
 Ligase
@@ -10107,6 +10167,7 @@ Limburgerin
 Limette
 Limite
 Limnologie
+Limo
 Limonade
 Limone
 Limousine
@@ -10231,6 +10292,7 @@ Loyalität
 LPG
 LRS
 Lübeckerin
+Luch
 Luchsspinne
 Lucht
 Lucianerin
@@ -10277,7 +10339,6 @@ Lüftung
 Luftverflüssigung
 Luftverschmutzung
 Luftverunreinigung
-Luftwaffe
 Luftwurzel
 Luftzerlegung
 Luftzerlegungsanlage
@@ -10358,7 +10419,6 @@ Madagassin
 Madame
 Mädchenschule
 Made
-Madeleine
 Madenschraube
 Madrasa
 Maffia
@@ -10404,8 +10464,10 @@ Mähnenrobbe
 Mahnung
 Mahnwache
 Mahr
+Mähre
 Mährin
 Maid
+Mail
 Mailänderin
 Mailbox
 Mailingliste
@@ -10428,6 +10490,7 @@ Makrone
 Makulatur
 Malabsorption
 Malaiin
+Malaise
 Malakofftorte
 Malaria
 Maläse
@@ -10528,7 +10591,6 @@ Marionette
 Marionettenregierung
 Mariske
 Marjell
-Mark
 Marke
 Markerbse
 Marketenderin
@@ -10553,7 +10615,6 @@ Marotte
 Marquise
 Marroni
 Mars
-Marsch
 Marschroute
 Marter
 Martinsgans
@@ -10583,6 +10644,7 @@ Maß
 Massage
 Masse
 Maßeinheit
+Massel
 Massenarbeitslosigkeit
 Massenbewegung
 Massendifferenz
@@ -10778,6 +10840,7 @@ Meldung
 Melisse
 Melkkuh
 Melkmaschine
+Melle
 Mellitsäure
 Melodei
 Melodie
@@ -10832,6 +10895,7 @@ Menübandleiste
 Meritokratie
 Merkel-Raute
 Merkwürdigkeit
+Merle
 Merseburgerin
 Mesmerisierung
 Mesologie
@@ -10896,6 +10960,7 @@ Metropolis
 Metropolregion
 Mette
 Mettwurst
+Metze
 Metzerin
 Metzgerei
 Metzgete
@@ -10920,6 +10985,7 @@ Miezekatze
 Migräne
 Migration
 Migrationspolitik
+Mikro
 Mikrobe
 Mikrobiologie
 Mikrobiologin
@@ -10971,7 +11037,6 @@ Militärübung
 Militärzensur
 Miliz
 Mille
-Milliarde
 Million
 Millionärin
 Millionenhöhe
@@ -11000,6 +11065,7 @@ Mindeststrafe
 Mindestvoraussetzung
 Mindestzahl
 Mindestzeit
+Mindmap
 Mine
 Mineralanalyse
 Mineralklasse
@@ -11113,7 +11179,9 @@ Mixtur
 Mobilisierung
 Mobilität
 Mobilmachung
+Mod
 Modallogik
+Mode
 Modekrankheit
 Modelleisenbahn
 Modell-Präsentation-Steuerung
@@ -11219,7 +11287,6 @@ Morphologie
 Mörsergranate
 Mörserkeule
 Mortalität
-Mosaik
 Mosambikanerin
 Moschee
 Möse
@@ -11237,11 +11304,14 @@ Mottenschildlaus
 Mouse
 Möwe
 Mozartkugel
+MP
 MPU
+MTA
 Mucke
 Mücke
 Mückenplage
 Muckibude
+Mudder
 Müdigkeit
 Muffe
 Mühe
@@ -11253,6 +11323,7 @@ Mulattin
 Mulde
 Mulder
 Mülldeponie
+Mulle
 Müllerin
 Müllfrau
 Müllhalde
@@ -11275,6 +11346,7 @@ Münchhausengeschichte
 Münchnerin
 Mund
 Mundart
+Mündel
 Mundfotze
 Mundharmonika
 Mundhöhle
@@ -11339,6 +11411,7 @@ Mutantin
 Mutation
 Mutlosigkeit
 Mutmaßung
+Mutter
 Muttererde
 Muttergesellschaft
 Muttergöttin
@@ -11466,6 +11539,7 @@ Näherin
 Näherung
 Nahkampfsocke
 Nähmaschine
+Nahme
 Nähnadel
 Nährmutter
 Nährstoffzufuhr
@@ -11619,7 +11693,6 @@ Nervenstärke
 Nervenzelle
 Nervosität
 Nerzjacke
-Nessel
 Nesselsucht
 Nesselzelle
 Nestbeschmutzerin
@@ -11849,6 +11922,7 @@ Notwehr
 Notwendigkeit
 Notzeit
 Novelle
+Novize
 Nuance
 Nüchternheit
 Nucleinsäure
@@ -11878,7 +11952,7 @@ Numismatik
 Nummer
 Nummerierung
 Nummerntafel
-Nuss
+Nuß
 Nussfrucht
 Nussschale
 Nussschokolade
@@ -11938,6 +12012,7 @@ Obfrau
 Obhut
 Objektivität
 Objektsprache
+Oblast
 Oblate
 Obliegenheit
 Obligation
@@ -11999,7 +12074,6 @@ Okkupation
 Ökonomin
 Ökonomographie
 Oktave
-Oktillion
 Okularistin
 Ökumene
 Ökumenopolis
@@ -12057,7 +12131,6 @@ Ontarierin
 Ontogenese
 Ontologie
 Ontologin
-OP
 OPCW
 Oper
 Operation
@@ -12146,11 +12219,13 @@ Ortseingangstafel
 Ortstafel
 Ortung
 Öse
+Ösi
 OSI-Schicht
 Osmoregulation
 Osmose
 Osseointegration
 Ossetin
+Ossi
 Ostafrikanerin
 Ostalgie
 Ostberlinerin
@@ -12166,6 +12241,8 @@ Osteroktav
 Österreicherin
 Osteuropäerin
 Ostfriesin
+Ostküste
+Ostmark
 Ostmauer
 Ostseite
 Ostsiedlung
@@ -12327,15 +12404,14 @@ Parodie
 Parodontologie
 Parodontose
 Parole
-Partei
 Parteilichkeit
 Parteilinie
 Parteinahme
 Parteipolitik
 Parteispende
 Partie
-Partikel
 Partikelgröße
+Partisane
 Partisanin
 Partition
 Partitur
@@ -12431,9 +12507,11 @@ Pennsylvanierin
 Pension
 Pensionärin
 Pensionierung
+Pentarchie
 Penumbra
 Penunse
 Penunze
+Peperoncino
 Peperoni
 Perbromsäure
 Perchlorsäure
@@ -12485,6 +12563,7 @@ Peruanerin
 Perücke
 Perückentaube
 Pescetarierin
+Pest
 Pestwurz
 Petentin
 Petersilie
@@ -12501,6 +12580,8 @@ Petze
 Petzerin
 Pfadfinderin
 Pfadi
+Pfaltz
+Pfalz
 Pfälzerin
 Pfalzgräfin
 Pfandflasche
@@ -12648,7 +12729,6 @@ Pier
 Pietà
 Pietät
 Pietätlosigkeit
-Pik
 Pikanterie
 Pike
 Pikrinsäure
@@ -12895,6 +12975,7 @@ Positionierung
 Positivistin
 Positivität
 Posse
+Post
 Postanschrift
 Postfaschistin
 Posthornschnecke
@@ -12916,9 +12997,9 @@ Poule
 Poussade
 Poussage
 Power
+PR
 Präambel
 Präantepänultima
-Pracht
 Prachtstraße
 Prädation
 Prädestination
@@ -12986,6 +13067,7 @@ Pressstempelkanne
 Presszange
 Priesterin
 Priesterschaft
+Prima
 Primadonna
 Primärberührung
 Primärenergie
@@ -13035,7 +13117,7 @@ Produktivkraft
 Produktpalette
 Produktregistrierung
 Produzentin
-Profeß
+Profess
 Profession
 Professorin
 Professur
@@ -13193,7 +13275,7 @@ Pyrolysetemperatur
 Pyromanie
 Pyrophosphatase
 Pyrotechnik
-Python
+Pyxis
 PzB
 QRS-Gruppe
 Quacksalberei
@@ -13204,6 +13286,7 @@ Quadratur
 Quadratwurzel
 Quadriga
 Quadrilliarde
+Quadrillion
 Quadrupolmassenspektrometrie
 Qual
 Qual der Wahl
@@ -13239,7 +13322,6 @@ Quasiperiodizität
 Quasselstrippe
 Quaste
 Quaternion
-Quattuordezillion
 Quecke
 Quecksilberdampflampe
 Quecksilberelektrode
@@ -13276,6 +13358,7 @@ Quinquagesima
 Quinta
 Quinte
 Quintessenz
+Quintilliarde
 Quintillion
 Quitte
 Quittung
@@ -13541,7 +13624,6 @@ Reduzierung
 Reede
 Reederei
 Reeling
-Reeperbahn
 Referenz
 Referenzelektrode
 Referenzimplementierung
@@ -13596,6 +13678,7 @@ Reichsanstalt
 Reichsbürgerbewegung
 Reichsbürgerin
 Reichskristallnacht
+Reichskrone
 Reichsmark
 Reichspogromnacht
 Reichsunmittelbarkeit
@@ -13784,6 +13867,7 @@ Reunion
 Reuse
 Reutlingerin
 Revanche
+Review
 Revision
 Revolte
 Revolution
@@ -14049,6 +14133,7 @@ Ruhestifterin
 Ruhestörung
 Ruhmeshalle
 Ruhmsucht
+Ruhr
 Rührung
 Ruine
 Ruinenlust
@@ -14144,6 +14229,7 @@ Sakristei
 Salami
 Salamischeibe
 Salamitaktik
+Salat
 Salatbar
 Salatgabel
 Salatgurke
@@ -14161,7 +14247,6 @@ Salomonenralle
 Salpetererde
 Salpetersäure
 Salpetersäureherstellung
-Salsa
 Salve
 Salweide
 Salzbildung
@@ -14215,6 +14300,7 @@ Sardelle
 Sardin
 Sardine
 Saskatchewanerin
+Sasse
 Satellitenschüssel
 Satire
 Satisfaktion
@@ -14264,7 +14350,6 @@ Sauklaue
 Säule
 Säulenchromatografie
 Säulenchromatographie
-Säumnis
 Säumnisgebühr
 Sauna
 Säure
@@ -14338,6 +14423,7 @@ Schamröte
 Schande
 Schändlichkeit
 Schändung
+Schank
 Schänke
 Schankwirtin
 Schanze
@@ -14562,6 +14648,7 @@ Schlussleuchte
 Schlusspointe
 Schlussrechnung
 Schmach
+Schmacht
 Schmähschrift
 Schmalspur
 Schmalspurbahn
@@ -14968,6 +15055,7 @@ Schwüle
 Schwulenbewegung
 Schwulenfeindlichkeit
 Schwulität
+Schwulst
 Sciencefiction
 Science-fiction
 Science-Fiction
@@ -14989,7 +15077,6 @@ Sechzig
 Seconda
 Secte
 Sedimentschicht
-See
 Seeanemone
 Seebestattung
 Seefelderin
@@ -15145,6 +15232,7 @@ Selenunterversorgung
 Selenverbindung
 Seligkeit
 Seligsprechung
+Sellerie
 Seltenerde
 Seltenheit
 Seltsamkeit
@@ -15219,6 +15307,7 @@ Sexpuppe
 Sexsucht
 Sexta
 Sexte
+Sextillion
 Sexualisierung
 Sexualität
 Sexualkunde
@@ -15313,6 +15402,7 @@ Sinekure
 Sinfonie
 Singdrossel
 Singhalesin
+Single
 Singlebörse
 Singstimme
 Singularität
@@ -15334,6 +15424,7 @@ Sinusitis
 Sippe
 Sippenhaft
 Sippschaft
+Sirene
 Sisyphusarbeit
 Sitar
 Sitka-Fichte
@@ -15366,6 +15457,7 @@ Sklavenmoral
 Sklaverei
 Sklavin
 Sklera
+Skorbut
 Skorpionsfliege
 Skrupellosigkeit
 Skua
@@ -15492,6 +15584,7 @@ Sottise
 Soubrette
 Souffleuse
 Soundkarte
+Soundso
 Soutane
 Souveränität
 Sowjetrepublik
@@ -15515,6 +15608,7 @@ Soziolinguistik
 Soziologie
 Soziologin
 Spagetti
+Spaghetti
 Spaghettifresserin
 Späherin
 Spallation
@@ -15560,6 +15654,7 @@ Speichererweiterung
 Speicherfrist
 Speicherkarte
 Speicherung
+Speis
 Speise
 Speisegaststätte
 Speisekammer
@@ -15605,6 +15700,7 @@ Spezifität
 Speziierung
 Sphære
 Sphäre
+Sphinx
 Spider-App
 Spiegelkugel
 Spiegelreflexkamera
@@ -15959,6 +16055,7 @@ Sternschnuppe
 Sternstunde
 Sternwarte
 Stetigkeit
+Steuer
 Steuerbefreiung
 Steuerbetrügerin
 Steuererhöhung
@@ -16014,6 +16111,7 @@ Stimmung
 Stimmungskanone
 Stimulation
 Stimulierung
+Stinkadores
 Stinkfrucht
 Stinkkatze
 Stippe
@@ -16043,6 +16141,7 @@ Stola
 Stole
 Stolperfalle
 Stopfleber
+Stoppel
 Stoppine
 Stopptafel
 Stoppuhr
@@ -16195,6 +16294,7 @@ Studentenblume
 Studentensprache
 Studentenverbindung
 Studentin
+Studi
 Studie
 Studiengebühr
 Studienzeit
@@ -16203,6 +16303,7 @@ Stufenprüfung
 Stuhlprobe
 Stuhltransplantation
 StuK
+Stuka
 Stuka-Tablette
 Stulle
 Stulpe
@@ -16210,7 +16311,6 @@ Stummheit
 Stund
 Stunde
 Stunde der Wahrheit
-Stunde Null
 Stupsnase
 Sturheit
 Sturmabteilung
@@ -16227,6 +16327,7 @@ Stutzuhr
 Stützung
 Suada
 Suade
+Suaheli
 Sub
 Subjunktion
 Subklasse
@@ -16331,6 +16432,7 @@ Swissness
 Sylbe
 Syllepse
 Syllepsis
+Sylphe
 Symbiogenese
 Symbiose
 Symbolik
@@ -16481,8 +16583,8 @@ Tatsache
 Tatsachenverdrehung
 Tattergreisin
 Tatze
-Tau
 Taubblindheit
+Taube
 Taubenblume
 Taubheit
 Täubin
@@ -16497,7 +16599,6 @@ Tauglichkeit
 Tauschbörse
 Täuscherei
 Täuschung
-Tausend
 Tautologie
 Taverne
 Taxe
@@ -16822,6 +16923,7 @@ Torlinie
 Torschlusspanik
 Torschussvorlage
 Torte
+Tortellini
 Tortenschlacht
 Tortilla
 Tortur
@@ -16868,6 +16970,7 @@ Tragödie
 Tragödin
 Tragweite
 Tragzeit
+Trainee
 Trainerin
 Traktion
 Traktoristin
@@ -17360,8 +17463,10 @@ Unbeweisbarkeit
 Unbildung
 Unbill
 Undankbarkeit
+Undezillion
 Undichtigkeit
 Undine
+Unducht
 Undurchsichtigkeit
 Unebenheit
 Unehre
@@ -17408,6 +17513,7 @@ Uni-Bib
 Uniform
 Uniformität
 Uniklinik
+Union
 Univerbation
 Universität
 Universitätsbibliothek
@@ -17683,7 +17789,6 @@ Venezianerin
 Venezolanerin
 Ventilation
 Ventilführung
-Venus
 Venusatmosphäre
 Venusfliegenfalle
 Verabredung
@@ -18198,6 +18303,7 @@ Vetternwirtschaft
 Vexillologie
 vGA
 VGA
+VGP
 VHS
 Vibration
 Vibrisse
@@ -18233,7 +18339,6 @@ Vierzig
 Vietnamesin
 Vietnamistik
 Vigintilliarde
-Vigintillion
 Vignette
 Villa
 Villegiatur
@@ -18258,7 +18363,6 @@ Virtuosität
 Virulenz
 Viruslast
 Virusmutante
-Visa
 Visage
 Visagistin
 Visastelle
@@ -18276,6 +18380,7 @@ Vizeadmiralin
 Vizemeisterschaft
 Vizepräsidentin
 Vizin
+VK
 Vogelbeere
 Vogelbeobachterin
 Vogelfalle
@@ -18290,7 +18395,6 @@ Vogelscheuche
 Vogelspinne
 Vogeltränke
 Vogtei
-Vokabel
 Vokalabstufung
 Vokü
 VoKü
@@ -18478,6 +18582,7 @@ Vulkanologie
 Vulva
 Vulvalippe
 Vuvuzela
+Waage
 Waagschale
 Waare
 Wabe
@@ -18517,7 +18622,6 @@ Wagenkolonne
 Wagnerianerin
 Wägung
 Wähe
-Wahl
 Wahlbeteiligung
 Wahlbetrügerin
 Wahlbroschüre
@@ -18753,11 +18857,11 @@ Wegwerfpackung
 Wegwerfspritze
 Wegwerfverpackung
 Wegzehrung
+Wehe
 Wehentätigkeit
 Wehmut
 Wehmuth
 Wehmutter
-Wehr
 Wehrdienstverweigerung
 Wehrhaftigkeit
 Wehrkraft
@@ -18807,6 +18911,7 @@ Weinstube
 Weintraube
 Weinwissenschaft
 Weise
+Weisel
 Weisheit
 Weissagung
 Weißbinderin
@@ -19005,6 +19110,7 @@ Wiele
 Wielesche
 Wienerin
 Wienerwurst
+Wiese
 Wiesenblume
 Wiesenwucherblume
 Wiesen-Wucherblume
@@ -19075,6 +19181,7 @@ Wirkung
 Wirkungsfähigkeit
 Wirkungslosigkeit
 Wirkungsweise
+Wirrsal
 Wirrwarr
 Wirthschaft
 Wirtin
@@ -19191,7 +19298,6 @@ Wucherin
 Wucherung
 Wucht
 Wühlmaus
-Wulst
 Wumme
 Wundauflage
 Wunde
@@ -19353,6 +19459,7 @@ Zeichnerin
 Zeichnung
 Zeile
 Zeilennummer
+Zeit
 Zeitangabe
 Zeitansage
 Zeitbeschränkung
@@ -19394,6 +19501,7 @@ Zeitzonendifferenz
 Zellbildung
 Zellbiologie
 Zelldifferenzierung
+Zelle
 Zellmembran
 Zellspannung
 Zellstruktur
@@ -19473,6 +19581,7 @@ Zierpflanze
 Ziese
 Ziffer
 Zigarette
+Zigarillo
 Zigarre
 Zigeunerin
 Ziggurat
@@ -19650,6 +19759,7 @@ Zungenblüte
 Zungenspitze
 Zungenwurst
 Zuordnung
+Zürbel
 Zürcherin
 Zurechtweisung
 Züricherin

@@ -27,7 +27,7 @@ func initWordTypeMap() {
 	wordTypeMap["de-adj"] = "adjective"
 	wordTypeMap["de-adv"] = "adverb"
 	wordTypeMap["de-cardinals"] = "number-cardinal"
-	wordTypeMap["de-conj"] = "conjunction"
+	// wordTypeMap["de-conj"] = "conjunction"
 	wordTypeMap["de-noun|f"] = "noun-die"
 	wordTypeMap["de-noun|m"] = "noun-der"
 	wordTypeMap["de-noun|n"] = "noun-das"
@@ -40,6 +40,11 @@ func initWordTypeMap() {
 func parseWord(word string, text string) string {
 	for typeName, typeCategory := range wordTypeMap {
 		if s.Contains(text, "{{"+typeName) {
+
+			if typeName == "de-adj" && s.Contains(text, "{{de-adj form of") {
+				return ""
+			}
+
 			return word + columnSeperator + typeCategory
 		}
 	}

@@ -45,7 +45,6 @@
 47-mal
 49-mal
 4-mal
-5.
 50-mal
 51-mal
 52-mal
@@ -75,20 +74,13 @@ abends
 abendwärts
 aber
 abermals
-abfällig
 abgesehen
 abhanden
-absatzweise
-abscheulich
-abschließend
-abschnittsweise
 abschnittweise
 abseits
 abseyts
-absichtslos
-absolut
+abwartend
 abwärts
-abwechselnd
 achtens
 achtern
 achtmal
@@ -104,17 +96,14 @@ achtzehnmal
 achtzehntens
 achtzigmal
 achtzigtausendmal
-ackerbaulich
 ad acta
 ad interim
 ainerseyts
-akkurat
 alias
 allda
 alldem
 alldieweil
 alle Jubeljahre
-allein
 alleine
 allemal
 allenfalls
@@ -132,7 +121,6 @@ allewege
 allgemach
 allhie
 allhier
-alljährlich
 allseits
 allüberall
 allwo
@@ -149,7 +137,6 @@ am Arsch
 am hellichten Tag
 am offenen Herzen
 am Tag
-an
 an Bord
 an die Seite
 an Sankt Nimmerlein
@@ -172,9 +159,8 @@ andertens
 anderwärts
 andrerseits
 aneinander
-anfänglich
 anfangs
-angelegentlich
+angeregt
 angst und bang
 angst und bange
 anitzo
@@ -183,11 +169,8 @@ annähernd
 anno
 ansatzweise
 anscheinend
-anschließend
 ansonsten
-anstandslos
 apropos
-ärgerlich
 arschlings
 ärschlings
 auch
@@ -212,15 +195,14 @@ auf Seite
 auf Teufel komm raus
 auf Teufel-komm-raus
 auf und ab
-auffallend
-auffällig
 aufs Neue
 aufwärts
+augenblicklich
+augenscheinlich
 aus dem Kopf
 aus Versehen
 auseinander
 ausfindig
-ausführlich
 ausgesprochen
 ausnahmsweise
 ausnehmend
@@ -230,8 +212,6 @@ außer Stand
 außer Stande
 außerdem
 außerhalb
-äußerlich
-außerordentlich
 außerorts
 äußerst
 außerstand
@@ -241,7 +221,6 @@ b. m.
 backbord
 baldestmöglich
 baldmöglichst
-bar
 barfuss
 bäuchlings
 bauchoben
@@ -268,7 +247,6 @@ beneben
 benebens
 benebenst
 bereits
-bereitwillig
 bergab
 bergan
 bergauf
@@ -277,7 +255,6 @@ bes.
 besonders
 bestenfalls
 bestens
-bestimmt
 betrüblicherweise
 beydemal
 beyderseyts
@@ -301,12 +278,12 @@ bißweylen
 bisweilen
 bisweylen
 bitte
+bitter
 bizarrerweise
 blindlings
 blöderweise
 blödsinnigerweise
 bloß
-böse
 br. m.
 brauchbar
 brevi manu
@@ -316,7 +293,6 @@ bspw.
 bzw.
 ca.
 charakteristischerweise
-chronisch
 circa
 d. h.
 da
@@ -375,19 +351,16 @@ deinentwegen
 deinerseits
 deinetwegen
 deintwegen
-dementsprechend
 demgegenüber
 demnach
 demnächst
 demütigst
 demzufolge
-denkend
 denn
 dennoch
 derart
 dereinst
 derhalben
-dermalen
 dermaßen
 derohalben
 derowegen
@@ -409,8 +382,6 @@ desshalb
 desswegen
 deswegen
 desweiteren
-deutlich
-dicht
 dicht auf den Fersen
 die Ecke
 die letzte Zeit
@@ -418,10 +389,8 @@ die Tage
 dienstags
 diesmal
 dieweil
-direkt
 dito
 doch
-doll
 donnerstags
 dort
 dorten
@@ -469,19 +438,19 @@ durch
 durch den Wind
 durch und durch
 durchaus
-durchgehend
 durchs
 durchweg
 durchwegs
 ebd.
 ebda.
-eben
 ebenda
 ebendort
 ebenfalls
 ebenso
+echt
 eh
 ehedem
+ehem.
 ehemals
 eher
 ehestens
@@ -489,9 +458,7 @@ ehrlicherweise
 eif
 eig
 eigenartigerweise
-eigenhändig
 eigens
-ein
 ein für alle Mal
 einerseits
 einerseyts
@@ -499,7 +466,6 @@ eines Nachts
 eines Tages
 einesteils
 einestheils
-einfach
 einfach so
 einfachheitshalber
 einfältigerweise
@@ -511,7 +477,6 @@ einigermaßen
 einmal
 eins
 einschließlich
-einschüchternd
 einst
 einstens
 einstweilen
@@ -524,28 +489,18 @@ einundvierzigmal
 einundvierzigstens
 einundzwanzigmal
 einundzwanzigstens
-einwandfrei
 einwärts
-einzig
-einzigartig
 elfmal
 elftens
 empor
 en gros
 en masse
-endlich
 entgegen
 entlang
-entschieden
-epidemiologisch
 erfreulicherweise
-ergänzend
 ergo
 erhobenen Hauptes
 erhobenen Haupts
-erneut
-ernsthaft
-erregt
 erst
 erst mal
 erst recht
@@ -555,7 +510,6 @@ erstens
 erstlich
 erstmal
 erstmals
-essenziell
 etc.
 etc. pp.
 etw.
@@ -571,19 +525,16 @@ eurentwegen
 eurerseits
 euretwegen
 eventualiter
+eventuell
 ever
 evtl.
-ewig
 ewigerweise
 ex cathedra
 ex nunc
 ex tunc
-explosionsartig
-extra
-fachlich
 fairerweise
-fallweise
 fälschlicherweise
+fassungslos
 fast
 fehl
 feiertags
@@ -594,7 +545,6 @@ fernd
 ferner
 fernt
 fert
-fleißig
 flugs
 flussab
 flussabwärts
@@ -602,17 +552,13 @@ flussauf
 flussaufwärts
 folgendermaßen
 folglich
-förmlich
 fort
 fortan
 forthin
 frei Haus
 freilich
 freitags
-freudig
 freundlicherweise
-frontal
-früher
 früher oder später
 frühestens
 frühmorgens
@@ -642,48 +588,35 @@ fürderhin
 füreinander
 fürwahr
 gang und gäbe
-gänzlich
-gar
 gar nicht
 gebietsweise
 gefälligst
 gegebenenfalls
 gegeneinander
-gegengleich
 gegenüber
 gehobenen Hauptes
-gekonnt
+gelegentlich
 gemein
 gemeinhin
-genau
 genau genommen
 genauso
 genauso gut
 genausogut
-generell
-genug
-genuin
 genung
+geografisch
 geradeaus
 geradewegs
 geradezu
-geräuschlos
 gerechterweise
-gerichtlich
-geringfügig
 gern
 gerne
 gestern
 gestern Nacht
-getrennt
-gewandt
 Gewehr bei Fuß
 gewissermaßen
-gewöhnlich
 gewöhnlicherweise
 gewohntermaßen
 ggf.
-gleich
 gleichentags
 gleichermaßen
 gleicherweise
@@ -697,16 +630,12 @@ gottseidank
 Gottseidank
 grad
 grade
-gräflich
 gratis
-grausam
-großartig
 großenteils
 großteils
 größtenteils
-großzügig
-grundsätzlich
 gruppenweise
+gut
 guten Glaubens
 guter Hoffnung
 hafenaus
@@ -716,15 +645,10 @@ halbwegs
 Hals über Kopf
 halt
 Hand in Hand
-harsch
-hart
 haste nicht gesehen
 haufenweise
-häufig
-hauptsächlich
 haussen
 heim
-heimtückisch
 heimwärts
 heinacht
 heint
@@ -801,9 +725,6 @@ hinüber
 hinunter
 hinweg
 hinzu
-historisch
-hoch
-hochkant
 höchlich
 höchstens
 höchstpersönlich
@@ -877,16 +798,12 @@ in Wirklichkeit
 in Zukunft
 indes
 indessen
-indirekt
-induktiv
 ineinander
 inklusive
 inne
 innen
 innerhalb
 innerorts
-ins Detail gehend
-ins Einzelne gehend
 insbesondere
 insbesondre
 insgeheim
@@ -938,7 +855,6 @@ jetzo
 jetzt
 jetzund
 jetzunder
-jeweilig
 jeweils
 jez
 jtzt
@@ -948,66 +864,49 @@ just for fun
 justament
 jz
 kalt
-katexochen
-käuflich
-kaufweise
 kaum
 kein Jota
 kein Wunder
 keinesfalls
 keineswegs
 keinmal
-klageweise
 klarerweise
 klassischerweise
 klugerweise
 kniefällig
-kolossal
 komischerweise
 komme was wolle
 komme, was da wolle
 komme, was wolle
-kontinental
 kopfüber
-kostenlos
 kreuz und quer
 kreuzweise
-kurz
 kurz ab
 kurzerhand
 kurzgesagt
 kurzum
-lange
 längs
 längst
-laufend
 lauthals
-lecker
 lediglich
 leewärts
+leicht
 leichtsinnigerweise
-leidenschaftlich
 leider
-leidlich
 leihweise
 letztemal
 letzten Endes
-letztendlich
 letztens
 letztlich
-leuchtend
 li.
 liebevoll
 links
 live
-locker
 locker vom Hocker
 löffelweise
-logisch
 logischerweise
 logo
 lustigerweise
-lustvoll
 luvwärts
 m ü. A.
 m. a. W.
@@ -1017,15 +916,12 @@ man
 mancherorts
 manchmal
 massenweise
-mau
 mechanisch
 meerwärts
-mega
 mehr
 mehr oder minder
 mehr oder weniger
 mehrenteils
-mehrheitlich
 mehrmals
 meinentwegen
 meinerseits
@@ -1037,16 +933,13 @@ meintwegen
 meist
 meistens
 meistenteils
-mengenmäßig
 merkwürdigerweise
 meuchlings
 mildiglich
 mindestens
-ministeriell
 minus
 mir nichts, dir nichts
 missbräuchlicherweise
-missverständlich
 mit
 mit Abstand
 mit angehaltenem Atem
@@ -1077,15 +970,11 @@ mittwochs
 mitunter
 möglicherweise
 möglichst
-monatelang
-monatlich
 montags
-moralisch
 morgen
 morgens
 morgenwärts
 morgn
-mühselig
 mütterlicherseits
 'n
 n. u. Z.
@@ -1103,16 +992,14 @@ nachhaus
 nachhause
 nachher
 nachmittags
-nachträglich
 nachts
 nachtsüber
+nahe
 näherungsweise
 nahezu
-nahtlos
 naiverweise
 namens
 näml.
-natürlich
 natürlicherweise
 'nauf
 'naus
@@ -1126,8 +1013,6 @@ ned
 net
 netto
 neuerdings
-neuerlich
-neugierig
 neulich
 neunhundertmal
 neunmal
@@ -1154,7 +1039,6 @@ nie
 nie im Leben
 nie und nimmer
 nieden
-nieder
 niederwärts
 niemals
 nimmer
@@ -1175,7 +1059,6 @@ nordwärts
 normalerweise
 not
 notfalls
-nötig
 nötigenfalls
 notwendigerweise
 nu
@@ -1194,8 +1077,7 @@ oben
 obenauf
 obendrein
 oberseits
-offenbar
-offensichtlich
+offen
 oft
 öfter
 öfteren
@@ -1211,56 +1093,39 @@ ohne Weiteres
 ohnedies
 ohnegleichen
 ohnehin
-öko
-ökologisch
 ostwärts
-oxidativ
 paarmal
-pachtweise
 paradoxerweise
 partout
-permanent
 persönlich
 peu à peu
-phänotypisch
 Pi mal Daumen
-plötzlich
 plus
 portionsweise
-potenziell
-prinzipiell
+praktisch
 privatim
-pro forma
 probeweise
 programmatisch
 quasi
-queer
-quer
 querbeet
 querfeldein
 r.
 radikalisch
 ran
-rasch
 rauf
 raus
 rd.
 realiter
-recht
 rechts
 rechtshin
-rechtzeitig
 reihenweise
-rein
 remis
 resp.
 respective
 respektive
-restlos
 retour
 rheinabwärts
 rheinaufwärts
-richtig
 richtigerweise
 rigoros
 rin
@@ -1275,30 +1140,25 @@ rückgängig machbar
 rücklings
 rückwärts
 rückzu
-ruhig
 rum
 rund um die Uhr
 rundum
 rundweg
 runter
-sacht
+safe
 sage und schreibe
 samstags
 samt
 samt und sonders
 scharenweise
 schätzungsweise
-schaurig
-scheibchenweise
-scheinbar
 schenkweise
+schichtweise
 schickimicki
 Schlag auf Schlag
 schlankerhand
 schlauerweise
-schlecht
 schlecht und recht
-schlechter
 schlechterdings
 schlechthin
 schleunigst
@@ -1306,16 +1166,15 @@ schlichtweg
 schließlich
 schlimmstenfalls
 schlussendlich
-schmachvoll
-schnell
 schnellstens
 schnurstracks
 schomma
 schon
-schön
 schon mal
 schonmal
+schrecklich
 Schritt für Schritt
+schüchtern
 schwerlich
 sechsmal
 sechstausendmal
@@ -1332,7 +1191,6 @@ sechzehntens
 sechzigmal
 sechzigtausendmal
 seewärts
-sehnsüchtig
 sehr
 seinentwegen
 seinerseits
@@ -1345,12 +1203,12 @@ seitwärts
 selbander
 selbdritt
 selbst
-selbstmitleidig
+selbstbewusst
+selten
 seltsamerweise
-sexuell
+sicher
 sicherheitshalber
 sicherlich
-sichtlich
 siebenmal
 siebentausendmal
 siebentens
@@ -1365,7 +1223,6 @@ siebtens
 siebzehnmal
 siebzehntens
 siebzigtausendmal
-sinnbildhaft
 sinnvollerweise
 so
 so bald wie möglich
@@ -1381,14 +1238,12 @@ sohin
 solange
 solcherart
 solchermaßen
-solidarisch
 somit
 sommers
 sonders
 sonnabends
 sonntags
 sonst
-sorglich
 soundso
 soviel
 sowieso
@@ -1398,55 +1253,43 @@ späterhin
 spätestens
 spätnachts
 sperrangelweit
-spiegelbildlich
-ständig
+sporadisch
 stantepe
 stapelweise
 stärkstens
 stattdessen
+steckbrieflich
 stehenden Fußes
 stellenweise
 stets
 steuerbord
 stiekum
 still
-stöchiometrisch
 stracks
-strategisch
-streng
 streng genommen
 strengstens
 stromab
 stromauf
-strukturell
 Stück für Stück
-stundenlang
 subito
 südwärts
 sui generis
 sukzessive
 summa summarum
-systematisch
-szintigrafisch
 szintigraphisch
 Tag und Nacht
 tagein tagaus
-tageweise
-täglich
 tags
 tagsüber
 talauswärts
 talwärts
+tatsächlich
 tausendmal
 teils
 theilweise
 themseaufwärts
-tollkühn
 törichterweise
-total
-traurig
 traurigerweise
-tropfenweise
 trotzdem
 trotzdessen
 trz
@@ -1454,7 +1297,6 @@ trzdem
 tunlichst
 turnusgemäß
 typischerweise
-typographisch
 u. a.
 u. Z.
 u.a.
@@ -1473,14 +1315,12 @@ u.a.
 überflüssigerweise
 überhaupt
 überhaupt nicht
+überlegt
 übermorgen
-überraschend
 überraschenderweise
-übertrieben
 überübermorgen
 überwärts
 üblicherweise
-übrigbleibend
 übrigens
 ueber
 um deinetwillen
@@ -1493,22 +1333,15 @@ um jeden Preis
 um meinetwillen
 um seinetwillen
 um und um
-umgehend
 umgekehrt
 umher
 umhin
 umsonst
-unabhängig
-unabsehbar
-unbedingt
 und ob
 und so weiter
 und zwar
 und, und, und
-unecht
-unerbittlich
 unfreundlicherweise
-ungehalten
 ungelogen
 ungerechterweise
 ungerechtfertigterweise
@@ -1518,7 +1351,6 @@ unglücklicherweise
 unhöflicherweise
 unisono
 unlängst
-unmerklich
 unnötigerweise
 unrealistischerweise
 unserentwegen
@@ -1532,7 +1364,6 @@ unsinnigerweise
 unsrentwegen
 unsrerseits
 unsretwegen
-unstet
 unten
 untenherum
 unter aller Sau
@@ -1543,18 +1374,13 @@ unter vier Augen
 unterdes
 unterdessen
 untereinander
-unterschiedlich
 unterseits
 unterwärts
 unterwegs
 untypischerweise
-unüberlegt
-unverfroren
 unversehens
 unverständlicherweise
-unwillkürlich
 unzulässigerweise
-üppig
 ur
 usw.
 v. a.
@@ -1563,22 +1389,17 @@ väterlicherseits
 verbotenerweise
 verdientermaßen
 verfickt nochmal
-verflixt
 vergebens
 vergleichsweise
-verhältnismäßig
 verhoffenlich
 verhoffentlich
 verkehrt herum
-verlässlich
 vernünftigerweise
-verschiedentlich
+versehentlich
 verso
 verständlicherweise
 versuchsweise
-versunken
 viel
-vieldeutig
 vielerorts
 vielleicht
 vielmals
@@ -1601,11 +1422,9 @@ vierzigtausendmal
 vllt
 vlt
 vmt
-voll
 volle Möhre
 volle Pulle
 vollends
-vollkommen
 von A bis Z
 von da an
 von einem Tag auf den anderen
@@ -1630,10 +1449,8 @@ vor Ort
 vorab
 voran
 voraus
-voraussichtlich
 vorderhand
 vorerst
-vorgeblich
 vorgestern
 vorher
 vorhero
@@ -1645,7 +1462,9 @@ vorn
 vorne
 vornehmlich
 vornherein
+vorsichtig
 vorsichtshalber
+vorsorglich
 vortrefflich
 vorüber
 vorvorgestern
@@ -1658,7 +1477,6 @@ vsl.
 vulgo
 währenddessen
 wahrlich
-wahrscheinlich
 waldaus
 waldein
 wallah
@@ -1669,7 +1487,6 @@ warum
 was
 was auch passiert
 was für
-weg
 weil.
 weiland
 weis
@@ -1687,14 +1504,12 @@ wenn Ostern und Pfingsten auf einen Tag fallen
 wenn Ostern und Weihnachten auf einen Tag fallen
 wenn überhaupt
 werktags
-wertend
 weshalb
 wessentwegen
 wesshalb
 westwärts
 weswegen
-widerlich
-widerwärtig
+widerwillig
 widrigenfalls
 wie
 wie der Teufel das Weihwasser
@@ -1766,6 +1581,7 @@ z. B.
 z. E.
 z. T.
 z.B.
+zärtlich
 zehnmal
 zehntausendmal
 zehntens
@@ -1773,14 +1589,12 @@ zeit jemandes Lebens
 zeitgleich
 zeitlebens
 zeitweise
-zentral
 zickzack
 ziemlich
 zigmal
 zirka
 zml
 zsm
-zu
 zu bunt
 zu dritt
 zu Fuß
@@ -1813,7 +1627,6 @@ zuletzt
 zum Beispiel
 zum Exempel
 zum Glück
-zum Steinerweichen
 zum Teil
 zumal
 zumeist
@@ -1829,15 +1642,12 @@ zur Seite
 zur Zeit
 zurecht
 zurück
-zurückhaltend
 zurzeit
 zusammen
-zusätzlich
 zusehends
 zustande
 zutage
 zutiefst
-zuverlässig
 zuviel
 zuvor
 zuweilen
@@ -1849,6 +1659,7 @@ zwanzigtausendmal
 zwar
 zweckmäßigerweise
 zweierlei
+zweifelsfrei
 zweifelsohne
 zweimal
 zweitausendmal
@@ -1864,7 +1675,6 @@ zweiundzwanzigmal
 zweiundzwanzigstens
 zwischen den Jahren
 zwischendurch
-zwischenzeitlich
 zwölfmal
 zwölftens
 zz.
