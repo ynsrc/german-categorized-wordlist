@@ -4,7 +4,8 @@ This folder contains Marvin's uncategorized wordlist and generated categorized w
 
 # Installing And Preparing Spacy NLP
 ```
-pip install spacy
+pip install -U pip setuptools wheel cupy-cuda12x
+pip install -U "spacy[cuda12x]"
 python -m spacy download de_core_news_md
 ```
 
@@ -12,13 +13,12 @@ python -m spacy download de_core_news_md
 
 ```python
 import spacy
+spacy.require_gpu()
 nlp = spacy.load("de_core_news_md")
 
 import de_core_news_md
+spacy.require_gpu()
 nlp = de_core_news_md.load()
-
-matching = 0
-mismatching = 0
 
 fin = open("marvin.txt", "r")
 fout = open("spacy-nlp-marvin.txt", "w")
